@@ -87,6 +87,7 @@ class gymPacMan_parallel_env:
             3: 3,
             4: 4,
         }
+        self.winner = None
 
 
     def reset(self, layout_file='None', enemieName = 'None'):
@@ -176,6 +177,23 @@ class gymPacMan_parallel_env:
             else:
                 rewards[self.agents[agentIndex]] = blue_reward
         terminations = self.check_termination()
+
+        if self.winner == "blue":
+            for agentIndex in range(len(self.agents)):
+                if agentIndex in [1, 3]:  # Blue team
+                    rewards[self.agents[agentIndex]] += 30
+                else:  # Red team
+                    rewards[self.agents[agentIndex]] -= 5
+        elif self.winner == "red":
+            for agentIndex in range(len(self.agents)):
+                if agentIndex in [0, 2]:  # Red team
+                    rewards[self.agents[agentIndex]] += 30
+                else:  # Blue team
+                    rewards[self.agents[agentIndex]] -= 5
+        elif self.winner == "draw":
+            for agentIndex in range(len(self.agents)):
+                rewards[self.agents[agentIndex]] += 0
+
         self.steps += 1
         return observations, rewards, terminations, {'legal_actions': {
                 self.agents[x]: [self.reversed_action_mapping[y] for y in self.game.state.getLegalActions(x)] for x in
@@ -250,10 +268,14 @@ class gymPacMan_parallel_env:
     def check_termination(self):
         if np.sum(self.game.state.getBlueFood().data) == 0:
             if self.game.state.getAgentState(0).numCarrying == 0 and self.game.state.getAgentState(2).numCarrying == 0:
+                self.winner = "red"  # Red team wins
                 return {agent: True for agent in self.agents}
         if np.sum(self.game.state.getRedFood().data) == 0:
             if self.game.state.getAgentState(1).numCarrying == 0 and self.game.state.getAgentState(3).numCarrying == 0:
+                self.winner = "blue"  # Blue team wins
                 return {agent: True for agent in self.agents}
         if self.steps >= self.length:
+            self.winner = "draw"  # Game ends in a draw
             return {agent: True for agent in self.agents}
+        self.winner = None  # Game is still ongoing
         return {agent: False for agent in self.agents}
