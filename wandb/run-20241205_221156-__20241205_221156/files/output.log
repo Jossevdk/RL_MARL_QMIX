@@ -2870,3 +2870,100 @@ Blue team starts
 5.429999999999959
 Episode reward: 10.859999999999918
 Red team starts
+9.45999999999991
+9.45999999999991
+Episode reward: 18.91999999999982
+Blue team starts
+16.43999999999996
+16.43999999999996
+Episode reward: 32.87999999999992
+Blue team starts
+8.29999999999992
+8.29999999999992
+Episode reward: 16.59999999999984
+Red team starts
+7.249999999999926
+7.249999999999926
+Episode reward: 14.499999999999853
+Red team starts
+12.55999999999993
+12.55999999999993
+Episode reward: 25.11999999999986
+Blue team starts
+7.969999999999915
+7.969999999999915
+Episode reward: 15.93999999999983
+Red team starts
+11.349999999999927
+11.349999999999927
+Episode reward: 22.699999999999854
+Red team starts
+8.039999999999944
+8.039999999999944
+Episode reward: 16.079999999999888
+Red team starts
+6.099999999999942
+6.099999999999942
+Episode reward: 12.199999999999884
+Episode 10/500, Average Reward: 18.58, Win Rate: 0.00
+Red team starts
+10.559999999999924
+10.559999999999924
+Episode reward: 21.11999999999985
+Blue team starts
+9.589999999999929
+9.589999999999929
+Episode reward: 19.179999999999858
+Blue team starts
+9.669999999999927
+9.669999999999927
+Episode reward: 19.339999999999854
+Blue team starts
+9.109999999999921
+9.109999999999921
+Episode reward: 18.219999999999843
+Blue team starts
+7.39999999999994
+7.39999999999994
+Episode reward: 14.79999999999988
+Red team starts
+11.129999999999907
+11.129999999999907
+Episode reward: 22.259999999999813
+Red team starts
+6.159999999999938
+6.159999999999938
+Episode reward: 12.319999999999876
+Blue team starts
+Running on the GPU
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+Blue team starts
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+Blue team starts
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Running on the GPU
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+Blue team starts
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 11, 14]
+Blue team starts
+/tmp/ipykernel_58429/2117080194.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+6.849999999999931
+6.849999999999931
+Episode reward: 13.699999999999863
+Blue team starts

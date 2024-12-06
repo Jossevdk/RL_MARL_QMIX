@@ -1,0 +1,60 @@
+None
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 11, 14]
+Blue team starts
+/tmp/ipykernel_1996/2117080194.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+/tmp/ipykernel_1996/2117080194.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+5.899999999999946
+5.899999999999946
+Episode reward: 11.799999999999892
+Red team starts
+5.609999999999956
+5.609999999999956
+Episode reward: 11.219999999999912
+Red team starts
+7.7099999999999485
+7.7099999999999485
+Episode reward: 15.419999999999897
+Blue team starts
+5.709999999999944
+5.709999999999944
+Episode reward: 11.419999999999888
+Blue team starts
+5.979999999999944
+5.979999999999944
+Episode reward: 11.959999999999887
+Red team starts
+5.909999999999945
+5.909999999999945
+Episode reward: 11.81999999999989
+Red team starts
+7.049999999999938
+7.049999999999938
+Episode reward: 14.099999999999875
+Blue team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 11, 14]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 11, 14]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 11, 14]
+Red team starts
+/tmp/ipykernel_1996/2117080194.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+Red team starts
+/tmp/ipykernel_1996/2117080194.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)

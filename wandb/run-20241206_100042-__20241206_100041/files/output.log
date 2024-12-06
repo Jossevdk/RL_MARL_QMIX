@@ -1,0 +1,138 @@
+None
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 11, 14]
+Red team starts
+/tmp/ipykernel_1087/2117080194.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+/tmp/ipykernel_1087/2117080194.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Running on the GPU
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 11, 14]
+Blue team starts
+/tmp/ipykernel_1087/2117080194.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

@@ -1,0 +1,3099 @@
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+tensor([[[1., 1., 1.,  ..., 1., 1., 1.],
+         [1., 0., 0.,  ..., 0., 0., 1.],
+         [1., 0., 1.,  ..., 1., 0., 1.],
+         ...,
+         [1., 0., 1.,  ..., 1., 0., 1.],
+         [1., 0., 0.,  ..., 0., 0., 1.],
+         [1., 1., 1.,  ..., 1., 1., 1.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        ...,
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 1., 0.],
+         [0., 0., 0.,  ..., 0., 1., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 1., 0.,  ..., 0., 0., 0.],
+         [0., 1., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]]])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+tensor([[[1., 1., 1.,  ..., 1., 1., 1.],
+         [1., 0., 0.,  ..., 0., 0., 1.],
+         [1., 0., 1.,  ..., 1., 0., 1.],
+         ...,
+         [1., 0., 1.,  ..., 1., 0., 1.],
+         [1., 0., 0.,  ..., 0., 0., 1.],
+         [1., 1., 1.,  ..., 1., 1., 1.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        ...,
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]]])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+tensor([[[1., 1., 1.,  ..., 1., 1., 1.],
+         [1., 0., 1.,  ..., 1., 0., 1.],
+         [1., 0., 1.,  ..., 1., 0., 1.],
+         ...,
+         [1., 0., 1.,  ..., 1., 0., 1.],
+         [1., 0., 1.,  ..., 1., 0., 1.],
+         [1., 1., 1.,  ..., 1., 1., 1.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 1., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        ...,
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 1., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 1., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]],
+
+        [[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]]])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+torch.Size([8, 7, 20])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+torch.Size([8, 11, 14])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+torch.Size([8, 20, 20])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 7, 10]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+[4, 8, 7, 10]
+
+KeyboardInterrupt
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+[4, 8, 7, 10]
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+
+/tmp/ipykernel_1083/3788756713.py:32: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+/tmp/ipykernel_1083/3788756713.py:32: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+3.9099999999999997
+3.9099999999999997
+Episode reward: 7.819999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 7, 10]
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_1083/755597191.py:32: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+0.6600000000000004
+0.6600000000000004
+Episode reward: 1.3200000000000007
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+0.7000000000000004
+0.7000000000000004
+Episode reward: 1.4000000000000008
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-4.46
+-4.46
+Episode reward: -8.92
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+-4.38
+-4.38
+Episode reward: -8.76
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.5800000000000003
+0.5800000000000003
+Episode reward: 1.1600000000000006
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.6200000000000003
+0.6200000000000003
+Episode reward: 1.2400000000000007
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+-4.51
+-4.51
+Episode reward: -9.02
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+0.8000000000000004
+0.8000000000000004
+Episode reward: 1.6000000000000008
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.5300000000000002
+-3.5300000000000002
+Episode reward: -7.0600000000000005
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.75
+-4.75
+Episode reward: -9.5
+Episode 10/20000, Average Reward: -3.65, Win Rate: 0.60
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 7, 10]
+boxCapture.lay
+AstarTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_1083/663547991.py:34: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+0.7900000000000004
+0.7900000000000004
+Episode reward: 1.5800000000000007
+smallCapture.lay
+baselineTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-2.250000000000001
+-2.250000000000001
+Episode reward: -4.500000000000002
+boxCapture.lay
+heuristicTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-4.6000000000000005
+-4.6000000000000005
+Episode reward: -9.200000000000001
+tinyCapture.lay
+randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.5400000000000003
+0.5400000000000003
+Episode reward: 1.0800000000000005
+boxCapture.lay
+approxQTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+0.8600000000000003
+0.8600000000000003
+Episode reward: 1.7200000000000006
+tinyCapture.lay
+randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+[4, 8, 7, 10]
+boxCapture.lay
+heuristicTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_1083/2048756652.py:34: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+0.6900000000000003
+0.6900000000000003
+Episode reward: 1.3800000000000006
+tinyCapture.lay
+randomTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 7, 10]
+win.lay
+approxQTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_1083/2048756652.py:34: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+[4, 8, 7, 10]
+tinyCapture.lay
+AstarTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_1083/2048756652.py:34: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+[4, 8, 7, 10]
+boxCapture.lay
+randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+/tmp/ipykernel_1083/787121807.py:34: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+torch.Size([2, 8, 7, 10])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 7, 10]
+verdedeging2.lay
+approxQTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_1083/787121807.py:34: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+1.7200000000000004
+1.7200000000000004
+Episode reward: 3.440000000000001
+boxCapture.lay
+baselineTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+torch.Size([2, 8, 7, 10])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 7, 10]
+win2.lay
+AstarTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_1083/2048756652.py:34: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+0.6500000000000004
+0.6500000000000004
+Episode reward: 1.3000000000000007
+win2.lay
+randomTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.6400000000000002
+0.6400000000000002
+Episode reward: 1.2800000000000005
+win2.lay
+heuristicTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+0.6900000000000003
+0.6900000000000003
+Episode reward: 1.3800000000000006
+defence.lay
+heuristicTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-4.680000000000001
+-4.680000000000001
+Episode reward: -9.360000000000001
+win.lay
+approxQTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.9500000000000006
+1.9500000000000006
+Episode reward: 3.9000000000000012
+defence.lay
+AstarTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+-4.65
+-4.65
+Episode reward: -9.3
+verdedeging2.lay
+approxQTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+0.8100000000000003
+0.8100000000000003
+Episode reward: 1.6200000000000006
+win2.lay
+heuristicTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+0.6200000000000003
+0.6200000000000003
+Episode reward: 1.2400000000000007
+win.lay
+randomTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.8200000000000003
+1.8200000000000003
+Episode reward: 3.6400000000000006
+tinyCapture.lay
+randomTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.6400000000000003
+0.6400000000000003
+Episode reward: 1.2800000000000007
+Episode 10/20000, Average Reward: -0.30, Win Rate: 0.20
+defence.lay
+heuristicTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-4.69
+-4.69
+Episode reward: -9.38
+boxCapture.lay
+AstarTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+-4.67
+-4.67
+Episode reward: -9.34
+tinyCapture.lay
+randomTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.45000000000000023
+0.45000000000000023
+Episode reward: 0.9000000000000005
+defence.lay
+baselineTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.81
+-3.81
+Episode reward: -7.62
+win2.lay
+heuristicTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+0.5200000000000002
+0.5200000000000002
+Episode reward: 1.0400000000000005
+win.lay
+approxQTeam.py
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+[4, 8, 7, 10]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 7, 10]
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+/tmp/ipykernel_1083/755597191.py:32: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+-4.55
+-4.55
+Episode reward: -9.1
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+NotSolutionFound
+NotSolutionFound
+-3.05
+-3.05
+Episode reward: -6.1
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.73
+-4.73
+Episode reward: -9.46
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-4.1899999999999995
+-4.1899999999999995
+Episode reward: -8.379999999999999
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+[4, 8, 7, 10]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+/tmp/ipykernel_1083/3589562723.py:32: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+-4.75
+-4.75
+Episode reward: -9.5
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+0.8900000000000006
+0.8900000000000006
+Episode reward: 1.7800000000000011
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.2600000000000007
+1.2600000000000007
+Episode reward: 2.5200000000000014
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 7, 10]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+/tmp/ipykernel_1083/3589562723.py:32: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+1.1000000000000008
+1.1000000000000008
+Episode reward: 2.2000000000000015
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.0900000000000005
+1.0900000000000005
+Episode reward: 2.180000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.2000000000000006
+1.2000000000000006
+Episode reward: 2.4000000000000012
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+1.460000000000001
+1.460000000000001
+Episode reward: 2.920000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.270000000000001
+1.270000000000001
+Episode reward: 2.540000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+-4.48
+-4.48
+Episode reward: -8.96
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+-4.33
+-4.33
+Episode reward: -8.66
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+1.0600000000000005
+1.0600000000000005
+Episode reward: 2.120000000000001
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.2300000000000009
+1.2300000000000009
+Episode reward: 2.4600000000000017
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.1800000000000008
+1.1800000000000008
+Episode reward: 2.3600000000000017
+Episode 10/20000, Average Reward: 0.16, Win Rate: 0.20
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.08
+-3.08
+Episode reward: -6.16
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+-4.17
+-4.17
+Episode reward: -8.34
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-4.46
+-4.46
+Episode reward: -8.92
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.2200000000000006
+1.2200000000000006
+Episode reward: 2.4400000000000013
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.8700000000000006
+0.8700000000000006
+Episode reward: 1.740000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.2499999999999929
+0.2499999999999929
+Episode reward: 0.4999999999999858
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.0900000000000005
+1.0900000000000005
+Episode reward: 2.180000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+0.7000000000000004
+0.7000000000000004
+Episode reward: 1.4000000000000008
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+-4.029999999999999
+-4.029999999999999
+Episode reward: -8.059999999999999
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.2100000000000006
+1.2100000000000006
+Episode reward: 2.4200000000000013
+Episode 20/20000, Average Reward: -2.08, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+0.7500000000000004
+0.7500000000000004
+Episode reward: 1.5000000000000009
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+0.8900000000000006
+0.8900000000000006
+Episode reward: 1.7800000000000011
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-4.08
+-4.08
+Episode reward: -8.16
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.4800000000000006
+1.4800000000000006
+Episode reward: 2.9600000000000013
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-4.35
+-4.35
+Episode reward: -8.7
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+NotSolutionFound
+-4.470000000000001
+-4.470000000000001
+Episode reward: -8.940000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+-4.25
+-4.25
+Episode reward: -8.5
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+2.7999999999999927
+2.7999999999999927
+Episode reward: 5.599999999999985
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+2.9299999999999944
+2.9299999999999944
+Episode reward: 5.859999999999989
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.7
+-4.7
+Episode reward: -9.4
+Episode 30/20000, Average Reward: -2.60, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-4.12
+-4.12
+Episode reward: -8.24
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+2.6199999999999974
+2.6199999999999974
+Episode reward: 5.239999999999995
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.58
+-4.58
+Episode reward: -9.16
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-4.43
+-4.43
+Episode reward: -8.86
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+-4.41
+-4.41
+Episode reward: -8.82
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.4300000000000008
+1.4300000000000008
+Episode reward: 2.8600000000000017
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-4.760000000000001
+-4.760000000000001
+Episode reward: -9.520000000000001
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.1400000000000008
+1.1400000000000008
+Episode reward: 2.2800000000000016
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.75
+-4.75
+Episode reward: -9.5
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.73
+-4.73
+Episode reward: -9.46
+Episode 40/20000, Average Reward: -5.32, Win Rate: 0.70
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.1500000000000008
+1.1500000000000008
+Episode reward: 2.3000000000000016
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+NotSolutionFound
+-4.28
+-4.28
+Episode reward: -8.56
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+0.9500000000000006
+0.9500000000000006
+Episode reward: 1.9000000000000012
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+0.8500000000000005
+0.8500000000000005
+Episode reward: 1.700000000000001
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+0.7200000000000004
+0.7200000000000004
+Episode reward: 1.4400000000000008
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.1000000000000008
+1.1000000000000008
+Episode reward: 2.2000000000000015
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+1.2300000000000009
+1.2300000000000009
+Episode reward: 2.4600000000000017
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.31
+-3.31
+Episode reward: -6.62
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-4.29
+-4.29
+Episode reward: -8.58
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.77
+-4.77
+Episode reward: -9.54
+Episode 50/20000, Average Reward: -2.13, Win Rate: 0.40
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+-4.840000000000001
+-4.840000000000001
+Episode reward: -9.680000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.430000000000001
+1.430000000000001
+Episode reward: 2.860000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+0.9600000000000006
+0.9600000000000006
+Episode reward: 1.9200000000000013
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+4.84999999999999
+4.84999999999999
+Episode reward: 9.69999999999998
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.1600000000000008
+1.1600000000000008
+Episode reward: 2.3200000000000016
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.0200000000000007
+1.0200000000000007
+Episode reward: 2.0400000000000014
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.2200000000000009
+1.2200000000000009
+Episode reward: 2.4400000000000017
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-4.73
+-4.73
+Episode reward: -9.46
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.1900000000000006
+1.1900000000000006
+Episode reward: 2.3800000000000012
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.3599999999999954
+2.3599999999999954
+Episode reward: 4.719999999999991
+Episode 60/20000, Average Reward: 0.92, Win Rate: 0.30
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+0.8000000000000005
+0.8000000000000005
+Episode reward: 1.600000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+0.8700000000000006
+0.8700000000000006
+Episode reward: 1.740000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+4.099999999999996
+4.099999999999996
+Episode reward: 8.199999999999992
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.1400000000000008
+1.1400000000000008
+Episode reward: 2.2800000000000016
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+0.9800000000000006
+0.9800000000000006
+Episode reward: 1.9600000000000013
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.8500000000000004
+0.8500000000000004
+Episode reward: 1.7000000000000008
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+-4.53
+-4.53
+Episode reward: -9.06
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.58
+-4.58
+Episode reward: -9.16
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.73
+-4.73
+Episode reward: -9.46
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+0.5300000000000002
+0.5300000000000002
+Episode reward: 1.0600000000000005
+Episode 70/20000, Average Reward: -0.91, Win Rate: 0.30
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.5000000000000002
+0.5000000000000002
+Episode reward: 1.0000000000000004
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+0.7000000000000004
+0.7000000000000004
+Episode reward: 1.4000000000000008
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+1.1900000000000008
+1.1900000000000008
+Episode reward: 2.3800000000000017
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.6000000000000003
+0.6000000000000003
+Episode reward: 1.2000000000000006
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-4.74
+-4.74
+Episode reward: -9.48
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+0.9700000000000006
+0.9700000000000006
+Episode reward: 1.9400000000000013
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+0.7600000000000005
+0.7600000000000005
+Episode reward: 1.520000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+0.9800000000000006
+0.9800000000000006
+Episode reward: 1.9600000000000013
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.57
+-4.57
+Episode reward: -9.14
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.9600000000000005
+0.9600000000000005
+Episode reward: 1.920000000000001
+Episode 80/20000, Average Reward: -0.53, Win Rate: 0.20
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+0.9100000000000006
+0.9100000000000006
+Episode reward: 1.8200000000000012
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+0.6600000000000004
+0.6600000000000004
+Episode reward: 1.3200000000000007
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.9400000000000006
+0.9400000000000006
+Episode reward: 1.8800000000000012
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-4.78
+-4.78
+Episode reward: -9.56
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.8100000000000005
+-4.8100000000000005
+Episode reward: -9.620000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.0200000000000007
+1.0200000000000007
+Episode reward: 2.0400000000000014
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.1300000000000008
+1.1300000000000008
+Episode reward: 2.2600000000000016
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+0.8600000000000005
+0.8600000000000005
+Episode reward: 1.720000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.71
+-4.71
+Episode reward: -9.42
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+0.8700000000000006
+0.8700000000000006
+Episode reward: 1.740000000000001
+Episode 90/20000, Average Reward: -1.58, Win Rate: 0.30
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+1.1100000000000008
+1.1100000000000008
+Episode reward: 2.2200000000000015
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.34
+-3.34
+Episode reward: -6.68
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+6.229999999999989
+6.229999999999989
+Episode reward: 12.459999999999978
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.48
+-3.48
+Episode reward: -6.96
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.82
+-4.82
+Episode reward: -9.64
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+-4.69
+-4.69
+Episode reward: -9.38
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.1200000000000008
+1.1200000000000008
+Episode reward: 2.2400000000000015
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+-4.51
+-4.51
+Episode reward: -9.02
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+1.1000000000000008
+1.1000000000000008
+Episode reward: 2.2000000000000015
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+3.2399999999999975
+3.2399999999999975
+Episode reward: 6.479999999999995
+Episode 100/20000, Average Reward: -1.61, Win Rate: 0.50
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-4.21
+-4.21
+Episode reward: -8.42
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+0.7100000000000004
+0.7100000000000004
+Episode reward: 1.4200000000000008
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-3.8499999999999996
+-3.8499999999999996
+Episode reward: -7.699999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.1000000000000008
+1.1000000000000008
+Episode reward: 2.2000000000000015
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+1.0700000000000007
+1.0700000000000007
+Episode reward: 2.1400000000000015
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.2000000000000008
+1.2000000000000008
+Episode reward: 2.4000000000000017
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.0500000000000007
+1.0500000000000007
+Episode reward: 2.1000000000000014
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+0.8100000000000005
+0.8100000000000005
+Episode reward: 1.620000000000001
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-4.359999999999999
+-4.359999999999999
+Episode reward: -8.719999999999999
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+3.559999999999998
+3.559999999999998
+Episode reward: 7.119999999999996
+Episode 110/20000, Average Reward: -0.58, Win Rate: 0.30
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.0300000000000007
+1.0300000000000007
+Episode reward: 2.0600000000000014
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+4.779999999999994
+4.779999999999994
+Episode reward: 9.559999999999988
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+-4.3
+-4.3
+Episode reward: -8.6
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-4.1899999999999995
+-4.1899999999999995
+Episode reward: -8.379999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.3600000000000003
+-3.3600000000000003
+Episode reward: -6.720000000000001
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.7900000000000005
+0.7900000000000005
+Episode reward: 1.580000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+0.7100000000000004
+0.7100000000000004
+Episode reward: 1.4200000000000008
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+Loaded layout from file
+Loaded layout from file
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+[4, 8, 7, 10]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_1083/3731469720.py:32: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+3.499999999999995
+3.499999999999995
+Episode reward: 6.99999999999999
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.63
+-4.63
+Episode reward: -9.26
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.8300000000000107
+-1.8300000000000107
+Episode reward: -3.6600000000000215
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-0.020000000000008455
+-0.020000000000008455
+Episode reward: -0.04000000000001691
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.359999999999988
+3.359999999999988
+Episode reward: 6.719999999999976
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.269999999999998
+2.269999999999998
+Episode reward: 4.539999999999996
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.8800000000000014
+1.8800000000000014
+Episode reward: 3.760000000000003
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.48
+-4.48
+Episode reward: -8.96
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7700000000000014
+1.7700000000000014
+Episode reward: 3.5400000000000027
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-2.6800000000000037
+-2.6800000000000037
+Episode reward: -5.360000000000007
+Episode 10/20000, Average Reward: -0.17, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+3.8199999999999754
+3.8199999999999754
+Episode reward: 7.639999999999951
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.65
+-4.65
+Episode reward: -9.3
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.78
+-4.78
+Episode reward: -9.56
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-2.010000000000002
+-2.010000000000002
+Episode reward: -4.020000000000004
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-0.19000000000000927
+-0.19000000000000927
+Episode reward: -0.38000000000001855
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.79
+-4.79
+Episode reward: -9.58
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-2.0800000000000023
+-2.0800000000000023
+Episode reward: -4.160000000000005
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.65
+-4.65
+Episode reward: -9.3
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.66
+-4.66
+Episode reward: -9.32
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+8.589999999999968
+8.589999999999968
+Episode reward: 17.179999999999936
+Episode 20/20000, Average Reward: -3.08, Win Rate: 0.90
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.2299999999999973
+2.2299999999999973
+Episode reward: 4.459999999999995
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0500000000000003
+2.0500000000000003
+Episode reward: 4.1000000000000005
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-2.6800000000000033
+-2.6800000000000033
+Episode reward: -5.3600000000000065
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.5899999999999976
+2.5899999999999976
+Episode reward: 5.179999999999995
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.060000000000001
+2.060000000000001
+Episode reward: 4.120000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.449999999999998
+2.449999999999998
+Episode reward: 4.899999999999996
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.6
+-4.6
+Episode reward: -9.2
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.59
+-4.59
+Episode reward: -9.18
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.379999999999998
+2.379999999999998
+Episode reward: 4.759999999999996
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.57
+-4.57
+Episode reward: -9.14
+Episode 30/20000, Average Reward: -0.54, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.6000000000000005
+-4.6000000000000005
+Episode reward: -9.200000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.65
+-4.65
+Episode reward: -9.3
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.7900000000000014
+1.7900000000000014
+Episode reward: 3.5800000000000027
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9500000000000015
+1.9500000000000015
+Episode reward: 3.900000000000003
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.06
+-3.06
+Episode reward: -6.12
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.6500000000000012
+1.6500000000000012
+Episode reward: 3.3000000000000025
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+-2.85
+-2.85
+Episode reward: -5.7
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.1399999999999992
+2.1399999999999992
+Episode reward: 4.2799999999999985
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.7900000000000014
+1.7900000000000014
+Episode reward: 3.5800000000000027
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.43
+-3.43
+Episode reward: -6.86
+Episode 40/20000, Average Reward: -1.85, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7400000000000013
+1.7400000000000013
+Episode reward: 3.4800000000000026
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+10.999999999999968
+10.999999999999968
+Episode reward: 21.999999999999936
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.959999999999985
+3.959999999999985
+Episode reward: 7.91999999999997
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.2799999999999985
+2.2799999999999985
+Episode reward: 4.559999999999997
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.5800000000000012
+1.5800000000000012
+Episode reward: 3.1600000000000024
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.8
+-3.8
+Episode reward: -7.6
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.79
+-4.79
+Episode reward: -9.58
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.74
+-4.74
+Episode reward: -9.48
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7300000000000013
+1.7300000000000013
+Episode reward: 3.4600000000000026
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-0.8300000000000045
+-0.8300000000000045
+Episode reward: -1.660000000000009
+Episode 50/20000, Average Reward: 1.63, Win Rate: 0.40
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+34.42999999999999
+34.42999999999999
+Episode reward: 68.85999999999999
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.0
+-4.0
+Episode reward: -8.0
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.010000000000001
+2.010000000000001
+Episode reward: 4.020000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.41
+-3.41
+Episode reward: -6.82
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.1599999999999735
+0.1599999999999735
+Episode reward: 0.319999999999947
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.06
+-4.06
+Episode reward: -8.12
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+33.290000000000006
+33.290000000000006
+Episode reward: 66.58000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.239999999999991
+4.239999999999991
+Episode reward: 8.479999999999983
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.519999999999982
+4.519999999999982
+Episode reward: 9.039999999999964
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.4899999999999882
+3.4899999999999882
+Episode reward: 6.9799999999999764
+Episode 60/20000, Average Reward: 14.13, Win Rate: 0.40
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0700000000000003
+2.0700000000000003
+Episode reward: 4.140000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-0.6100000000000145
+-0.6100000000000145
+Episode reward: -1.220000000000029
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.609999999999986
+4.609999999999986
+Episode reward: 9.219999999999972
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.51
+-4.51
+Episode reward: -9.02
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.419999999999999
+2.419999999999999
+Episode reward: 4.839999999999998
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+-4.43
+-4.43
+Episode reward: -8.86
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.4099999999999957
+2.4099999999999957
+Episode reward: 4.819999999999991
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.5400000000000023
+-1.5400000000000023
+Episode reward: -3.0800000000000045
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.05
+-3.05
+Episode reward: -6.1
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.3499999999999943
+3.3499999999999943
+Episode reward: 6.699999999999989
+Episode 70/20000, Average Reward: 0.14, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-2.1600000000000024
+-2.1600000000000024
+Episode reward: -4.320000000000005
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+7.909999999999983
+7.909999999999983
+Episode reward: 15.819999999999967
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+4.819999999999978
+4.819999999999978
+Episode reward: 9.639999999999956
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.6599999999999993
+-3.6599999999999993
+Episode reward: -7.3199999999999985
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.109999999999986
+4.109999999999986
+Episode reward: 8.219999999999972
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.36
+-3.36
+Episode reward: -6.72
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.5200000000000011
+1.5200000000000011
+Episode reward: 3.0400000000000023
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.589999999999999
+2.589999999999999
+Episode reward: 5.179999999999998
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-0.8900000000000103
+-0.8900000000000103
+Episode reward: -1.7800000000000207
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.3799999999999963
+2.3799999999999963
+Episode reward: 4.759999999999993
+Episode 80/20000, Average Reward: 2.65, Win Rate: 0.40
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+4.0399999999999885
+4.0399999999999885
+Episode reward: 8.079999999999977
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.670000000000001
+1.670000000000001
+Episode reward: 3.340000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.74
+-4.74
+Episode reward: -9.48
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.6000000000000012
+1.6000000000000012
+Episode reward: 3.2000000000000024
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.1799999999999997
+2.1799999999999997
+Episode reward: 4.359999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.019999999999993
+4.019999999999993
+Episode reward: 8.039999999999987
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.76
+-4.76
+Episode reward: -9.52
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-0.6100000000000056
+-0.6100000000000056
+Episode reward: -1.2200000000000113
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.459999999999992
+3.459999999999992
+Episode reward: 6.919999999999984
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-1.9800000000000084
+-1.9800000000000084
+Episode reward: -3.960000000000017
+Episode 90/20000, Average Reward: 0.98, Win Rate: 0.40
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.2199999999999998
+2.2199999999999998
+Episode reward: 4.4399999999999995
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.9299999999999997
+-3.9299999999999997
+Episode reward: -7.859999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.3599999999999857
+3.3599999999999857
+Episode reward: 6.719999999999971
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+7.5099999999999945
+7.5099999999999945
+Episode reward: 15.019999999999989
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.2699999999999982
+2.2699999999999982
+Episode reward: 4.5399999999999965
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.010000000000001
+2.010000000000001
+Episode reward: 4.020000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.5799999999999965
+2.5799999999999965
+Episode reward: 5.159999999999993
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.400000000000001
+1.400000000000001
+Episode reward: 2.800000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.13
+-3.13
+Episode reward: -6.26
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.369999999999986
+4.369999999999986
+Episode reward: 8.739999999999972
+Episode 100/20000, Average Reward: 3.73, Win Rate: 0.20
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.33
+-3.33
+Episode reward: -6.66
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.480000000000001
+1.480000000000001
+Episode reward: 2.960000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.5199999999999965
+2.5199999999999965
+Episode reward: 5.039999999999993
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.74
+-4.74
+Episode reward: -9.48
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.989999999999989
+2.989999999999989
+Episode reward: 5.979999999999978
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.609999999999999
+-4.609999999999999
+Episode reward: -9.219999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.76
+-4.76
+Episode reward: -9.52
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-2.080000000000001
+-2.080000000000001
+Episode reward: -4.160000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-2.0600000000000076
+-2.0600000000000076
+Episode reward: -4.120000000000015
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.7
+-4.7
+Episode reward: -9.4
+Episode 110/20000, Average Reward: -3.86, Win Rate: 0.70
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.1199999999999997
+2.1199999999999997
+Episode reward: 4.239999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.4099999999999993
+2.4099999999999993
+Episode reward: 4.8199999999999985
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.6599999999999997
+-3.6599999999999997
+Episode reward: -7.319999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.75
+-4.75
+Episode reward: -9.5
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.76
+-4.76
+Episode reward: -9.52
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+34.16
+34.16
+Episode reward: 68.32
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.57
+-4.57
+Episode reward: -9.14
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0700000000000003
+2.0700000000000003
+Episode reward: 4.140000000000001
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-0.22000000000000863
+-0.22000000000000863
+Episode reward: -0.44000000000001727
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.7700000000000005
+-4.7700000000000005
+Episode reward: -9.540000000000001
+Episode 120/20000, Average Reward: 3.61, Win Rate: 0.60
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.6899999999999995
+-4.6899999999999995
+Episode reward: -9.379999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.7200000000000013
+1.7200000000000013
+Episode reward: 3.4400000000000026
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.5400000000000011
+1.5400000000000011
+Episode reward: 3.0800000000000023
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.6000000000000019
+-1.6000000000000019
+Episode reward: -3.2000000000000037
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.829999999999984
+3.829999999999984
+Episode reward: 7.659999999999968
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.7999999999999994
+-3.7999999999999994
+Episode reward: -7.599999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.2799999999999927
+3.2799999999999927
+Episode reward: 6.559999999999985
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.479999999999995
+2.479999999999995
+Episode reward: 4.95999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.2800000000000002
+-3.2800000000000002
+Episode reward: -6.5600000000000005
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.78
+-4.78
+Episode reward: -9.56
+Episode 130/20000, Average Reward: -1.06, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.59999999999999
+3.59999999999999
+Episode reward: 7.19999999999998
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.7200000000000037
+-1.7200000000000037
+Episode reward: -3.4400000000000075
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.390000000000001
+1.390000000000001
+Episode reward: 2.780000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.8899999999999997
+2.8899999999999997
+Episode reward: 5.779999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.129999999999994
+3.129999999999994
+Episode reward: 6.259999999999988
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-0.1300000000000079
+-0.1300000000000079
+Episode reward: -0.2600000000000158
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.71
+-4.71
+Episode reward: -9.42
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.75
+-4.75
+Episode reward: -9.5
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9400000000000015
+1.9400000000000015
+Episode reward: 3.880000000000003
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+5.449999999999979
+5.449999999999979
+Episode reward: 10.899999999999958
+Episode 140/20000, Average Reward: 1.42, Win Rate: 0.40
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.419999999999996
+4.419999999999996
+Episode reward: 8.839999999999993
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.15
+2.15
+Episode reward: 4.3
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.750000000000001
+1.750000000000001
+Episode reward: 3.500000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.7700000000000005
+-4.7700000000000005
+Episode reward: -9.540000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.039999999999999
+-4.039999999999999
+Episode reward: -8.079999999999998
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.589999999999985
+4.589999999999985
+Episode reward: 9.17999999999997
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.04
+-3.04
+Episode reward: -6.08
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-2.96
+-2.96
+Episode reward: -5.92
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.1199999999999997
+2.1199999999999997
+Episode reward: 4.239999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9100000000000015
+1.9100000000000015
+Episode reward: 3.820000000000003
+Episode 150/20000, Average Reward: 0.43, Win Rate: 0.40
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.359999999999996
+4.359999999999996
+Episode reward: 8.719999999999992
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.3
+-3.3
+Episode reward: -6.6
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.7599999999999874
+3.7599999999999874
+Episode reward: 7.519999999999975
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.77
+-4.77
+Episode reward: -9.54
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7900000000000014
+1.7900000000000014
+Episode reward: 3.5800000000000027
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.0999999999999934
+3.0999999999999934
+Episode reward: 6.199999999999987
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7900000000000014
+1.7900000000000014
+Episode reward: 3.5800000000000027
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+7.269999999999969
+7.269999999999969
+Episode reward: 14.539999999999939
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.71
+-4.71
+Episode reward: -9.42
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.2399999999999993
+2.2399999999999993
+Episode reward: 4.479999999999999
+Episode 160/20000, Average Reward: 2.31, Win Rate: 0.30
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.4399999999999977
+3.4399999999999977
+Episode reward: 6.8799999999999955
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.34
+-4.34
+Episode reward: -8.68
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+33.809999999999995
+33.809999999999995
+Episode reward: 67.61999999999999
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+5.249999999999993
+5.249999999999993
+Episode reward: 10.499999999999986
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.5800000000000012
+1.5800000000000012
+Episode reward: 3.1600000000000024
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.4
+-3.4
+Episode reward: -6.8
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.5199999999999996
+-3.5199999999999996
+Episode reward: -7.039999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9600000000000015
+1.9600000000000015
+Episode reward: 3.920000000000003
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.66
+-4.66
+Episode reward: -9.32
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.81
+-4.81
+Episode reward: -9.62
+Episode 170/20000, Average Reward: 5.06, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.8700000000000014
+1.8700000000000014
+Episode reward: 3.740000000000003
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.8
+-4.8
+Episode reward: -9.6
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.62
+-4.62
+Episode reward: -9.24
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.919999999999999
+2.919999999999999
+Episode reward: 5.839999999999998
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+1.3999999999999861
+1.3999999999999861
+Episode reward: 2.7999999999999723
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-1.1600000000000033
+-1.1600000000000033
+Episode reward: -2.3200000000000065
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.920000000000001
+1.920000000000001
+Episode reward: 3.840000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.6500000000000012
+1.6500000000000012
+Episode reward: 3.3000000000000025
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.66
+-4.66
+Episode reward: -9.32
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.1200000000000006
+2.1200000000000006
+Episode reward: 4.240000000000001
+Episode 180/20000, Average Reward: -0.67, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.6500000000000012
+1.6500000000000012
+Episode reward: 3.3000000000000025
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.5200000000000011
+1.5200000000000011
+Episode reward: 3.0400000000000023
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.3499999999999996
+-3.3499999999999996
+Episode reward: -6.699999999999999
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.45
+-3.45
+Episode reward: -6.9
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.0800000000000005
+2.0800000000000005
+Episode reward: 4.160000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+9.569999999999979
+9.569999999999979
+Episode reward: 19.139999999999958
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.2100000000000026
+-1.2100000000000026
+Episode reward: -2.4200000000000053
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.2800000000000002
+-3.2800000000000002
+Episode reward: -6.5600000000000005
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.8199999999999976
+2.8199999999999976
+Episode reward: 5.639999999999995
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.62
+-4.62
+Episode reward: -9.24
+Episode 190/20000, Average Reward: 0.35, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.1900000000000004
+2.1900000000000004
+Episode reward: 4.380000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.0600000000000005
+2.0600000000000005
+Episode reward: 4.120000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.310000000000001
+1.310000000000001
+Episode reward: 2.620000000000002
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.5100000000000011
+1.5100000000000011
+Episode reward: 3.0200000000000022
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.73
+-4.73
+Episode reward: -9.46
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.450000000000001
+1.450000000000001
+Episode reward: 2.900000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.330000000000001
+1.330000000000001
+Episode reward: 2.660000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.829999999999989
+3.829999999999989
+Episode reward: 7.659999999999978
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.6900000000000013
+1.6900000000000013
+Episode reward: 3.3800000000000026
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.6600000000000095
+-1.6600000000000095
+Episode reward: -3.320000000000019
+Episode 200/20000, Average Reward: 1.80, Win Rate: 0.20
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.699999999999997
+2.699999999999997
+Episode reward: 5.399999999999994
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.0500000000000003
+2.0500000000000003
+Episode reward: 4.1000000000000005
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.3900000000000006
+-3.3900000000000006
+Episode reward: -6.780000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.5199999999999956
+2.5199999999999956
+Episode reward: 5.039999999999991
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.18
+-4.18
+Episode reward: -8.36
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-3.9099999999999993
+-3.9099999999999993
+Episode reward: -7.8199999999999985
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-3.2199999999999998
+-3.2199999999999998
+Episode reward: -6.4399999999999995
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+8.129999999999995
+8.129999999999995
+Episode reward: 16.25999999999999
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-4.76
+-4.76
+Episode reward: -9.52
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-4.8
+-4.8
+Episode reward: -9.6
+Episode 210/20000, Average Reward: -1.77, Win Rate: 0.60
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts

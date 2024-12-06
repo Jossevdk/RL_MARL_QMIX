@@ -1,0 +1,1008 @@
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+torch.Size([8, 20, 20])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+torch.Size([8, 10, 11])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+torch.Size([8, 11, 14])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+torch.Size([8, 7, 20])
+0
+Loaded random layout
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+torch.Size([8, 20, 20])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+torch.Size([8, 9, 10])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+torch.Size([8, 11, 17])
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_40901/3141172932.py:11: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent_q_networks[0].load_state_dict(torch.load('agent1_200.pth'))
+/tmp/ipykernel_40901/3141172932.py:12: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent_q_networks[1].load_state_dict(torch.load('agent3_200.pth'))
+[4, 8, 9, 10]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_40901/3141172932.py:11: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent_q_networks[0].load_state_dict(torch.load('agent1_200.pth'))
+/tmp/ipykernel_40901/3141172932.py:12: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent_q_networks[1].load_state_dict(torch.load('agent3_200.pth'))
+[4, 8, 9, 10]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+/tmp/ipykernel_40901/3203377512.py:32: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+-0.4099999999999999
+-0.4099999999999999
+Episode reward: -0.8199999999999998
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+/tmp/ipykernel_40901/3203377512.py:32: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+2.6899999999999955
+2.6899999999999955
+Episode reward: 5.379999999999991
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-0.44999999999999996
+-0.44999999999999996
+Episode reward: -0.8999999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.450000000000001
+1.450000000000001
+Episode reward: 2.900000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_40901/3141172932.py:11: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent_q_networks[0].load_state_dict(torch.load('agent1_200.pth'))
+/tmp/ipykernel_40901/3141172932.py:12: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent_q_networks[1].load_state_dict(torch.load('agent3_200.pth'))
+[4, 8, 9, 10]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_40901/3141172932.py:11: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent_q_networks[0].load_state_dict(torch.load('agent1_200.pth'))
+/tmp/ipykernel_40901/3141172932.py:12: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent_q_networks[1].load_state_dict(torch.load('agent3_200.pth'))
+[4, 8, 9, 10]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+/tmp/ipykernel_40901/1387194518.py:32: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+-1.83
+-1.83
+Episode reward: -3.66
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+1.8300000000000014
+1.8300000000000014
+Episode reward: 3.660000000000003
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-0.2699999999999998
+-0.2699999999999998
+Episode reward: -0.5399999999999996
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.310000000000001
+1.310000000000001
+Episode reward: 2.620000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-1.5599999999999998
+-1.5599999999999998
+Episode reward: -3.1199999999999997
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+4.319999999999989
+4.319999999999989
+Episode reward: 8.639999999999977
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.8999999999999915
+2.8999999999999915
+Episode reward: 5.799999999999983
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.2400000000000009
+1.2400000000000009
+Episode reward: 2.4800000000000018
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.7500000000000013
+1.7500000000000013
+Episode reward: 3.5000000000000027
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+2.3699999999999974
+2.3699999999999974
+Episode reward: 4.739999999999995
+Episode 10/20000, Average Reward: 2.41, Win Rate: 0.30
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-1.83
+-1.83
+Episode reward: -3.66
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.6100000000000012
+1.6100000000000012
+Episode reward: 3.2200000000000024
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+2.5999999999999943
+2.5999999999999943
+Episode reward: 5.199999999999989
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.1799999999999993
+2.1799999999999993
+Episode reward: 4.3599999999999985
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+2.2499999999999973
+2.2499999999999973
+Episode reward: 4.499999999999995
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.5699999999999998
+-1.5699999999999998
+Episode reward: -3.1399999999999997
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+2.3699999999999966
+2.3699999999999966
+Episode reward: 4.739999999999993
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-1.77
+-1.77
+Episode reward: -3.54
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+2.4199999999999973
+2.4199999999999973
+Episode reward: 4.8399999999999945
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-0.1699999999999997
+-0.1699999999999997
+Episode reward: -0.3399999999999994
+Episode 20/20000, Average Reward: 1.62, Win Rate: 0.40
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-1.63
+-1.63
+Episode reward: -3.26
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.8900000000000012
+1.8900000000000012
+Episode reward: 3.7800000000000025
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+8.70999999999997
+8.70999999999997
+Episode reward: 17.41999999999994
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.71
+-1.71
+Episode reward: -3.42
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-0.6999999999999991
+-0.6999999999999991
+Episode reward: -1.3999999999999981
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+1.9500000000000013
+1.9500000000000013
+Episode reward: 3.9000000000000026
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-1.5799999999999998
+-1.5799999999999998
+Episode reward: -3.1599999999999997
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.5100000000000011
+1.5100000000000011
+Episode reward: 3.0200000000000022
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.0000000000000007
+1.0000000000000007
+Episode reward: 2.0000000000000013
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.9200000000000015
+1.9200000000000015
+Episode reward: 3.840000000000003
+Episode 30/20000, Average Reward: 2.27, Win Rate: 0.40
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.8200000000000005
+0.8200000000000005
+Episode reward: 1.640000000000001
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.9899999999999998
+2.9899999999999998
+Episode reward: 5.9799999999999995
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-1.5999999999999999
+-1.5999999999999999
+Episode reward: -3.1999999999999997
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-0.20999999999999974
+-0.20999999999999974
+Episode reward: -0.4199999999999995
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-1.68
+-1.68
+Episode reward: -3.36
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+1.340000000000001
+1.340000000000001
+Episode reward: 2.680000000000002
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.9800000000000006
+0.9800000000000006
+Episode reward: 1.9600000000000013
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+1.1200000000000008
+1.1200000000000008
+Episode reward: 2.2400000000000015
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.0900000000000007
+1.0900000000000007
+Episode reward: 2.1800000000000015
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.0500000000000007
+1.0500000000000007
+Episode reward: 2.1000000000000014
+Episode 40/20000, Average Reward: 1.18, Win Rate: 0.30
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+10.27999999999998
+10.27999999999998
+Episode reward: 20.55999999999996
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.2100000000000009
+1.2100000000000009
+Episode reward: 2.4200000000000017
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+1.600000000000001
+1.600000000000001
+Episode reward: 3.200000000000002
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.3500000000000008
+1.3500000000000008
+Episode reward: 2.7000000000000015
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-1.81
+-1.81
+Episode reward: -3.62
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-1.65
+-1.65
+Episode reward: -3.3
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-1.8399999999999999
+-1.8399999999999999
+Episode reward: -3.6799999999999997
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-1.77
+-1.77
+Episode reward: -3.54
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.74
+-1.74
+Episode reward: -3.48
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.390000000000001
+1.390000000000001
+Episode reward: 2.780000000000002
+Episode 50/20000, Average Reward: 1.40, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-0.2699999999999987
+-0.2699999999999987
+Episode reward: -0.5399999999999974
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.1999999999999984
+2.1999999999999984
+Episode reward: 4.399999999999997
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+3.4499999999999877
+3.4499999999999877
+Episode reward: 6.8999999999999755
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+5.9599999999999875
+5.9599999999999875
+Episode reward: 11.919999999999975
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.5999999999999999
+-1.5999999999999999
+Episode reward: -3.1999999999999997
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.06
+2.06
+Episode reward: 4.12
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-1.5599999999999998
+-1.5599999999999998
+Episode reward: -3.1199999999999997
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+2.3499999999999956
+2.3499999999999956
+Episode reward: 4.699999999999991
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+2.249999999999997
+2.249999999999997
+Episode reward: 4.499999999999994
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+1.3399999999999956
+1.3399999999999956
+Episode reward: 2.6799999999999913
+Episode 60/20000, Average Reward: 3.24, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.9900000000000015
+1.9900000000000015
+Episode reward: 3.980000000000003
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+-1.0499999999999994
+-1.0499999999999994
+Episode reward: -2.0999999999999988
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+1.9800000000000015
+1.9800000000000015
+Episode reward: 3.960000000000003
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+4.839999999999974
+4.839999999999974
+Episode reward: 9.679999999999948
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-0.9999999999999993
+-0.9999999999999993
+Episode reward: -1.9999999999999987
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.7400000000000013
+1.7400000000000013
+Episode reward: 3.4800000000000026
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+-1.73
+-1.73
+Episode reward: -3.46
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-1.77
+-1.77
+Episode reward: -3.54
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+-1.7
+-1.7
+Episode reward: -3.4
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+2.040000000000001
+2.040000000000001
+Episode reward: 4.080000000000002
+Episode 70/20000, Average Reward: 1.07, Win Rate: 0.50
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+2.1199999999999997
+2.1199999999999997
+Episode reward: 4.239999999999999
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+2.1199999999999988
+2.1199999999999988
+Episode reward: 4.2399999999999975
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.3699999999999957
+2.3699999999999957
+Episode reward: 4.739999999999991
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.1
+2.1
+Episode reward: 4.2
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.1899999999999977
+2.1899999999999977
+Episode reward: 4.3799999999999955
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+11.159999999999966
+11.159999999999966
+Episode reward: 22.319999999999933
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.0200000000000014
+2.0200000000000014
+Episode reward: 4.040000000000003
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.5999999999999999
+-1.5999999999999999
+Episode reward: -3.1999999999999997
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7800000000000011
+1.7800000000000011
+Episode reward: 3.5600000000000023
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+/tmp/ipykernel_40901/3626491071.py:11: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent_q_networks[0].load_state_dict(torch.load('agent1_200.pth'))
+/tmp/ipykernel_40901/3626491071.py:12: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent_q_networks[1].load_state_dict(torch.load('agent3_200.pth'))
+[4, 8, 9, 10]
+/tmp/ipykernel_40901/3626491071.py:22: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  mixing_network.load_state_dict(torch.load('mix_75.pth'))
+Red team starts
+/tmp/ipykernel_40901/3648471298.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+32.88
+32.88
+Episode reward: 65.76
+Blue team starts
+2.2699999999999982
+2.2699999999999982
+Episode reward: 4.5399999999999965
+Red team starts
+2.479999999999999
+2.479999999999999
+Episode reward: 4.959999999999998
+Blue team starts
+1.1400000000000006
+1.1400000000000006
+Episode reward: 2.280000000000001
+Blue team starts
+0.6300000000000003
+0.6300000000000003
+Episode reward: 1.2600000000000007
+Blue team starts
+1.5000000000000007
+1.5000000000000007
+Episode reward: 3.0000000000000013
+Red team starts
+1.3200000000000007
+1.3200000000000007
+Episode reward: 2.6400000000000015
+Blue team starts
+1.5500000000000007
+1.5500000000000007
+Episode reward: 3.1000000000000014
+Red team starts
+Blue team starts
+/tmp/ipykernel_40901/3648471298.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/home/seppe/miniconda3/lib/python3.11/site-packages/torch/nn/modules/transformer.py:379: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.self_attn.batch_first was not True(use batch_first for better inference performance)
+  warnings.warn(
+[4, 8, 9, 10]
+/tmp/ipykernel_40901/2077838018.py:20: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  mixing_network.load_state_dict(torch.load('mix_75.pth'))
+Red team starts
+/tmp/ipykernel_40901/3648471298.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+1.650000000000001
+1.650000000000001
+Episode reward: 3.300000000000002
+Red team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/home/seppe/miniconda3/lib/python3.11/site-packages/torch/nn/modules/transformer.py:379: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.self_attn.batch_first was not True(use batch_first for better inference performance)
+  warnings.warn(
+[4, 8, 9, 10]
+/tmp/ipykernel_40901/2077838018.py:20: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  mixing_network.load_state_dict(torch.load('mix_75.pth'))
+Blue team starts
+/tmp/ipykernel_40901/3648471298.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+33.9
+33.9
+Episode reward: 67.8
+Blue team starts
+2.469999999999998
+2.469999999999998
+Episode reward: 4.939999999999996
+Red team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+/home/seppe/miniconda3/lib/python3.11/site-packages/torch/nn/modules/transformer.py:379: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.self_attn.batch_first was not True(use batch_first for better inference performance)
+  warnings.warn(
+[4, 8, 9, 10]
+/tmp/ipykernel_40901/2077838018.py:20: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  mixing_network.load_state_dict(torch.load('mix_75.pth'))
+Red team starts
+/tmp/ipykernel_40901/3648471298.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+1.840000000000001
+1.840000000000001
+Episode reward: 3.680000000000002
+Blue team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+[4, 8, 9, 10]
+/tmp/ipykernel_40901/2077838018.py:20: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  mixing_network.load_state_dict(torch.load('mix_75.pth'))
+Red team starts
+/tmp/ipykernel_40901/3648471298.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+2.8999999999999977
+2.8999999999999977
+Episode reward: 5.799999999999995
+Red team starts
+2.2800000000000007
+2.2800000000000007
+Episode reward: 4.560000000000001
+Blue team starts
+1.1800000000000006
+1.1800000000000006
+Episode reward: 2.360000000000001
+Red team starts
+2.239999999999997
+2.239999999999997
+Episode reward: 4.479999999999994
+Red team starts
+2.920000000000001
+2.920000000000001
+Episode reward: 5.840000000000002
+Red team starts
+0.9600000000000006
+0.9600000000000006
+Episode reward: 1.9200000000000013
+Blue team starts
+0.6800000000000004
+0.6800000000000004
+Episode reward: 1.3600000000000008
+Red team starts
+0.8900000000000005
+0.8900000000000005
+Episode reward: 1.780000000000001
+Red team starts
+1.9300000000000006
+1.9300000000000006
+Episode reward: 3.860000000000001
+Red team starts
+0.5600000000000003
+0.5600000000000003
+Episode reward: 1.1200000000000006
+Episode 10/20000, Average Reward: 3.31, Win Rate: 0.00
+Blue team starts
+0.5600000000000003
+0.5600000000000003
+Episode reward: 1.1200000000000006
+Blue team starts
+0.38000000000000017
+0.38000000000000017
+Episode reward: 0.7600000000000003
+Red team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 9, 10]
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+[4, 8, 9, 10]
+Red team starts
+/tmp/ipykernel_40901/3648471298.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+0.7300000000000002
+0.7300000000000002
+Episode reward: 1.4600000000000004
+Blue team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+[4, 8, 9, 10]
+Blue team starts
+/tmp/ipykernel_40901/3648471298.py:28: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+0.7600000000000005
+0.7600000000000005
+Episode reward: 1.520000000000001
+Blue team starts
+0.6100000000000002
+0.6100000000000002
+Episode reward: 1.2200000000000004
+Red team starts
+0.5900000000000003
+0.5900000000000003
+Episode reward: 1.1800000000000006
+Blue team starts
+0.9200000000000004
+0.9200000000000004
+Episode reward: 1.8400000000000007
+Red team starts
+0.8300000000000005
+0.8300000000000005
+Episode reward: 1.660000000000001
+Blue team starts
+0.6000000000000003
+0.6000000000000003
+Episode reward: 1.2000000000000006
+Blue team starts
+0.30000000000000016
+0.30000000000000016
+Episode reward: 0.6000000000000003
+Red team starts
+0.4000000000000002
+0.4000000000000002
+Episode reward: 0.8000000000000004
+Red team starts
+0.33
+0.33
+Episode reward: 0.66
+Blue team starts
+0.19
+0.19
+Episode reward: 0.38
+Episode 10/20000, Average Reward: 1.11, Win Rate: 0.00
+Red team starts
+0.19
+0.19
+Episode reward: 0.38
+Red team starts
+0.22000000000000006
+0.22000000000000006
+Episode reward: 0.4400000000000001
+Red team starts
+0.23000000000000007
+0.23000000000000007
+Episode reward: 0.46000000000000013
+Blue team starts
+0.11
+0.11
+Episode reward: 0.22
+Red team starts
+0.17
+0.17
+Episode reward: 0.34
+Red team starts
+0.5100000000000002
+0.5100000000000002
+Episode reward: 1.0200000000000005
+Red team starts
+0.6900000000000004
+0.6900000000000004
+Episode reward: 1.3800000000000008
+Red team starts
+0.7400000000000004
+0.7400000000000004
+Episode reward: 1.4800000000000009
+Red team starts
+0.6600000000000004
+0.6600000000000004
+Episode reward: 1.3200000000000007
+Red team starts
+0.7400000000000004
+0.7400000000000004
+Episode reward: 1.4800000000000009
+Episode 20/20000, Average Reward: 0.85, Win Rate: 0.00
+Blue team starts
+0.6800000000000004
+0.6800000000000004
+Episode reward: 1.3600000000000008
+Blue team starts
+1.9200000000000006
+1.9200000000000006
+Episode reward: 3.840000000000001
+Red team starts
+0.6800000000000004
+0.6800000000000004
+Episode reward: 1.3600000000000008
+Red team starts
+0.7100000000000004
+0.7100000000000004
+Episode reward: 1.4200000000000008
+Red team starts
+0.6900000000000004
+0.6900000000000004
+Episode reward: 1.3800000000000008
+Blue team starts
+0.7000000000000004
+0.7000000000000004
+Episode reward: 1.4000000000000008
+Blue team starts
+0.7200000000000004
+0.7200000000000004
+Episode reward: 1.4400000000000008
+Blue team starts
+0.6700000000000004
+0.6700000000000004
+Episode reward: 1.3400000000000007
+Blue team starts
+0.7100000000000004
+0.7100000000000004
+Episode reward: 1.4200000000000008
+Blue team starts
+0.5300000000000002
+0.5300000000000002
+Episode reward: 1.0600000000000005
+Episode 30/20000, Average Reward: 1.60, Win Rate: 0.00
+Red team starts
+0.49000000000000027
+0.49000000000000027
+Episode reward: 0.9800000000000005
+Blue team starts
+0.5600000000000003
+0.5600000000000003
+Episode reward: 1.1200000000000006
+Blue team starts
+0.5000000000000002
+0.5000000000000002
+Episode reward: 1.0000000000000004
+Red team starts
+0.5200000000000002
+0.5200000000000002
+Episode reward: 1.0400000000000005
+Blue team starts
+0.5100000000000002
+0.5100000000000002
+Episode reward: 1.0200000000000005
+Red team starts
