@@ -67,3 +67,3763 @@ enemy: randomTeam.py
 Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
 Arguments: {}
 Blue team starts
+1.6400000000000012
+1.6400000000000012
+Episode reward: 3.2800000000000025
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+6.419999999999995
+6.419999999999995
+Episode reward: 12.83999999999999
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.079999999999993
+3.079999999999993
+Episode reward: 6.159999999999986
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.559999999999996
+2.559999999999996
+Episode reward: 5.119999999999992
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.8599999999999954
+2.8599999999999954
+Episode reward: 5.719999999999991
+Episode 10/800, Average Reward: 5.72, Win Rate: 0.20
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.8799999999999937
+2.8799999999999937
+Episode reward: 5.759999999999987
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.589999999999996
+2.589999999999996
+Episode reward: 5.179999999999992
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.929999999999992
+2.929999999999992
+Episode reward: 5.859999999999984
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.829999999999991
+4.829999999999991
+Episode reward: 9.659999999999982
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.8299999999999925
+2.8299999999999925
+Episode reward: 5.659999999999985
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.179999999999993
+3.179999999999993
+Episode reward: 6.359999999999986
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.36000000000000004
+0.36000000000000004
+Episode reward: 0.7200000000000001
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.679999999999993
+2.679999999999993
+Episode reward: 5.359999999999986
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+NotSolutionFound
+2.08
+2.08
+Episode reward: 4.16
+enemy: AstarTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.589999999999996
+2.589999999999996
+Episode reward: 5.179999999999992
+Episode 20/800, Average Reward: 5.39, Win Rate: 0.20
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+1.6000000000000012
+1.6000000000000012
+Episode reward: 3.2000000000000024
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.429999999999999
+2.429999999999999
+Episode reward: 4.859999999999998
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.529999999999998
+2.529999999999998
+Episode reward: 5.059999999999996
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.5499999999999927
+2.5499999999999927
+Episode reward: 5.099999999999985
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+2.4599999999999973
+2.4599999999999973
+Episode reward: 4.919999999999995
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.0099999999999922
+3.0099999999999922
+Episode reward: 6.0199999999999845
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.429999999999996
+2.429999999999996
+Episode reward: 4.859999999999992
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+1.6900000000000013
+1.6900000000000013
+Episode reward: 3.3800000000000026
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.5899999999999967
+2.5899999999999967
+Episode reward: 5.1799999999999935
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.679999999999995
+2.679999999999995
+Episode reward: 5.35999999999999
+Episode 30/800, Average Reward: 4.79, Win Rate: 0.20
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.709999999999994
+4.709999999999994
+Episode reward: 9.419999999999987
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.569999999999994
+2.569999999999994
+Episode reward: 5.139999999999988
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.3000000000000001
+0.3000000000000001
+Episode reward: 0.6000000000000002
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.6499999999999964
+2.6499999999999964
+Episode reward: 5.299999999999993
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.5499999999999963
+2.5499999999999963
+Episode reward: 5.0999999999999925
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.4999999999999964
+2.4999999999999964
+Episode reward: 4.999999999999993
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.4999999999999964
+2.4999999999999964
+Episode reward: 4.999999999999993
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.8299999999999943
+2.8299999999999943
+Episode reward: 5.659999999999989
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.3399999999999976
+2.3399999999999976
+Episode reward: 4.679999999999995
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+1.5500000000000012
+1.5500000000000012
+Episode reward: 3.1000000000000023
+Episode 40/800, Average Reward: 4.90, Win Rate: 0.20
+enemy: AstarTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.3199999999999985
+2.3199999999999985
+Episode reward: 4.639999999999997
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+1.7300000000000013
+1.7300000000000013
+Episode reward: 3.4600000000000026
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+2.0100000000000016
+2.0100000000000016
+Episode reward: 4.020000000000003
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0400000000000005
+2.0400000000000005
+Episode reward: 4.080000000000001
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0400000000000014
+2.0400000000000014
+Episode reward: 4.080000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.719999999999995
+2.719999999999995
+Episode reward: 5.43999999999999
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+2.419999999999997
+2.419999999999997
+Episode reward: 4.839999999999994
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.1399999999999997
+2.1399999999999997
+Episode reward: 4.279999999999999
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.4299999999999957
+2.4299999999999957
+Episode reward: 4.859999999999991
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+3.6599999999999855
+3.6599999999999855
+Episode reward: 7.319999999999971
+Episode 50/800, Average Reward: 4.70, Win Rate: 0.10
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.19
+2.19
+Episode reward: 4.38
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.3599999999999977
+2.3599999999999977
+Episode reward: 4.719999999999995
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.1699999999999986
+2.1699999999999986
+Episode reward: 4.339999999999997
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.3999999999999972
+2.3999999999999972
+Episode reward: 4.7999999999999945
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.309999999999997
+2.309999999999997
+Episode reward: 4.619999999999994
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.5699999999999963
+2.5699999999999963
+Episode reward: 5.139999999999993
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.42000000000000015
+0.42000000000000015
+Episode reward: 0.8400000000000003
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.8299999999999943
+2.8299999999999943
+Episode reward: 5.659999999999989
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.8600000000000014
+1.8600000000000014
+Episode reward: 3.720000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.279999999999997
+2.279999999999997
+Episode reward: 4.559999999999994
+Episode 60/800, Average Reward: 4.28, Win Rate: 0.10
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.2699999999999982
+2.2699999999999982
+Episode reward: 4.5399999999999965
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.3400000000000001
+0.3400000000000001
+Episode reward: 0.6800000000000002
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.6099999999999968
+2.6099999999999968
+Episode reward: 5.2199999999999935
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+2.7299999999999964
+2.7299999999999964
+Episode reward: 5.459999999999993
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0400000000000005
+2.0400000000000005
+Episode reward: 4.080000000000001
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+2.4799999999999964
+2.4799999999999964
+Episode reward: 4.959999999999993
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.1000000000000005
+2.1000000000000005
+Episode reward: 4.200000000000001
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.1200000000000006
+2.1200000000000006
+Episode reward: 4.240000000000001
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.8600000000000014
+1.8600000000000014
+Episode reward: 3.720000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.539999999999998
+2.539999999999998
+Episode reward: 5.079999999999996
+Episode 70/800, Average Reward: 4.22, Win Rate: 0.10
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9500000000000015
+1.9500000000000015
+Episode reward: 3.900000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.1799999999999984
+2.1799999999999984
+Episode reward: 4.359999999999997
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/MCTSTeam.py
+Arguments: {}
+Blue team starts
+index 0, action West, depth 128
+index 2, action West, depth 123
+index 0, action West, depth 125
+index 2, action West, depth 125
+index 0, action East, depth 123
+index 2, action West, depth 127
+index 0, action West, depth 126
+index 2, action East, depth 124
+index 0, action East, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 123
+index 2, action East, depth 123
+index 0, action West, depth 124
+index 2, action East, depth 125
+index 0, action West, depth 125
+index 2, action West, depth 124
+index 0, action West, depth 125
+index 2, action West, depth 127
+index 0, action West, depth 126
+index 2, action West, depth 124
+index 0, action East, depth 126
+index 2, action West, depth 127
+index 0, action West, depth 123
+index 2, action East, depth 125
+index 0, action East, depth 127
+index 2, action East, depth 125
+index 0, action West, depth 126
+index 2, action West, depth 127
+index 0, action East, depth 126
+index 2, action West, depth 123
+index 0, action East, depth 125
+index 2, action West, depth 124
+index 0, action West, depth 128
+index 2, action East, depth 124
+index 0, action West, depth 125
+index 2, action East, depth 123
+index 0, action West, depth 124
+index 2, action East, depth 127
+index 0, action North, depth 125
+index 2, action West, depth 123
+index 0, action South, depth 125
+index 2, action West, depth 125
+index 0, action North, depth 124
+index 2, action East, depth 126
+index 0, action South, depth 124
+index 2, action West, depth 125
+index 0, action North, depth 124
+index 2, action East, depth 123
+index 0, action South, depth 123
+index 2, action West, depth 125
+index 0, action North, depth 123
+index 2, action East, depth 127
+index 0, action North, depth 125
+index 2, action East, depth 124
+index 0, action North, depth 123
+index 2, action East, depth 124
+index 0, action North, depth 121
+index 2, action West, depth 124
+index 0, action South, depth 123
+index 2, action West, depth 124
+index 0, action North, depth 121
+index 2, action West, depth 124
+index 0, action East, depth 123
+index 2, action West, depth 124
+index 0, action East, depth 125
+index 2, action East, depth 124
+index 0, action West, depth 123
+index 2, action East, depth 125
+index 0, action West, depth 123
+index 2, action West, depth 124
+index 0, action East, depth 124
+index 2, action East, depth 124
+index 0, action West, depth 123
+index 2, action East, depth 123
+index 0, action South, depth 123
+index 2, action West, depth 125
+index 0, action North, depth 121
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 126
+index 0, action West, depth 124
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 123
+index 2, action West, depth 125
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action South, depth 123
+index 2, action East, depth 125
+index 0, action North, depth 121
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action West, depth 123
+index 0, action West, depth 122
+index 2, action East, depth 124
+index 0, action South, depth 123
+index 2, action East, depth 124
+index 0, action South, depth 122
+index 2, action East, depth 124
+index 0, action South, depth 124
+index 2, action East, depth 124
+index 0, action North, depth 125
+index 2, action West, depth 123
+index 0, action North, depth 125
+index 2, action West, depth 124
+index 0, action South, depth 121
+index 2, action West, depth 125
+index 0, action East, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 123
+index 2, action West, depth 125
+index 0, action East, depth 125
+index 2, action East, depth 124
+index 0, action West, depth 123
+index 2, action East, depth 123
+index 0, action South, depth 124
+index 2, action West, depth 126
+index 0, action North, depth 125
+index 2, action East, depth 126
+index 0, action North, depth 124
+index 2, action East, depth 124
+index 0, action North, depth 122
+index 2, action West, depth 127
+index 0, action South, depth 121
+index 2, action East, depth 124
+index 0, action North, depth 121
+index 2, action West, depth 125
+index 0, action East, depth 123
+index 2, action West, depth 124
+index 0, action West, depth 123
+index 2, action East, depth 126
+index 0, action East, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 122
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action North, depth 124
+index 0, action East, depth 123
+index 2, action South, depth 124
+index 0, action East, depth 124
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action East, depth 123
+index 0, action East, depth 123
+index 2, action East, depth 125
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action East, depth 127
+index 0, action West, depth 122
+index 2, action West, depth 126
+index 0, action South, depth 122
+index 2, action East, depth 125
+index 0, action North, depth 122
+index 2, action West, depth 125
+index 0, action West, depth 122
+index 2, action West, depth 124
+index 0, action West, depth 122
+index 2, action East, depth 125
+index 0, action East, depth 123
+index 2, action East, depth 124
+index 0, action West, depth 122
+index 2, action West, depth 124
+index 0, action South, depth 123
+index 2, action East, depth 125
+index 0, action South, depth 120
+index 2, action East, depth 124
+index 0, action East, depth 120
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action West, depth 123
+index 0, action West, depth 122
+index 2, action East, depth 123
+index 0, action North, depth 122
+index 2, action East, depth 124
+index 0, action South, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action West, depth 123
+index 0, action West, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 121
+index 2, action West, depth 122
+index 0, action West, depth 122
+index 2, action West, depth 124
+index 0, action East, depth 127
+index 2, action West, depth 124
+index 0, action West, depth 122
+index 2, action West, depth 125
+index 0, action East, depth 123
+index 2, action West, depth 125
+index 0, action West, depth 122
+index 2, action West, depth 125
+index 0, action East, depth 126
+index 2, action East, depth 125
+index 0, action West, depth 122
+index 2, action East, depth 124
+index 0, action East, depth 125
+index 2, action West, depth 124
+index 0, action West, depth 122
+index 2, action West, depth 125
+index 0, action North, depth 124
+index 2, action West, depth 125
+index 0, action North, depth 122
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 125
+index 0, action East, depth 122
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action East, depth 123
+index 0, action South, depth 124
+index 2, action East, depth 124
+index 0, action North, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action East, depth 125
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action East, depth 125
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 122
+index 2, action West, depth 122
+index 0, action East, depth 122
+index 2, action East, depth 124
+index 0, action East, depth 124
+index 2, action West, depth 122
+index 0, action West, depth 122
+index 2, action West, depth 124
+index 0, action West, depth 123
+index 2, action West, depth 124
+index 0, action West, depth 122
+index 2, action West, depth 123
+index 0, action East, depth 122
+index 2, action West, depth 123
+index 0, action East, depth 123
+index 2, action East, depth 127
+index 0, action West, depth 122
+index 2, action West, depth 125
+index 0, action West, depth 124
+index 2, action East, depth 124
+index 0, action East, depth 124
+index 2, action West, depth 123
+index 0, action East, depth 123
+index 2, action East, depth 125
+index 0, action West, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 125
+index 0, action East, depth 124
+index 2, action West, depth 127
+index 0, action East, depth 124
+index 2, action West, depth 123
+index 0, action South, depth 124
+index 2, action West, depth 125
+index 0, action South, depth 124
+index 2, action North, depth 127
+index 0, action East, depth 123
+index 2, action South, depth 128
+index 0, action East, depth 123
+index 2, action East, depth 128
+index 0, action East, depth 122
+index 2, action West, depth 128
+index 0, action East, depth 124
+index 2, action North, depth 127
+index 0, action East, depth 123
+index 2, action South, depth 127
+index 0, action North, depth 124
+index 2, action North, depth 128
+index 0, action North, depth 123
+index 2, action North, depth 128
+index 0, action West, depth 123
+index 2, action East, depth 128
+index 0, action West, depth 123
+index 2, action West, depth 127
+index 0, action West, depth 122
+index 2, action South, depth 128
+index 0, action West, depth 124
+index 2, action North, depth 128
+index 0, action West, depth 124
+index 2, action South, depth 128
+index 0, action West, depth 124
+index 2, action South, depth 128
+index 0, action West, depth 125
+index 2, action North, depth 128
+index 0, action West, depth 127
+index 2, action South, depth 128
+index 0, action West, depth 125
+index 2, action North, depth 128
+index 0, action West, depth 128
+index 2, action North, depth 128
+index 0, action East, depth 127
+index 2, action East, depth 128
+index 0, action West, depth 127
+index 2, action East, depth 126
+index 0, action West, depth 130
+index 2, action West, depth 126
+index 0, action East, depth 127
+index 2, action West, depth 127
+index 0, action East, depth 130
+index 2, action South, depth 128
+index 0, action West, depth 130
+index 2, action North, depth 128
+index 0, action East, depth 129
+index 2, action North, depth 128
+index 0, action East, depth 130
+index 2, action North, depth 127
+index 0, action East, depth 128
+index 2, action East, depth 129
+index 0, action East, depth 131
+index 2, action East, depth 127
+index 0, action East, depth 126
+index 2, action East, depth 126
+index 0, action East, depth 124
+index 2, action West, depth 126
+index 0, action East, depth 123
+index 2, action West, depth 126
+index 0, action South, depth 124
+index 2, action West, depth 128
+index 0, action North, depth 124
+index 2, action East, depth 128
+index 0, action East, depth 124
+index 2, action East, depth 128
+index 0, action East, depth 122
+index 2, action West, depth 126
+index 0, action West, depth 124
+index 2, action West, depth 129
+index 0, action West, depth 125
+index 2, action East, depth 128
+index 0, action East, depth 121
+index 2, action East, depth 129
+index 0, action West, depth 125
+index 2, action West, depth 126
+index 0, action East, depth 121
+index 2, action East, depth 128
+index 0, action West, depth 127
+index 2, action East, depth 126
+index 0, action East, depth 123
+index 2, action West, depth 127
+index 0, action West, depth 126
+index 2, action East, depth 126
+index 0, action East, depth 123
+index 2, action East, depth 127
+index 0, action West, depth 126
+index 2, action West, depth 123
+index 0, action East, depth 121
+index 2, action West, depth 127
+index 0, action West, depth 125
+index 2, action East, depth 126
+index 0, action West, depth 126
+index 2, action South, depth 127
+index 0, action East, depth 124
+index 2, action North, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 127
+index 0, action West, depth 124
+index 2, action East, depth 126
+index 0, action West, depth 127
+index 2, action East, depth 127
+index 0, action West, depth 129
+index 2, action East, depth 120
+index 0, action West, depth 128
+index 2, action South, depth 120
+index 0, action East, depth 127
+index 2, action South, depth 120
+index 0, action West, depth 127
+index 2, action North, depth 120
+index 0, action West, depth 125
+index 2, action South, depth 120
+1.420000000000001
+1.420000000000001
+Episode reward: 2.840000000000002
+enemy: MCTSTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.12
+2.12
+Episode reward: 4.24
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.319999999999997
+2.319999999999997
+Episode reward: 4.639999999999994
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.4300000000000002
+0.4300000000000002
+Episode reward: 0.8600000000000004
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9900000000000015
+1.9900000000000015
+Episode reward: 3.980000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.040000000000001
+2.040000000000001
+Episode reward: 4.080000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0400000000000005
+2.0400000000000005
+Episode reward: 4.080000000000001
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+2.4199999999999977
+2.4199999999999977
+Episode reward: 4.839999999999995
+Episode 80/800, Average Reward: 3.78, Win Rate: 0.20
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.2
+0.2
+Episode reward: 0.4
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+10.879999999999969
+10.879999999999969
+Episode reward: 21.759999999999938
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+2.1499999999999995
+2.1499999999999995
+Episode reward: 4.299999999999999
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9500000000000015
+1.9500000000000015
+Episode reward: 3.900000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9900000000000015
+1.9900000000000015
+Episode reward: 3.980000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.3700000000000001
+0.3700000000000001
+Episode reward: 0.7400000000000002
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.9700000000000015
+1.9700000000000015
+Episode reward: 3.940000000000003
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7400000000000013
+1.7400000000000013
+Episode reward: 3.4800000000000026
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+1.8900000000000012
+1.8900000000000012
+Episode reward: 3.7800000000000025
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9800000000000015
+1.9800000000000015
+Episode reward: 3.960000000000003
+Episode 90/800, Average Reward: 5.02, Win Rate: 0.30
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+1.6300000000000012
+1.6300000000000012
+Episode reward: 3.2600000000000025
+enemy: AstarTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+0.9000000000000006
+0.9000000000000006
+Episode reward: 1.8000000000000012
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.0400000000000014
+2.0400000000000014
+Episode reward: 4.080000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9900000000000015
+1.9900000000000015
+Episode reward: 3.980000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0600000000000014
+2.0600000000000014
+Episode reward: 4.120000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+10.839999999999971
+10.839999999999971
+Episode reward: 21.679999999999943
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+2.08
+2.08
+Episode reward: 4.16
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.9200000000000015
+1.9200000000000015
+Episode reward: 3.840000000000003
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7800000000000014
+1.7800000000000014
+Episode reward: 3.5600000000000027
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+0.9900000000000007
+0.9900000000000007
+Episode reward: 1.9800000000000013
+Episode 100/800, Average Reward: 5.25, Win Rate: 0.40
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+0.8800000000000006
+0.8800000000000006
+Episode reward: 1.7600000000000011
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.020000000000001
+2.020000000000001
+Episode reward: 4.040000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.060000000000001
+2.060000000000001
+Episode reward: 4.120000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.7500000000000013
+1.7500000000000013
+Episode reward: 3.5000000000000027
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+1.2200000000000009
+1.2200000000000009
+Episode reward: 2.4400000000000017
+enemy: AstarTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.18
+0.18
+Episode reward: 0.36
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.8300000000000014
+1.8300000000000014
+Episode reward: 3.660000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+0.8500000000000005
+0.8500000000000005
+Episode reward: 1.700000000000001
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.5900000000000012
+1.5900000000000012
+Episode reward: 3.1800000000000024
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.189999999999997
+3.189999999999997
+Episode reward: 6.379999999999994
+Episode 110/800, Average Reward: 3.11, Win Rate: 0.40
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.340000000000001
+1.340000000000001
+Episode reward: 2.680000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+0.9800000000000006
+0.9800000000000006
+Episode reward: 1.9600000000000013
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7600000000000013
+1.7600000000000013
+Episode reward: 3.5200000000000027
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+NotSolutionFound
+1.9500000000000015
+1.9500000000000015
+Episode reward: 3.900000000000003
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.8400000000000014
+1.8400000000000014
+Episode reward: 3.680000000000003
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.8300000000000014
+1.8300000000000014
+Episode reward: 3.660000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.8600000000000014
+1.8600000000000014
+Episode reward: 3.720000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.0000000000000004
+3.0000000000000004
+Episode reward: 6.000000000000001
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.18000000000000002
+0.18000000000000002
+Episode reward: 0.36000000000000004
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.5100000000000011
+1.5100000000000011
+Episode reward: 3.0200000000000022
+Episode 120/800, Average Reward: 3.25, Win Rate: 0.20
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.25000000000000006
+0.25000000000000006
+Episode reward: 0.5000000000000001
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.21000000000000005
+0.21000000000000005
+Episode reward: 0.4200000000000001
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.26
+0.26
+Episode reward: 0.52
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.6500000000000012
+1.6500000000000012
+Episode reward: 3.3000000000000025
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+2.13
+2.13
+Episode reward: 4.26
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.6300000000000012
+1.6300000000000012
+Episode reward: 3.2600000000000025
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.380000000000001
+1.380000000000001
+Episode reward: 2.760000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.480000000000001
+1.480000000000001
+Episode reward: 2.960000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7500000000000013
+1.7500000000000013
+Episode reward: 3.5000000000000027
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.500000000000001
+1.500000000000001
+Episode reward: 3.000000000000002
+Episode 130/800, Average Reward: 2.45, Win Rate: 0.30
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7200000000000013
+1.7200000000000013
+Episode reward: 3.4400000000000026
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.470000000000001
+1.470000000000001
+Episode reward: 2.940000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.2
+0.2
+Episode reward: 0.4
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.5800000000000012
+1.5800000000000012
+Episode reward: 3.1600000000000024
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.440000000000001
+1.440000000000001
+Episode reward: 2.880000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+0.9000000000000006
+0.9000000000000006
+Episode reward: 1.8000000000000012
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.5300000000000011
+1.5300000000000011
+Episode reward: 3.0600000000000023
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.260000000000001
+1.260000000000001
+Episode reward: 2.520000000000002
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.440000000000001
+1.440000000000001
+Episode reward: 2.880000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.6200000000000012
+1.6200000000000012
+Episode reward: 3.2400000000000024
+Episode 140/800, Average Reward: 2.63, Win Rate: 0.20
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.24000000000000005
+0.24000000000000005
+Episode reward: 0.4800000000000001
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.19000000000000006
+0.19000000000000006
+Episode reward: 0.3800000000000001
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.380000000000001
+1.380000000000001
+Episode reward: 2.760000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.380000000000001
+1.380000000000001
+Episode reward: 2.760000000000002
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.6100000000000012
+1.6100000000000012
+Episode reward: 3.2200000000000024
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.0400000000000007
+1.0400000000000007
+Episode reward: 2.0800000000000014
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.6000000000000012
+1.6000000000000012
+Episode reward: 3.2000000000000024
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.320000000000001
+1.320000000000001
+Episode reward: 2.640000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.6300000000000012
+1.6300000000000012
+Episode reward: 3.2600000000000025
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.6000000000000012
+1.6000000000000012
+Episode reward: 3.2000000000000024
+Episode 150/800, Average Reward: 2.40, Win Rate: 0.20
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.0000000000000007
+1.0000000000000007
+Episode reward: 2.0000000000000013
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.380000000000001
+1.380000000000001
+Episode reward: 2.760000000000002
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7400000000000013
+1.7400000000000013
+Episode reward: 3.4800000000000026
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.17000000000000004
+0.17000000000000004
+Episode reward: 0.3400000000000001
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+1.2400000000000009
+1.2400000000000009
+Episode reward: 2.4800000000000018
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+1.410000000000001
+1.410000000000001
+Episode reward: 2.820000000000002
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.10999999999999999
+0.10999999999999999
+Episode reward: 0.21999999999999997
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+Loaded layout from file
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+C:\Users\josse\AppData\Local\Temp\ipykernel_4884\411827263.py:52: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+4.689999999999978
+4.689999999999978
+Episode reward: 9.379999999999956
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.5300000000000002
+0.5300000000000002
+Episode reward: 1.0600000000000005
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.599999999999989
+3.599999999999989
+Episode reward: 7.199999999999978
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+NotSolutionFound
+2.469999999999998
+2.469999999999998
+Episode reward: 4.939999999999996
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.5299999999999914
+3.5299999999999914
+Episode reward: 7.059999999999983
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+4.999999999999972
+4.999999999999972
+Episode reward: 9.999999999999943
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Red team starts
+2.1999999999999997
+2.1999999999999997
+Episode reward: 4.3999999999999995
+enemy: AstarTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.38000000000000017
+0.38000000000000017
+Episode reward: 0.7600000000000003
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.12999999999999
+3.12999999999999
+Episode reward: 6.25999999999998
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.429999999999987
+3.429999999999987
+Episode reward: 6.859999999999974
+Episode 10/800, Average Reward: 5.79, Win Rate: 0.40
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.449999999999991
+3.449999999999991
+Episode reward: 6.899999999999982
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+1.6600000000000013
+1.6600000000000013
+Episode reward: 3.3200000000000025
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.5399999999999863
+3.5399999999999863
+Episode reward: 7.0799999999999725
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.48000000000000026
+0.48000000000000026
+Episode reward: 0.9600000000000005
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.5299999999999887
+3.5299999999999887
+Episode reward: 7.059999999999977
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.6199999999999886
+3.6199999999999886
+Episode reward: 7.239999999999977
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.479999999999989
+3.479999999999989
+Episode reward: 6.959999999999978
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.6899999999999924
+3.6899999999999924
+Episode reward: 7.379999999999985
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.709999999999988
+3.709999999999988
+Episode reward: 7.419999999999976
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.2799999999999905
+3.2799999999999905
+Episode reward: 6.559999999999981
+Episode 20/800, Average Reward: 6.09, Win Rate: 0.20
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.729999999999989
+3.729999999999989
+Episode reward: 7.459999999999978
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.609999999999989
+3.609999999999989
+Episode reward: 7.219999999999978
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.3599999999999905
+3.3599999999999905
+Episode reward: 6.719999999999981
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.4700000000000002
+0.4700000000000002
+Episode reward: 0.9400000000000004
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.78999999999999
+3.78999999999999
+Episode reward: 7.57999999999998
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.3900000000000002
+0.3900000000000002
+Episode reward: 0.7800000000000004
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.3999999999999897
+3.3999999999999897
+Episode reward: 6.799999999999979
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.5699999999999896
+3.5699999999999896
+Episode reward: 7.139999999999979
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.5200000000000002
+0.5200000000000002
+Episode reward: 1.0400000000000005
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.469999999999989
+3.469999999999989
+Episode reward: 6.939999999999978
+Episode 30/800, Average Reward: 5.26, Win Rate: 0.30
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.36999999999999
+3.36999999999999
+Episode reward: 6.73999999999998
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.41000000000000014
+0.41000000000000014
+Episode reward: 0.8200000000000003
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.3299999999999885
+3.3299999999999885
+Episode reward: 6.659999999999977
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.519999999999986
+3.519999999999986
+Episode reward: 7.039999999999972
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.4699999999999864
+3.4699999999999864
+Episode reward: 6.939999999999973
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+1.9300000000000015
+1.9300000000000015
+Episode reward: 3.860000000000003
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.4300000000000002
+0.4300000000000002
+Episode reward: 0.8600000000000004
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.30999999999999
+3.30999999999999
+Episode reward: 6.61999999999998
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.599999999999987
+3.599999999999987
+Episode reward: 7.199999999999974
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.6599999999999873
+3.6599999999999873
+Episode reward: 7.3199999999999745
+Episode 40/800, Average Reward: 5.41, Win Rate: 0.30
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.6799999999999886
+3.6799999999999886
+Episode reward: 7.359999999999977
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.5299999999999905
+3.5299999999999905
+Episode reward: 7.059999999999981
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.4999999999999867
+3.4999999999999867
+Episode reward: 6.999999999999973
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/MCTSTeam.py
+Arguments: {}
+Blue team starts
+index 0, action West, depth 126
+index 2, action West, depth 123
+index 0, action West, depth 125
+index 2, action West, depth 123
+index 0, action East, depth 127
+index 2, action West, depth 126
+index 0, action West, depth 126
+index 2, action West, depth 124
+index 0, action West, depth 127
+index 2, action West, depth 124
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 127
+index 2, action West, depth 124
+index 0, action East, depth 126
+index 2, action West, depth 125
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action East, depth 126
+index 2, action East, depth 124
+index 0, action West, depth 126
+index 2, action East, depth 123
+index 0, action West, depth 125
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 125
+index 0, action West, depth 125
+index 2, action North, depth 124
+index 0, action West, depth 125
+index 2, action South, depth 125
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 125
+index 2, action East, depth 123
+index 0, action West, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 125
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action East, depth 124
+index 0, action West, depth 125
+index 2, action West, depth 124
+index 0, action East, depth 124
+index 2, action West, depth 125
+index 0, action East, depth 126
+index 2, action East, depth 125
+index 0, action West, depth 123
+index 2, action West, depth 125
+index 0, action East, depth 127
+index 2, action West, depth 124
+index 0, action West, depth 127
+index 2, action West, depth 124
+index 0, action East, depth 125
+index 2, action West, depth 126
+index 0, action West, depth 126
+index 2, action West, depth 126
+index 0, action West, depth 126
+index 2, action East, depth 126
+index 0, action West, depth 125
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action East, depth 123
+index 0, action East, depth 125
+index 2, action West, depth 124
+index 0, action East, depth 127
+index 2, action West, depth 126
+index 0, action West, depth 127
+index 2, action West, depth 125
+index 0, action East, depth 125
+index 2, action East, depth 123
+index 0, action West, depth 124
+index 2, action East, depth 125
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 123
+index 2, action West, depth 123
+index 0, action West, depth 128
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action East, depth 125
+index 0, action East, depth 125
+index 2, action West, depth 124
+index 0, action West, depth 127
+index 2, action East, depth 125
+index 0, action West, depth 123
+index 2, action West, depth 126
+index 0, action East, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 125
+index 2, action East, depth 124
+index 0, action West, depth 126
+index 2, action East, depth 124
+index 0, action West, depth 125
+index 2, action West, depth 125
+index 0, action East, depth 124
+index 2, action East, depth 124
+index 0, action West, depth 125
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 125
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action East, depth 125
+index 2, action West, depth 123
+index 0, action East, depth 125
+index 2, action West, depth 123
+index 0, action West, depth 124
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action West, depth 124
+index 0, action East, depth 126
+index 2, action North, depth 124
+index 0, action West, depth 127
+index 2, action South, depth 124
+index 0, action West, depth 124
+index 2, action North, depth 124
+index 0, action East, depth 126
+index 2, action North, depth 126
+index 0, action West, depth 127
+index 2, action South, depth 123
+index 0, action West, depth 124
+index 2, action South, depth 124
+index 0, action East, depth 124
+index 2, action North, depth 125
+index 0, action West, depth 126
+index 2, action North, depth 123
+index 0, action East, depth 125
+index 2, action North, depth 123
+index 0, action West, depth 124
+index 2, action South, depth 124
+index 0, action East, depth 126
+index 2, action East, depth 127
+index 0, action West, depth 124
+index 2, action East, depth 122
+index 0, action East, depth 127
+index 2, action West, depth 125
+index 0, action West, depth 123
+index 2, action East, depth 122
+index 0, action East, depth 124
+index 2, action West, depth 122
+index 0, action West, depth 123
+index 2, action West, depth 124
+index 0, action East, depth 126
+index 2, action East, depth 123
+index 0, action East, depth 125
+index 2, action East, depth 126
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 126
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action South, depth 124
+index 0, action North, depth 125
+index 2, action North, depth 124
+index 0, action South, depth 123
+index 2, action South, depth 123
+index 0, action East, depth 123
+index 2, action South, depth 125
+index 0, action East, depth 125
+index 2, action North, depth 124
+index 0, action East, depth 124
+index 2, action North, depth 124
+index 0, action East, depth 124
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 123
+index 0, action West, depth 125
+index 2, action East, depth 124
+index 0, action West, depth 125
+index 2, action West, depth 123
+index 0, action West, depth 125
+index 2, action East, depth 124
+index 0, action East, depth 125
+index 2, action West, depth 124
+index 0, action East, depth 125
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 125
+index 2, action East, depth 122
+index 0, action North, depth 126
+index 2, action East, depth 122
+index 0, action South, depth 125
+index 2, action West, depth 120
+index 0, action North, depth 124
+index 2, action East, depth 121
+index 0, action North, depth 125
+index 2, action West, depth 120
+index 0, action South, depth 127
+index 2, action East, depth 125
+index 0, action North, depth 125
+index 2, action East, depth 120
+index 0, action East, depth 124
+index 2, action East, depth 120
+index 0, action East, depth 124
+index 2, action West, depth 122
+index 0, action East, depth 123
+index 2, action North, depth 120
+index 0, action West, depth 125
+index 2, action North, depth 120
+index 0, action West, depth 123
+index 2, action South, depth 120
+index 0, action East, depth 125
+index 2, action South, depth 121
+index 0, action West, depth 123
+index 2, action North, depth 120
+index 0, action West, depth 124
+index 2, action South, depth 120
+index 0, action South, depth 126
+index 2, action East, depth 120
+index 0, action North, depth 126
+index 2, action East, depth 122
+index 0, action North, depth 125
+index 2, action East, depth 122
+index 0, action South, depth 124
+index 2, action East, depth 122
+index 0, action South, depth 126
+index 2, action East, depth 120
+index 0, action South, depth 127
+index 2, action East, depth 122
+index 0, action North, depth 126
+index 2, action East, depth 122
+index 0, action South, depth 127
+index 2, action East, depth 122
+index 0, action North, depth 129
+index 2, action East, depth 122
+index 0, action North, depth 128
+index 2, action East, depth 121
+index 0, action East, depth 129
+index 2, action East, depth 121
+index 0, action East, depth 128
+index 2, action East, depth 121
+index 0, action West, depth 126
+index 2, action West, depth 122
+index 0, action East, depth 129
+index 2, action East, depth 121
+index 0, action West, depth 124
+index 2, action North, depth 121
+index 0, action East, depth 129
+index 2, action North, depth 122
+index 0, action West, depth 126
+index 2, action South, depth 120
+index 0, action East, depth 125
+index 2, action South, depth 120
+index 0, action West, depth 125
+index 2, action West, depth 121
+index 0, action East, depth 127
+index 2, action West, depth 122
+index 0, action East, depth 127
+index 2, action East, depth 121
+index 0, action West, depth 128
+index 2, action West, depth 122
+index 0, action East, depth 128
+index 2, action East, depth 122
+index 0, action West, depth 130
+index 2, action West, depth 122
+index 0, action West, depth 126
+index 2, action East, depth 121
+index 0, action West, depth 128
+index 2, action West, depth 120
+index 0, action East, depth 128
+index 2, action East, depth 122
+index 0, action West, depth 128
+index 2, action West, depth 122
+index 0, action North, depth 128
+index 2, action East, depth 122
+index 0, action North, depth 128
+index 2, action West, depth 121
+index 0, action South, depth 133
+index 2, action East, depth 122
+index 0, action South, depth 128
+index 2, action East, depth 122
+index 0, action East, depth 126
+index 2, action North, depth 121
+index 0, action East, depth 125
+index 2, action South, depth 121
+index 0, action East, depth 125
+index 2, action West, depth 121
+index 0, action East, depth 126
+index 2, action East, depth 122
+index 0, action East, depth 122
+index 2, action North, depth 121
+index 0, action West, depth 123
+index 2, action South, depth 121
+index 0, action East, depth 122
+index 2, action North, depth 122
+index 0, action West, depth 122
+index 2, action South, depth 120
+index 0, action West, depth 124
+index 2, action North, depth 122
+index 0, action West, depth 126
+index 2, action North, depth 121
+index 0, action East, depth 125
+index 2, action South, depth 122
+index 0, action North, depth 125
+index 2, action North, depth 121
+index 0, action North, depth 122
+index 2, action West, depth 122
+index 0, action West, depth 122
+index 2, action East, depth 121
+index 0, action East, depth 123
+index 2, action South, depth 122
+index 0, action South, depth 125
+index 2, action North, depth 121
+index 0, action South, depth 121
+index 2, action South, depth 121
+index 0, action North, depth 126
+index 2, action North, depth 122
+index 0, action North, depth 122
+index 2, action West, depth 121
+index 0, action East, depth 124
+index 2, action East, depth 122
+index 0, action East, depth 122
+index 2, action South, depth 122
+index 0, action West, depth 123
+index 2, action North, depth 122
+index 0, action East, depth 122
+index 2, action South, depth 122
+index 0, action East, depth 123
+index 2, action North, depth 122
+index 0, action West, depth 123
+index 2, action South, depth 122
+index 0, action West, depth 123
+index 2, action North, depth 121
+index 0, action West, depth 123
+index 2, action West, depth 122
+index 0, action East, depth 122
+index 2, action West, depth 122
+index 0, action West, depth 122
+index 2, action West, depth 122
+index 0, action East, depth 122
+index 2, action South, depth 122
+index 0, action West, depth 123
+index 2, action South, depth 122
+index 0, action East, depth 123
+index 2, action West, depth 122
+index 0, action West, depth 124
+index 2, action West, depth 122
+index 0, action South, depth 124
+index 2, action North, depth 121
+index 0, action South, depth 122
+index 2, action North, depth 122
+index 0, action East, depth 131
+index 2, action West, depth 122
+index 0, action West, depth 125
+index 2, action East, depth 123
+index 0, action East, depth 129
+index 2, action West, depth 122
+index 0, action East, depth 124
+index 2, action West, depth 123
+index 0, action East, depth 127
+index 2, action West, depth 123
+index 0, action East, depth 126
+index 2, action East, depth 122
+index 0, action East, depth 129
+index 2, action West, depth 122
+index 0, action West, depth 125
+index 2, action West, depth 122
+2.0000000000000013
+2.0000000000000013
+Episode reward: 4.000000000000003
+enemy: MCTSTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.3399999999999888
+3.3399999999999888
+Episode reward: 6.6799999999999775
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.449999999999987
+3.449999999999987
+Episode reward: 6.899999999999974
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+3.639999999999988
+3.639999999999988
+Episode reward: 7.279999999999976
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.389999999999987
+3.389999999999987
+Episode reward: 6.779999999999974
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.4899999999999864
+3.4899999999999864
+Episode reward: 6.979999999999973
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.3799999999999915
+3.3799999999999915
+Episode reward: 6.759999999999983
+Episode 50/800, Average Reward: 6.68, Win Rate: 0.10
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.299999999999988
+3.299999999999988
+Episode reward: 6.599999999999976
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.3699999999999903
+3.3699999999999903
+Episode reward: 6.739999999999981
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.4499999999999873
+3.4499999999999873
+Episode reward: 6.899999999999975
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.37000000000000016
+0.37000000000000016
+Episode reward: 0.7400000000000003
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.49000000000000027
+0.49000000000000027
+Episode reward: 0.9800000000000005
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Blue team starts
+0.4900000000000002
+0.4900000000000002
+Episode reward: 0.9800000000000004
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.479999999999984
+4.479999999999984
+Episode reward: 8.959999999999969
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/MCTSTeam.py
+Arguments: {}
+Blue team starts
+index 0, action West, depth 125
+index 2, action West, depth 122
+index 0, action West, depth 124
+index 2, action West, depth 127
+index 0, action East, depth 126
+index 2, action West, depth 123
+index 0, action East, depth 127
+index 2, action East, depth 125
+index 0, action West, depth 123
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 125
+index 0, action East, depth 124
+index 2, action West, depth 123
+index 0, action West, depth 125
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action East, depth 124
+index 0, action East, depth 126
+index 2, action West, depth 126
+index 0, action East, depth 125
+index 2, action East, depth 125
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 123
+index 2, action West, depth 126
+index 0, action West, depth 124
+index 2, action East, depth 124
+index 0, action West, depth 123
+index 2, action West, depth 124
+index 0, action West, depth 127
+index 2, action East, depth 125
+index 0, action West, depth 125
+index 2, action West, depth 124
+index 0, action North, depth 125
+index 2, action East, depth 124
+index 0, action South, depth 125
+index 2, action West, depth 126
+index 0, action East, depth 123
+index 2, action East, depth 126
+index 0, action West, depth 125
+index 2, action West, depth 124
+index 0, action North, depth 126
+index 2, action West, depth 124
+index 0, action North, depth 126
+index 2, action East, depth 124
+index 0, action North, depth 124
+index 2, action East, depth 125
+index 0, action North, depth 122
+index 2, action West, depth 124
+index 0, action East, depth 123
+index 2, action East, depth 123
+index 0, action West, depth 122
+index 2, action West, depth 124
+index 0, action South, depth 125
+index 2, action West, depth 124
+index 0, action North, depth 123
+index 2, action East, depth 124
+index 0, action South, depth 123
+index 2, action West, depth 123
+index 0, action North, depth 122
+index 2, action West, depth 123
+index 0, action South, depth 123
+index 2, action East, depth 123
+index 0, action North, depth 121
+index 2, action West, depth 123
+index 0, action South, depth 124
+index 2, action West, depth 126
+index 0, action South, depth 122
+index 2, action East, depth 125
+index 0, action South, depth 124
+index 2, action West, depth 123
+index 0, action North, depth 123
+index 2, action East, depth 124
+index 0, action South, depth 125
+index 2, action East, depth 123
+index 0, action South, depth 124
+index 2, action West, depth 124
+index 0, action North, depth 123
+index 2, action West, depth 123
+index 0, action North, depth 123
+index 2, action East, depth 123
+index 0, action East, depth 123
+index 2, action East, depth 123
+index 0, action West, depth 123
+index 2, action West, depth 123
+index 0, action North, depth 126
+index 2, action East, depth 125
+index 0, action South, depth 122
+index 2, action East, depth 123
+index 0, action North, depth 126
+index 2, action West, depth 123
+index 0, action North, depth 123
+index 2, action West, depth 126
+index 0, action East, depth 122
+index 2, action East, depth 125
+index 0, action West, depth 121
+index 2, action East, depth 124
+index 0, action East, depth 122
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action East, depth 123
+index 0, action West, depth 121
+index 2, action West, depth 123
+index 0, action East, depth 123
+index 2, action West, depth 124
+index 0, action West, depth 121
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 122
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action West, depth 122
+index 2, action West, depth 124
+index 0, action East, depth 121
+index 2, action East, depth 125
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action South, depth 122
+index 2, action East, depth 124
+index 0, action North, depth 122
+index 2, action East, depth 124
+index 0, action South, depth 122
+index 2, action West, depth 123
+index 0, action South, depth 122
+index 2, action West, depth 126
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action East, depth 123
+index 2, action East, depth 124
+index 0, action West, depth 122
+index 2, action East, depth 125
+index 0, action West, depth 122
+index 2, action East, depth 124
+index 0, action West, depth 122
+index 2, action West, depth 125
+index 0, action West, depth 121
+index 2, action West, depth 123
+index 0, action West, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 125
+index 2, action West, depth 123
+index 0, action North, depth 123
+index 2, action East, depth 123
+index 0, action South, depth 122
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action East, depth 125
+index 0, action East, depth 121
+index 2, action West, depth 123
+index 0, action West, depth 124
+index 2, action East, depth 125
+index 0, action East, depth 123
+index 2, action West, depth 125
+index 0, action East, depth 122
+index 2, action West, depth 125
+index 0, action West, depth 123
+index 2, action East, depth 123
+index 0, action West, depth 123
+index 2, action West, depth 124
+index 0, action West, depth 123
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 122
+index 2, action East, depth 124
+index 0, action North, depth 122
+index 2, action East, depth 125
+index 0, action North, depth 122
+index 2, action West, depth 126
+index 0, action West, depth 122
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action West, depth 125
+index 0, action South, depth 124
+index 2, action East, depth 125
+index 0, action South, depth 120
+index 2, action East, depth 126
+index 0, action North, depth 126
+index 2, action East, depth 124
+index 0, action North, depth 120
+index 2, action West, depth 124
+index 0, action West, depth 121
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action East, depth 124
+index 0, action South, depth 121
+index 2, action East, depth 123
+index 0, action South, depth 120
+index 2, action East, depth 124
+index 0, action North, depth 124
+index 2, action West, depth 124
+index 0, action North, depth 120
+index 2, action West, depth 125
+index 0, action West, depth 122
+index 2, action West, depth 123
+index 0, action East, depth 125
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 125
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action South, depth 124
+index 2, action East, depth 123
+index 0, action North, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 125
+index 0, action West, depth 122
+index 2, action West, depth 126
+index 0, action West, depth 124
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 122
+index 2, action East, depth 125
+index 0, action West, depth 122
+index 2, action East, depth 125
+index 0, action West, depth 121
+index 2, action West, depth 122
+index 0, action West, depth 121
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 122
+index 0, action South, depth 123
+index 2, action West, depth 126
+index 0, action South, depth 123
+index 2, action West, depth 123
+index 0, action North, depth 125
+index 2, action West, depth 124
+index 0, action North, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 125
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action South, depth 122
+index 2, action East, depth 124
+index 0, action South, depth 123
+index 2, action West, depth 124
+index 0, action East, depth 126
+index 2, action West, depth 124
+index 0, action East, depth 125
+index 2, action West, depth 125
+index 0, action East, depth 125
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action North, depth 122
+index 2, action East, depth 125
+index 0, action North, depth 122
+index 2, action East, depth 125
+index 0, action East, depth 122
+index 2, action East, depth 124
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action West, depth 122
+index 2, action West, depth 125
+index 0, action West, depth 122
+index 2, action West, depth 124
+index 0, action South, depth 122
+index 2, action West, depth 126
+index 0, action North, depth 122
+index 2, action East, depth 123
+index 0, action South, depth 122
+index 2, action East, depth 125
+index 0, action South, depth 122
+index 2, action West, depth 124
+index 0, action North, depth 122
+index 2, action West, depth 124
+index 0, action North, depth 123
+index 2, action West, depth 124
+index 0, action West, depth 123
+index 2, action East, depth 124
+index 0, action West, depth 123
+index 2, action East, depth 126
+index 0, action West, depth 125
+index 2, action East, depth 126
+index 0, action West, depth 123
+index 2, action East, depth 123
+index 0, action East, depth 125
+index 2, action East, depth 123
+index 0, action West, depth 123
+index 2, action East, depth 123
+index 0, action West, depth 123
+index 2, action West, depth 122
+index 0, action East, depth 125
+index 2, action East, depth 123
+index 0, action West, depth 125
+index 2, action West, depth 123
+index 0, action East, depth 125
+index 2, action East, depth 124
+index 0, action East, depth 124
+index 2, action West, depth 122
+index 0, action West, depth 123
+index 2, action East, depth 123
+index 0, action East, depth 123
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action West, depth 123
+index 0, action South, depth 123
+index 2, action West, depth 123
+index 0, action North, depth 120
+index 2, action East, depth 124
+index 0, action East, depth 122
+index 2, action East, depth 124
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action South, depth 124
+index 2, action West, depth 123
+index 0, action North, depth 123
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 123
+index 2, action West, depth 123
+index 0, action West, depth 124
+index 2, action West, depth 126
+index 0, action East, depth 124
+index 2, action West, depth 123
+index 0, action West, depth 127
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action West, depth 123
+index 2, action West, depth 126
+index 0, action West, depth 124
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action West, depth 128
+index 0, action West, depth 129
+index 2, action East, depth 128
+index 0, action East, depth 128
+index 2, action West, depth 128
+index 0, action West, depth 129
+index 2, action West, depth 128
+index 0, action West, depth 128
+index 2, action East, depth 128
+index 0, action West, depth 128
+index 2, action East, depth 128
+index 0, action West, depth 126
+index 2, action East, depth 124
+index 0, action West, depth 127
+index 2, action East, depth 123
+index 0, action West, depth 125
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action West, depth 122
+index 0, action East, depth 121
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action West, depth 122
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 122
+index 0, action East, depth 123
+index 2, action West, depth 127
+index 0, action West, depth 122
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 126
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 123
+index 2, action East, depth 124
+index 0, action East, depth 122
+index 2, action West, depth 123
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 123
+index 2, action West, depth 123
+index 0, action West, depth 122
+index 2, action East, depth 126
+index 0, action East, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 123
+index 2, action West, depth 124
+index 0, action East, depth 123
+index 2, action East, depth 123
+index 0, action West, depth 124
+index 2, action West, depth 123
+index 0, action West, depth 122
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 126
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action East, depth 126
+index 0, action West, depth 122
+index 2, action West, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 123
+index 0, action West, depth 123
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action West, depth 123
+index 0, action West, depth 122
+index 2, action East, depth 125
+index 0, action East, depth 122
+index 2, action East, depth 124
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action East, depth 122
+index 2, action East, depth 124
+index 0, action South, depth 122
+index 2, action East, depth 124
+index 0, action South, depth 124
+index 2, action East, depth 125
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 126
+index 0, action West, depth 123
+index 2, action West, depth 122
+index 0, action East, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action East, depth 125
+index 0, action East, depth 124
+index 2, action East, depth 125
+index 0, action East, depth 124
+index 2, action West, depth 126
+index 0, action East, depth 124
+index 2, action East, depth 125
+index 0, action West, depth 124
+index 2, action East, depth 127
+index 0, action East, depth 125
+index 2, action East, depth 124
+index 0, action West, depth 122
+index 2, action East, depth 125
+index 0, action West, depth 124
+index 2, action West, depth 125
+index 0, action West, depth 122
+index 2, action West, depth 125
+index 0, action East, depth 123
+index 2, action East, depth 125
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 124
+index 0, action East, depth 124
+index 2, action East, depth 126
+index 0, action East, depth 124
+index 2, action East, depth 125
+index 0, action East, depth 123
+index 2, action West, depth 127
+index 0, action East, depth 122
+index 2, action East, depth 128
+index 0, action East, depth 122
+index 2, action West, depth 126
+index 0, action West, depth 123
+index 2, action East, depth 128
+index 0, action West, depth 120
+index 2, action West, depth 127
+index 0, action North, depth 121
+index 2, action West, depth 127
+index 0, action South, depth 122
+index 2, action East, depth 128
+index 0, action West, depth 124
+index 2, action East, depth 128
+index 0, action West, depth 121
+index 2, action West, depth 126
+index 0, action West, depth 126
+index 2, action West, depth 128
+index 0, action West, depth 130
+index 2, action East, depth 127
+index 0, action West, depth 128
+index 2, action West, depth 128
+index 0, action East, depth 129
+index 2, action East, depth 128
+index 0, action West, depth 129
+index 2, action West, depth 128
+index 0, action West, depth 130
+index 2, action West, depth 128
+index 0, action East, depth 127
+index 2, action East, depth 128
+index 0, action East, depth 130
+index 2, action West, depth 128
+index 0, action West, depth 129
+index 2, action East, depth 128
+index 0, action East, depth 127
+index 2, action West, depth 128
+index 0, action East, depth 126
+index 2, action West, depth 128
+index 0, action East, depth 133
+index 2, action West, depth 128
+index 0, action North, depth 131
+index 2, action West, depth 127
+index 0, action North, depth 129
+index 2, action East, depth 128
+index 0, action East, depth 133
+index 2, action East, depth 128
+index 0, action East, depth 135
+index 2, action East, depth 128
+index 0, action East, depth 132
+index 2, action West, depth 128
+index 0, action East, depth 122
+index 2, action West, depth 128
+index 0, action East, depth 123
+index 2, action East, depth 128
+index 0, action West, depth 124
+index 2, action East, depth 128
+index 0, action East, depth 122
+index 2, action West, depth 128
+index 0, action South, depth 123
+index 2, action East, depth 128
+index 0, action South, depth 121
+index 2, action West, depth 128
+index 0, action South, depth 122
+index 2, action West, depth 128
+index 0, action North, depth 124
+index 2, action East, depth 128
+index 0, action North, depth 124
+index 2, action East, depth 128
+index 0, action South, depth 121
+index 2, action West, depth 128
+index 0, action North, depth 122
+index 2, action East, depth 128
+index 0, action South, depth 121
+index 2, action East, depth 127
+index 0, action North, depth 123
+index 2, action East, depth 128
+index 0, action South, depth 121
+index 2, action East, depth 128
+index 0, action North, depth 124
+index 2, action West, depth 127
+index 0, action South, depth 122
+index 2, action West, depth 128
+index 0, action West, depth 121
+index 2, action East, depth 128
+index 0, action East, depth 124
+index 2, action East, depth 128
+index 0, action South, depth 121
+index 2, action West, depth 127
+index 0, action North, depth 124
+index 2, action East, depth 128
+index 0, action South, depth 121
+index 2, action West, depth 126
+index 0, action North, depth 124
+index 2, action East, depth 128
+index 0, action South, depth 122
+index 2, action West, depth 126
+index 0, action South, depth 121
+index 2, action West, depth 128
+index 0, action North, depth 123
+index 2, action East, depth 127
+index 0, action South, depth 121
+index 2, action East, depth 128
+index 0, action North, depth 124
+index 2, action West, depth 127
+index 0, action South, depth 121
+index 2, action East, depth 128
+index 0, action North, depth 123
+index 2, action West, depth 127
+index 0, action North, depth 123
+index 2, action West, depth 128
+index 0, action North, depth 124
+index 2, action East, depth 128
+index 0, action South, depth 123
+index 2, action East, depth 128
+index 0, action North, depth 124
+index 2, action West, depth 126
+3.5899999999999874
+3.5899999999999874
+Episode reward: 7.179999999999975
+enemy: MCTSTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.6099999999999888
+3.6099999999999888
+Episode reward: 7.2199999999999775
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.259999999999988
+3.259999999999988
+Episode reward: 6.519999999999976
+Episode 60/800, Average Reward: 5.28, Win Rate: 0.50
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.4499999999999904
+3.4499999999999904
+Episode reward: 6.899999999999981
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.2399999999999873
+3.2399999999999873
+Episode reward: 6.479999999999975
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.1399999999999895
+3.1399999999999895
+Episode reward: 6.279999999999979
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.2999999999999896
+3.2999999999999896
+Episode reward: 6.599999999999979
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.5400000000000003
+0.5400000000000003
+Episode reward: 1.0800000000000005
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.6099999999999897
+3.6099999999999897
+Episode reward: 7.219999999999979
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+2.619999999999996
+2.619999999999996
+Episode reward: 5.239999999999992
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.369999999999988
+3.369999999999988
+Episode reward: 6.739999999999976
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.4899999999999896
+3.4899999999999896
+Episode reward: 6.979999999999979
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.42000000000000015
+0.42000000000000015
+Episode reward: 0.8400000000000003
+Episode 70/800, Average Reward: 5.44, Win Rate: 0.30
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.299999999999988
+3.299999999999988
+Episode reward: 6.599999999999976
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.2799999999999927
+3.2799999999999927
+Episode reward: 6.559999999999985
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.3699999999999926
+3.3699999999999926
+Episode reward: 6.739999999999985
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.479999999999986
+3.479999999999986
+Episode reward: 6.959999999999972
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.469999999999989
+3.469999999999989
+Episode reward: 6.939999999999978
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.089999999999992
+3.089999999999992
+Episode reward: 6.179999999999984
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.3899999999999926
+3.3899999999999926
+Episode reward: 6.779999999999985
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+0.5000000000000001
+0.5000000000000001
+Episode reward: 1.0000000000000002
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+3.4999999999999893
+3.4999999999999893
+Episode reward: 6.999999999999979
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.4199999999999875
+3.4199999999999875
+Episode reward: 6.839999999999975
+Episode 80/800, Average Reward: 6.16, Win Rate: 0.10
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/MCTSTeam.py
+Arguments: {}
+Blue team starts
+index 0, action West, depth 125
+index 2, action West, depth 124
+index 0, action East, depth 124
+index 2, action West, depth 125
+index 0, action West, depth 125
+index 2, action West, depth 124
+index 0, action East, depth 126
+index 2, action West, depth 123
+index 0, action West, depth 126
+index 2, action West, depth 125
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 124
+index 2, action West, depth 127
+index 0, action West, depth 124
+index 2, action East, depth 124
+index 0, action East, depth 126
+index 2, action West, depth 126
+index 0, action West, depth 125
+index 2, action East, depth 125
+index 0, action East, depth 124
+index 2, action West, depth 125
+index 0, action East, depth 125
+index 2, action East, depth 124
+index 0, action West, depth 126
+index 2, action East, depth 127
+index 0, action West, depth 123
+index 2, action West, depth 125
+index 0, action East, depth 125
+index 2, action East, depth 123
+index 0, action West, depth 125
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 125
+index 0, action West, depth 124
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action West, depth 123
+index 0, action West, depth 123
+index 2, action East, depth 126
+index 0, action East, depth 124
+index 2, action West, depth 125
+index 0, action West, depth 124
+index 2, action West, depth 125
+index 0, action West, depth 126
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action West, depth 124
+index 0, action East, depth 125
+index 2, action West, depth 123
+index 0, action West, depth 126
+index 2, action West, depth 124
+index 0, action West, depth 127
+index 2, action East, depth 126
+index 0, action West, depth 126
+index 2, action West, depth 127
+index 0, action East, depth 127
+index 2, action East, depth 123
+index 0, action East, depth 123
+index 2, action West, depth 124
+index 0, action East, depth 127
+index 2, action East, depth 126
+index 0, action West, depth 125
+index 2, action West, depth 125
+index 0, action West, depth 127
+index 2, action West, depth 124
+index 0, action East, depth 126
+index 2, action East, depth 126
+index 0, action West, depth 125
+index 2, action East, depth 124
+index 0, action East, depth 123
+index 2, action West, depth 124
+index 0, action West, depth 125
+index 2, action East, depth 125
+index 0, action East, depth 123
+index 2, action West, depth 125
+index 0, action East, depth 125
+index 2, action East, depth 123
+index 0, action West, depth 127
+index 2, action East, depth 124
+index 0, action East, depth 126
+index 2, action West, depth 124
+index 0, action West, depth 126
+index 2, action East, depth 124
+index 0, action East, depth 124
+index 2, action West, depth 124
+index 0, action West, depth 127
+index 2, action West, depth 125
+index 0, action West, depth 125
+index 2, action West, depth 125
+index 0, action East, depth 127
+index 2, action West, depth 124
+index 0, action West, depth 127
+index 2, action North, depth 124
+index 0, action East, depth 125
+index 2, action South, depth 123
+index 0, action East, depth 123
+index 2, action North, depth 125
+index 0, action West, depth 123
+index 2, action South, depth 125
+index 0, action East, depth 123
+index 2, action North, depth 125
+index 0, action West, depth 124
+index 2, action North, depth 127
+index 0, action East, depth 126
+index 2, action East, depth 123
+index 0, action West, depth 125
+index 2, action East, depth 122
+index 0, action East, depth 125
+index 2, action West, depth 123
+index 0, action West, depth 125
+index 2, action West, depth 122
+index 0, action East, depth 125
+index 2, action East, depth 126
+index 0, action West, depth 124
+index 2, action West, depth 126
+index 0, action East, depth 126
+index 2, action East, depth 127
+index 0, action West, depth 125
+index 2, action West, depth 124
+index 0, action East, depth 124
+index 2, action North, depth 123
+index 0, action West, depth 124
+index 2, action North, depth 122
+index 0, action East, depth 124
+index 2, action East, depth 123
+index 0, action West, depth 125
+index 2, action West, depth 124
+index 0, action West, depth 124
+index 2, action East, depth 122
+index 0, action West, depth 125
+index 2, action West, depth 122
+index 0, action East, depth 125
+index 2, action East, depth 123
+index 0, action East, depth 124
+index 2, action East, depth 125
+index 0, action West, depth 125
+index 2, action East, depth 124
+index 0, action West, depth 124
+index 2, action South, depth 121
+index 0, action West, depth 125
+index 2, action South, depth 120
+index 0, action East, depth 123
+index 2, action East, depth 123
+index 0, action West, depth 124
+index 2, action East, depth 120
+index 0, action West, depth 123
+index 2, action North, depth 121
+index 0, action West, depth 123
+index 2, action North, depth 120
+index 0, action North, depth 124
+index 2, action West, depth 120
+index 0, action North, depth 125
+index 2, action West, depth 120
+index 0, action East, depth 124
+index 2, action East, depth 120
+index 0, action East, depth 126
+index 2, action East, depth 120
+index 0, action West, depth 124
+index 2, action West, depth 120
+index 0, action East, depth 125
+index 2, action West, depth 120
+index 0, action East, depth 124
+index 2, action South, depth 120
+index 0, action North, depth 124
+index 2, action North, depth 120
+index 0, action South, depth 120
+index 2, action East, depth 120
+index 0, action West, depth 126
+index 2, action West, depth 120
+index 0, action East, depth 124
+index 2, action East, depth 122
+index 0, action West, depth 124
+index 2, action East, depth 120
+index 0, action West, depth 125
+index 2, action East, depth 120
+index 0, action West, depth 124
+index 2, action West, depth 120
+index 0, action North, depth 123
+index 2, action South, depth 120
+index 0, action North, depth 122
+index 2, action North, depth 120
+index 0, action East, depth 129
+index 2, action West, depth 120
+index 0, action East, depth 123
+index 2, action East, depth 120
+index 0, action East, depth 126
+index 2, action South, depth 120
+index 0, action South, depth 121
+index 2, action North, depth 120
+index 0, action South, depth 122
+index 2, action South, depth 120
+index 0, action East, depth 124
+index 2, action South, depth 120
+index 0, action West, depth 120
+index 2, action West, depth 120
+index 0, action West, depth 124
+index 2, action East, depth 120
+index 0, action East, depth 125
+index 2, action West, depth 120
+index 0, action East, depth 124
+index 2, action East, depth 120
+index 0, action West, depth 120
+index 2, action West, depth 120
+index 0, action North, depth 124
+index 2, action West, depth 120
+index 0, action South, depth 120
+index 2, action West, depth 120
+index 0, action West, depth 125
+index 2, action East, depth 122
+index 0, action East, depth 125
+index 2, action East, depth 121
+index 0, action West, depth 124
+index 2, action West, depth 120
+index 0, action East, depth 125
+index 2, action East, depth 121
+index 0, action North, depth 125
+index 2, action West, depth 120
+index 0, action South, depth 120
+index 2, action East, depth 123
+index 0, action East, depth 126
+index 2, action West, depth 120
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action East, depth 122
+index 2, action West, depth 126
+index 0, action East, depth 123
+index 2, action East, depth 126
+index 0, action West, depth 122
+index 2, action West, depth 123
+index 0, action West, depth 123
+index 2, action West, depth 122
+index 0, action North, depth 123
+index 2, action East, depth 127
+index 0, action South, depth 122
+index 2, action East, depth 124
+index 0, action West, depth 121
+index 2, action East, depth 125
+index 0, action East, depth 123
+index 2, action East, depth 124
+index 0, action East, depth 121
+index 2, action East, depth 120
+index 0, action East, depth 121
+index 2, action West, depth 120
+index 0, action West, depth 122
+index 2, action East, depth 120
+index 0, action West, depth 120
+index 2, action North, depth 120
+index 0, action East, depth 121
+index 2, action South, depth 120
+index 0, action West, depth 122
+index 2, action North, depth 120
+index 0, action East, depth 122
+index 2, action North, depth 120
+index 0, action West, depth 122
+index 2, action East, depth 120
+index 0, action North, depth 122
+index 2, action West, depth 120
+index 0, action South, depth 122
+index 2, action East, depth 120
+index 0, action North, depth 123
+index 2, action West, depth 120
+index 0, action South, depth 121
+index 2, action West, depth 120
+index 0, action East, depth 122
+index 2, action West, depth 120
+index 0, action East, depth 122
+index 2, action West, depth 120
+index 0, action East, depth 123
+index 2, action West, depth 121
+index 0, action West, depth 122
+index 2, action East, depth 122
+index 0, action West, depth 122
+index 2, action East, depth 122
+index 0, action West, depth 122
+index 2, action South, depth 121
+index 0, action North, depth 122
+index 2, action South, depth 120
+index 0, action South, depth 122
+index 2, action West, depth 124
+index 0, action West, depth 122
+index 2, action East, depth 121
+index 0, action West, depth 122
+index 2, action West, depth 120
+index 0, action West, depth 123
+index 2, action East, depth 123
+index 0, action East, depth 121
+index 2, action East, depth 121
+index 0, action West, depth 125
+index 2, action West, depth 121
+index 0, action West, depth 121
+index 2, action North, depth 120
+index 0, action East, depth 124
+index 2, action South, depth 120
+index 0, action West, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 123
+index 2, action East, depth 121
+index 0, action West, depth 124
+index 2, action North, depth 121
+index 0, action West, depth 124
+index 2, action North, depth 120
+index 0, action North, depth 125
+index 2, action South, depth 121
+index 0, action North, depth 123
+index 2, action South, depth 120
+index 0, action East, depth 125
+index 2, action North, depth 120
+index 0, action East, depth 122
+index 2, action South, depth 120
+index 0, action East, depth 123
+index 2, action West, depth 120
+index 0, action South, depth 122
+index 2, action East, depth 121
+index 0, action North, depth 120
+index 2, action North, depth 121
+index 0, action West, depth 121
+index 2, action North, depth 120
+index 0, action East, depth 125
+index 2, action East, depth 121
+index 0, action South, depth 124
+index 2, action West, depth 120
+index 0, action North, depth 120
+index 2, action East, depth 122
+index 0, action South, depth 126
+index 2, action East, depth 120
+index 0, action North, depth 121
+index 2, action West, depth 120
+index 0, action East, depth 121
+index 2, action East, depth 120
+index 0, action East, depth 122
+index 2, action West, depth 120
+index 0, action South, depth 122
+index 2, action East, depth 120
+index 0, action North, depth 120
+index 2, action West, depth 120
+index 0, action West, depth 122
+index 2, action East, depth 120
+index 0, action East, depth 121
+index 2, action West, depth 120
+index 0, action West, depth 122
+index 2, action West, depth 120
+index 0, action East, depth 122
+index 2, action West, depth 125
+index 0, action West, depth 122
+index 2, action West, depth 121
+index 0, action West, depth 122
+index 2, action West, depth 124
+index 0, action South, depth 122
+index 2, action East, depth 125
+index 0, action North, depth 120
+index 2, action East, depth 126
+index 0, action East, depth 121
+index 2, action East, depth 124
+index 0, action East, depth 122
+index 2, action South, depth 125
+index 0, action West, depth 122
+index 2, action North, depth 120
+index 0, action West, depth 122
+index 2, action East, depth 122
+index 0, action East, depth 126
+index 2, action East, depth 120
+index 0, action East, depth 122
+index 2, action East, depth 120
+index 0, action East, depth 120
+index 2, action West, depth 120
+index 0, action West, depth 122
+index 2, action West, depth 120
+index 0, action East, depth 122
+index 2, action West, depth 121
+index 0, action East, depth 122
+index 2, action West, depth 126
+index 0, action West, depth 122
+index 2, action West, depth 121
+index 0, action East, depth 122
+index 2, action East, depth 124
+index 0, action East, depth 122
+index 2, action West, depth 124
+index 0, action East, depth 123
+index 2, action West, depth 123
+index 0, action East, depth 122
+index 2, action South, depth 123
+index 0, action East, depth 122
+index 2, action North, depth 121
+index 0, action East, depth 122
+index 2, action East, depth 123
+index 0, action South, depth 121
+index 2, action East, depth 127
+index 0, action South, depth 122
+index 2, action East, depth 125
+index 0, action East, depth 123
+index 2, action South, depth 126
+index 0, action East, depth 123
+index 2, action South, depth 124
+index 0, action East, depth 124
+index 2, action West, depth 127
+index 0, action East, depth 122
+index 2, action West, depth 127
+index 0, action East, depth 122
+index 2, action East, depth 127
+index 0, action North, depth 120
+index 2, action East, depth 127
+index 0, action North, depth 120
+index 2, action East, depth 128
+index 0, action South, depth 120
+index 2, action East, depth 123
+index 0, action North, depth 120
+index 2, action West, depth 125
+index 0, action West, depth 120
+index 2, action West, depth 123
+index 0, action West, depth 120
+index 2, action North, depth 127
+index 0, action West, depth 120
+index 2, action South, depth 124
+index 0, action South, depth 120
+index 2, action East, depth 127
+index 0, action North, depth 120
+index 2, action West, depth 123
+index 0, action West, depth 120
+index 2, action East, depth 127
+index 0, action West, depth 122
+index 2, action West, depth 123
+index 0, action West, depth 122
+index 2, action North, depth 128
+index 0, action West, depth 122
+index 2, action North, depth 124
+index 0, action West, depth 122
+index 2, action South, depth 120
+index 0, action West, depth 122
+index 2, action South, depth 123
+2.399999999999998
+2.399999999999998
+Episode reward: 4.799999999999996
+enemy: MCTSTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+4.369999999999983
+4.369999999999983
+Episode reward: 8.739999999999966
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.389999999999988
+3.389999999999988
+Episode reward: 6.779999999999976
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.1199999999999877
+3.1199999999999877
+Episode reward: 6.239999999999975
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.3499999999999868
+3.3499999999999868
+Episode reward: 6.6999999999999735
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+3.39999999999999
+3.39999999999999
+Episode reward: 6.79999999999998
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.179999999999989
+3.179999999999989
+Episode reward: 6.359999999999978
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.1799999999999895
+3.1799999999999895
+Episode reward: 6.359999999999979
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.2699999999999863
+3.2699999999999863
+Episode reward: 6.5399999999999725
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+1.8600000000000014
+1.8600000000000014
+Episode reward: 3.720000000000003
+Episode 90/800, Average Reward: 6.30, Win Rate: 0.20
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.2299999999999907
+3.2299999999999907
+Episode reward: 6.459999999999981
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.3499999999999877
+3.3499999999999877
+Episode reward: 6.699999999999975
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/AstarTeam.py
+Arguments: {}
+Blue team starts
+2.17
+2.17
+Episode reward: 4.34
+enemy: AstarTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Blue team starts
+1.6600000000000013
+1.6600000000000013
+Episode reward: 3.3200000000000025
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+3.229999999999989
+3.229999999999989
+Episode reward: 6.459999999999978
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.1299999999999892
+3.1299999999999892
+Episode reward: 6.2599999999999785
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.349999999999988
+3.349999999999988
+Episode reward: 6.699999999999976
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Red team starts
+3.2199999999999855
+3.2199999999999855
+Episode reward: 6.439999999999971
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.1499999999999884
+3.1499999999999884
+Episode reward: 6.299999999999977
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+1.7000000000000013
+1.7000000000000013
+Episode reward: 3.4000000000000026
+Episode 100/800, Average Reward: 5.64, Win Rate: 0.30
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.229999999999987
+3.229999999999987
+Episode reward: 6.459999999999974
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.2499999999999862
+3.2499999999999862
+Episode reward: 6.4999999999999725
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/approxQTeam.py
+Arguments: {}
+Blue team starts
+3.0099999999999882
+3.0099999999999882
+Episode reward: 6.0199999999999765
+enemy: approxQTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.0999999999999877
+3.0999999999999877
+Episode reward: 6.199999999999975
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/heuristicTeam.py
+Arguments: {}
+Red team starts
+1.7200000000000013
+1.7200000000000013
+Episode reward: 3.4400000000000026
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.639999999999987
+3.639999999999987
+Episode reward: 7.279999999999974
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts

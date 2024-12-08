@@ -1,0 +1,19 @@
+{"time":"2024-12-08T13:05:24.5135759+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-08T13:05:24.513734+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\josse\\OneDrive\\Documenten\\creditcontract\\RL\\RL_MARL_QMIX\\wandb\\run-20241208_130524-LSTM_tournament2_tiny__20241208_130524\\logs\\debug-core.log"}
+{"time":"2024-12-08T13:05:24.6383292+01:00","level":"INFO","msg":"created new stream","id":"LSTM_tournament2_tiny__20241208_130524"}
+{"time":"2024-12-08T13:05:24.6383292+01:00","level":"INFO","msg":"stream: started","id":"LSTM_tournament2_tiny__20241208_130524"}
+{"time":"2024-12-08T13:05:24.6385326+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"LSTM_tournament2_tiny__20241208_130524"}
+{"time":"2024-12-08T13:05:24.6385326+01:00","level":"INFO","msg":"handler: started","stream_id":"LSTM_tournament2_tiny__20241208_130524"}
+{"time":"2024-12-08T13:05:24.6385326+01:00","level":"INFO","msg":"sender: started","stream_id":"LSTM_tournament2_tiny__20241208_130524"}
+{"time":"2024-12-08T13:05:25.0363681+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-08T13:05:25.9984432+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-08T13:05:39.3113143+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-08T13:05:40.1750424+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-08T13:05:40.1750424+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-08T13:05:41.1860614+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.7643479},{"desc":"uploading output.log","runtime_seconds":0.4446628,"progress":"16.1KB/16.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.4446628,"progress":"522B/522B"}],"total_operations":3}}
+{"time":"2024-12-08T13:05:41.3880653+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-08T13:05:43.0022005+01:00","level":"INFO","msg":"stream: closing","id":"LSTM_tournament2_tiny__20241208_130524"}
+{"time":"2024-12-08T13:05:43.0022005+01:00","level":"INFO","msg":"handler: closed","stream_id":"LSTM_tournament2_tiny__20241208_130524"}
+{"time":"2024-12-08T13:05:43.0022005+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"LSTM_tournament2_tiny__20241208_130524"}
+{"time":"2024-12-08T13:05:43.0022005+01:00","level":"INFO","msg":"sender: closed","stream_id":"LSTM_tournament2_tiny__20241208_130524"}
+{"time":"2024-12-08T13:05:43.0022005+01:00","level":"INFO","msg":"stream: closed","id":"LSTM_tournament2_tiny__20241208_130524"}

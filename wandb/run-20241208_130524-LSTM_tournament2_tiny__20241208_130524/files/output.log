@@ -1,0 +1,200 @@
+Loaded layout from file
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+C:\Users\josse\AppData\Local\Temp\ipykernel_27180\1334243878.py:51: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+state: torch.Size([8, 7, 20])
+hidden: torch.Size([2, 1, 1, 64])
+CHECK:  torch.Size([2, 1, 1, 64])
+CHECK 2:  torch.Size([2, 1, 1, 64])
+state: torch.Size([8, 7, 20])
+hidden: torch.Size([2, 1, 1, 64])
+random action
+C:\Users\josse\AppData\Local\Temp\ipykernel_27180\1334243878.py:69: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  next_states_converted.append(torch.tensor(next_states[index], dtype=torch.float32))
+hidden batch torch.Size([2, 2, 1, 1, 64])
+shape:  torch.Size([2, 2, 1, 32, 64])
+torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+C:\Users\josse\AppData\Local\Temp\ipykernel_27180\765435999.py:39: UserWarning: Using a target size (torch.Size([32, 1])) that is different to the input size (torch.Size([32, 32])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  td_loss = F.huber_loss(target_q_tot, q_tot,  reduction="none")
+c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\autograd\graph.py:825: UserWarning: Error detected in CudnnRnnBackward0. Traceback of forward call that caused the error:
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel_launcher.py", line 18, in <module>
+    app.launch_new_instance()
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\traitlets\config\application.py", line 1075, in launch_instance
+    app.start()
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\kernelapp.py", line 739, in start
+    self.io_loop.start()
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\tornado\platform\asyncio.py", line 205, in start
+    self.asyncio_loop.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2288.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 640, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2288.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1992, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2288.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\kernelbase.py", line 545, in dispatch_queue
+    await self.process_one()
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\kernelbase.py", line 534, in process_one
+    await dispatch(*args)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\kernelbase.py", line 437, in dispatch_shell
+    await result
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\ipkernel.py", line 362, in execute_request
+    await super().execute_request(stream, ident, parent)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\kernelbase.py", line 778, in execute_request
+    reply_content = await reply_content
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\ipkernel.py", line 449, in do_execute
+    res = shell.run_cell(
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\zmqshell.py", line 549, in run_cell
+    return super().run_cell(*args, **kwargs)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\interactiveshell.py", line 3075, in run_cell
+    result = self._run_cell(
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\interactiveshell.py", line 3130, in _run_cell
+    result = runner(coro)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\async_helpers.py", line 128, in _pseudo_sync_runner
+    coro.send(None)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\interactiveshell.py", line 3334, in run_cell_async
+    has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\interactiveshell.py", line 3517, in run_ast_nodes
+    if await self.run_code(code, result, async_=asy):
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\interactiveshell.py", line 3577, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "C:\Users\josse\AppData\Local\Temp\ipykernel_27180\599928082.py", line 7, in <module>
+    train_qmix(env, "test", agent_q_networks, mixing_network, target_q_networks, replay_buffer, train_p, learn_p, random_enemy=True)
+  File "C:\Users\josse\AppData\Local\Temp\ipykernel_27180\1334243878.py", line 54, in train_qmix
+    action, hidden_states[i, :, :, :, :] = epsilon_greedy_action(agent_q_networks[i], state, hidden_states[i, :, :, :, :], epsilon, legal_actions)
+  File "C:\Users\josse\AppData\Local\Temp\ipykernel_27180\1617760191.py", line 45, in epsilon_greedy_action
+    q_values, hidden = agent_q_network(state, hidden)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\josse\AppData\Local\Temp\ipykernel_27180\71576083.py", line 41, in forward
+    lstm_out, (hx, cx) = self.lstm(projected_state, (hx, cx))
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\nn\modules\rnn.py", line 1123, in forward
+    result = _VF.lstm(
+ (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\torch\csrc\autograd\python_anomaly_mode.cpp:115.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+Loaded layout from file
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+C:\Users\josse\AppData\Local\Temp\ipykernel_27180\1334243878.py:51: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+state: torch.Size([8, 7, 20])
+hidden: torch.Size([2, 1, 1, 64])
+random action
+state: torch.Size([8, 7, 20])
+hidden: torch.Size([2, 1, 1, 64])
+random action
+C:\Users\josse\AppData\Local\Temp\ipykernel_27180\1334243878.py:69: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  next_states_converted.append(torch.tensor(next_states[index], dtype=torch.float32))
+hidden batch torch.Size([2, 2, 1, 1, 64])
+shape:  torch.Size([2, 2, 1, 32, 64])
+torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+CHECK:  torch.Size([2, 1, 32, 64])
+CHECK 2:  torch.Size([2, 1, 32, 64])
+C:\Users\josse\AppData\Local\Temp\ipykernel_27180\765435999.py:39: UserWarning: Using a target size (torch.Size([32, 1])) that is different to the input size (torch.Size([32, 32])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  td_loss = F.huber_loss(target_q_tot, q_tot,  reduction="none")
+c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\autograd\graph.py:825: UserWarning: Error detected in struct torch::autograd::CopySlices. Traceback of forward call that caused the error:
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel_launcher.py", line 18, in <module>
+    app.launch_new_instance()
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\traitlets\config\application.py", line 1075, in launch_instance
+    app.start()
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\kernelapp.py", line 739, in start
+    self.io_loop.start()
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\tornado\platform\asyncio.py", line 205, in start
+    self.asyncio_loop.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2288.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 640, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2288.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1992, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2288.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\kernelbase.py", line 545, in dispatch_queue
+    await self.process_one()
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\kernelbase.py", line 534, in process_one
+    await dispatch(*args)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\kernelbase.py", line 437, in dispatch_shell
+    await result
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\ipkernel.py", line 362, in execute_request
+    await super().execute_request(stream, ident, parent)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\kernelbase.py", line 778, in execute_request
+    reply_content = await reply_content
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\ipkernel.py", line 449, in do_execute
+    res = shell.run_cell(
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\ipykernel\zmqshell.py", line 549, in run_cell
+    return super().run_cell(*args, **kwargs)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\interactiveshell.py", line 3075, in run_cell
+    result = self._run_cell(
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\interactiveshell.py", line 3130, in _run_cell
+    result = runner(coro)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\async_helpers.py", line 128, in _pseudo_sync_runner
+    coro.send(None)
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\interactiveshell.py", line 3334, in run_cell_async
+    has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\interactiveshell.py", line 3517, in run_ast_nodes
+    if await self.run_code(code, result, async_=asy):
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\IPython\core\interactiveshell.py", line 3577, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "C:\Users\josse\AppData\Local\Temp\ipykernel_27180\599928082.py", line 7, in <module>
+    train_qmix(env, "test", agent_q_networks, mixing_network, target_q_networks, replay_buffer, train_p, learn_p, random_enemy=True)
+  File "C:\Users\josse\AppData\Local\Temp\ipykernel_27180\1334243878.py", line 54, in train_qmix
+    action, hidden_states[i, :, :, :, :] = epsilon_greedy_action(agent_q_networks[i], state, hidden_states[i, :, :, :, :], epsilon, legal_actions)
+ (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\torch\csrc\autograd\python_anomaly_mode.cpp:115.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\josse\AppData\Local\Temp\ipykernel_27180\143771348.py", line 8, in <module>
+    train_qmix(env, "test", agent_q_networks, mixing_network, target_q_networks, replay_buffer, train_p, learn_p, random_enemy=True)
+  File "C:\Users\josse\AppData\Local\Temp\ipykernel_27180\1334243878.py", line 84, in train_qmix
+    loss.backward()
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\_tensor.py", line 581, in backward
+    torch.autograd.backward(
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\autograd\__init__.py", line 347, in backward
+    _engine_run_backward(
+  File "c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\autograd\graph.py", line 825, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Trying to backward through the graph a second time (or directly access saved tensors after they have already been freed). Saved intermediate values of the graph are freed when you call .backward() or autograd.grad(). Specify retain_graph=True if you need to backward through the graph a second time or if you need to access saved tensors after calling backward.
+None
