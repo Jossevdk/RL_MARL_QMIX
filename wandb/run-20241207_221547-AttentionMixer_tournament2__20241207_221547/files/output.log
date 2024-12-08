@@ -1,0 +1,59 @@
+Loaded layout from file
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+enemy: heuristicTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+C:\Users\josse\AppData\Local\Temp\ipykernel_5580\424169158.py:53: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+1.8700000000000012
+1.8700000000000012
+Episode reward: 3.7400000000000024
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.9400000000000015
+1.9400000000000015
+Episode reward: 3.880000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.9800000000000015
+1.9800000000000015
+Episode reward: 3.960000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/baselineTeam.py
+Arguments: {}
+Red team starts
+-1.5399999999999998
+-1.5399999999999998
+Episode reward: -3.0799999999999996
+enemy: baselineTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.060000000000001
+2.060000000000001
+Episode reward: 4.120000000000002
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9700000000000015
+1.9700000000000015
+Episode reward: 3.940000000000003
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.9700000000000013
+1.9700000000000013
+Episode reward: 3.9400000000000026
+enemy: randomTeam.py
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts

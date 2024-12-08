@@ -1,0 +1,71 @@
+Loaded layout from file
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\nn\modules\transformer.py:379: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.self_attn.batch_first was not True(use batch_first for better inference performance)
+  warnings.warn(
+[4, 8, 9, 10]
+Blue team starts
+C:\Users\josse\AppData\Local\Temp\ipykernel_20684\619929889.py:37: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+4.439999999999987
+4.439999999999987
+Episode reward: 8.879999999999974
+Blue team starts
+5.349999999999992
+5.349999999999992
+Episode reward: 10.699999999999983
+Red team starts
+Loaded layout from file
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+Red team starts
+C:\Users\josse\AppData\Local\Temp\ipykernel_20684\619929889.py:37: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+Loaded layout from file
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\nn\modules\transformer.py:379: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.self_attn.batch_first was not True(use batch_first for better inference performance)
+  warnings.warn(
+[4, 8, 11, 14]
+Blue team starts
+C:\Users\josse\AppData\Local\Temp\ipykernel_20684\619929889.py:37: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+2.1
+2.1
+Episode reward: 4.2
+Red team starts
+2.6099999999999945
+2.6099999999999945
+Episode reward: 5.219999999999989
+Red team starts
+1.8900000000000015
+1.8900000000000015
+Episode reward: 3.780000000000003
+Red team starts
+1.9200000000000015
+1.9200000000000015
+Episode reward: 3.840000000000003
+Red team starts
+1.8000000000000014
+1.8000000000000014
+Episode reward: 3.6000000000000028
+Blue team starts
+3.2599999999999922
+3.2599999999999922
+Episode reward: 6.5199999999999845
+Red team starts
+Loaded layout from file
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\venv\Lib\site-packages\torch\nn\modules\transformer.py:379: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.self_attn.batch_first was not True(use batch_first for better inference performance)
+  warnings.warn(
+[4, 8, 11, 14]
+Loading Team: c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+C:\Users\josse\AppData\Local\Temp\ipykernel_20684\850591710.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
