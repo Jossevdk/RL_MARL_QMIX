@@ -1,1 +1,0 @@
-{"_timestamp":1.7336053141792367e+09,"loss":6.469839718192816e-05,"score":-11,"_runtime":287.594376,"_step":690,"blue_player1_reward":-1.71,"epsilon":0.5467500000000001,"episode":3,"_wandb":{"runtime":287},"blue_player2_reward":-1.71,"enemy":"baselineTeam.py"}

@@ -1,9 +1,0 @@
-{"time":"2024-12-09T09:03:12.6510587+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
-{"time":"2024-12-09T09:03:12.6515893+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\josse\\OneDrive\\Documenten\\creditcontract\\RL\\RL_MARL_QMIX\\wandb\\run-20241209_090312-CNN2_tournament2_tiny__20241209_090312\\logs\\debug-core.log"}
-{"time":"2024-12-09T09:03:12.7763841+01:00","level":"INFO","msg":"created new stream","id":"CNN2_tournament2_tiny__20241209_090312"}
-{"time":"2024-12-09T09:03:12.7763841+01:00","level":"INFO","msg":"stream: started","id":"CNN2_tournament2_tiny__20241209_090312"}
-{"time":"2024-12-09T09:03:12.7765582+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"CNN2_tournament2_tiny__20241209_090312"}
-{"time":"2024-12-09T09:03:12.7765582+01:00","level":"INFO","msg":"handler: started","stream_id":"CNN2_tournament2_tiny__20241209_090312"}
-{"time":"2024-12-09T09:03:12.7765582+01:00","level":"INFO","msg":"sender: started","stream_id":"CNN2_tournament2_tiny__20241209_090312"}
-{"time":"2024-12-09T09:03:13.0952409+01:00","level":"INFO","msg":"Starting system monitor"}
-{"time":"2024-12-09T09:04:29.405277+01:00","level":"INFO","msg":"Pausing system monitor"}
