@@ -1,0 +1,8 @@
+{"time":"2024-12-09T14:31:08.9407239+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-09T14:31:08.9407239+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\josse\\OneDrive\\Documenten\\creditcontract\\RL\\RL_MARL_QMIX\\wandb\\run-20241209_143108-LSTM_hidden_tournament2_tiny__20241209_143108\\logs\\debug-core.log"}
+{"time":"2024-12-09T14:31:09.0923118+01:00","level":"INFO","msg":"created new stream","id":"LSTM_hidden_tournament2_tiny__20241209_143108"}
+{"time":"2024-12-09T14:31:09.0923118+01:00","level":"INFO","msg":"stream: started","id":"LSTM_hidden_tournament2_tiny__20241209_143108"}
+{"time":"2024-12-09T14:31:09.0923118+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"LSTM_hidden_tournament2_tiny__20241209_143108"}
+{"time":"2024-12-09T14:31:09.0923118+01:00","level":"INFO","msg":"handler: started","stream_id":"LSTM_hidden_tournament2_tiny__20241209_143108"}
+{"time":"2024-12-09T14:31:09.0923118+01:00","level":"INFO","msg":"sender: started","stream_id":"LSTM_hidden_tournament2_tiny__20241209_143108"}
+{"time":"2024-12-09T14:31:09.4351374+01:00","level":"INFO","msg":"Starting system monitor"}

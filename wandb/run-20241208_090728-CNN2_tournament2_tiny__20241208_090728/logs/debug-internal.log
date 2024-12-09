@@ -69,3 +69,35 @@
 {"time":"2024-12-08T14:48:57.1081471+01:00","level":"INFO","msg":"Pausing system monitor"}
 {"time":"2024-12-08T14:48:57.1139436+01:00","level":"INFO","msg":"Resuming system monitor"}
 {"time":"2024-12-08T14:48:57.1214502+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-08T15:08:49.2048468+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-08T16:05:15.3705544+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2024-12-08T21:03:15.8240441+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/josse-vdk/uncategorized/CNN2_tournament2_tiny__20241208_090728/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-08T21:03:16.3761538+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-08T21:03:18.6786577+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/josse-vdk/uncategorized/CNN2_tournament2_tiny__20241208_090728/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-08T21:03:29.918464+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-08T21:03:29.918464+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/josse-vdk/uncategorized/CNN2_tournament2_tiny__20241208_090728/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-08T21:06:15.1392253+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-08T21:06:31.6826955+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-08T21:06:31.6879111+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-08T21:06:41.6998172+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-08T21:11:05.7472184+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-08T21:11:07.1692648+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-08T21:30:39.1257069+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-08T21:30:43.2550348+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-08T21:30:43.2585615+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-08T21:30:48.4190738+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-08T21:31:18.1556422+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-08T21:31:26.003221+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-08T21:31:52.6572401+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-08T21:31:53.5669074+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-08T21:32:24.6622831+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-08T21:32:28.1641803+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T04:22:16.8184132+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-09T04:22:16.8206133+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-09T04:22:17.8206748+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.6612104,"progress":"277B/277B"},{"desc":"uploading config.yaml","runtime_seconds":0.51111,"progress":"522B/522B"},{"desc":"uploading output.log","runtime_seconds":0.51111,"progress":"1.1MB/2.3MB"}],"total_operations":3}}
+{"time":"2024-12-09T04:22:19.0794371+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-09T04:22:20.4353838+01:00","level":"INFO","msg":"stream: closing","id":"CNN2_tournament2_tiny__20241208_090728"}
+{"time":"2024-12-09T04:22:20.4353838+01:00","level":"INFO","msg":"handler: closed","stream_id":"CNN2_tournament2_tiny__20241208_090728"}
+{"time":"2024-12-09T04:22:20.4353838+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"CNN2_tournament2_tiny__20241208_090728"}
+{"time":"2024-12-09T04:22:20.4353838+01:00","level":"INFO","msg":"sender: closed","stream_id":"CNN2_tournament2_tiny__20241208_090728"}
+{"time":"2024-12-09T04:22:20.4358887+01:00","level":"INFO","msg":"stream: closed","id":"CNN2_tournament2_tiny__20241208_090728"}

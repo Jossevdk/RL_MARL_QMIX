@@ -181,15 +181,15 @@ class gymPacMan_parallel_env:
         if self.winner == "blue":
             for agentIndex in range(len(self.agents)):
                 if agentIndex in [1, 3]:  # Blue team
-                    rewards[self.agents[agentIndex]] += 30
+                    rewards[self.agents[agentIndex]] += 10
                 else:  # Red team
-                    rewards[self.agents[agentIndex]] -= 0
+                    rewards[self.agents[agentIndex]] -= 5
         elif self.winner == "red":
             for agentIndex in range(len(self.agents)):
                 if agentIndex in [0, 2]:  # Red team
-                    rewards[self.agents[agentIndex]] += 30
+                    rewards[self.agents[agentIndex]] += 10
                 else:  # Blue team
-                    rewards[self.agents[agentIndex]] -= 0
+                    rewards[self.agents[agentIndex]] -= 5
         elif self.winner == "draw":
             for agentIndex in range(len(self.agents)):
                 rewards[self.agents[agentIndex]] += 0

@@ -1,0 +1,19 @@
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_setup.py:_flush():68] Configure stats pid to 24184
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_setup.py:_flush():68] Loading settings from C:\Users\josse\.config\wandb\settings
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_setup.py:_flush():68] Loading settings from c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\settings
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_init.py:_log_setup():528] Logging user logs to c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\run-20241209_090623-CNN2_tournament2_tiny__20241209_090623\logs\debug.log
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_init.py:_log_setup():529] Logging internal logs to c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\run-20241209_090623-CNN2_tournament2_tiny__20241209_090623\logs\debug-internal.log
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_init.py:_jupyter_setup():474] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002AFB452B4D0>
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_init.py:init():639] calling init triggers
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {}
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_init.py:init():688] starting backend
+2024-12-09 09:06:23,030 INFO    MainThread:24184 [wandb_init.py:init():692] sending inform_init request
+2024-12-09 09:06:23,074 INFO    MainThread:24184 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-12-09 09:06:23,075 INFO    MainThread:24184 [wandb_init.py:init():705] backend started and connected
+2024-12-09 09:06:23,076 INFO    MainThread:24184 [wandb_run.py:_label_probe_notebook():1327] probe notebook
+2024-12-09 09:06:23,077 INFO    MainThread:24184 [wandb_run.py:_label_probe_notebook():1337] Unable to probe notebook: 'charmap' codec can't decode byte 0x9d in position 2580: character maps to <undefined>
+2024-12-09 09:06:23,077 INFO    MainThread:24184 [wandb_init.py:init():798] updated telemetry
+2024-12-09 09:06:23,139 INFO    MainThread:24184 [wandb_init.py:init():830] communicating run to backend with 90.0 second timeout

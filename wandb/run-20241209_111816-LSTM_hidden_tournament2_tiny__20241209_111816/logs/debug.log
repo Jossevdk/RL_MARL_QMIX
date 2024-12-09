@@ -1,0 +1,11 @@
+2024-12-09 11:18:16,334 INFO    MainThread:28884 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2024-12-09 11:18:16,335 INFO    MainThread:28884 [wandb_setup.py:_flush():68] Configure stats pid to 28884
+2024-12-09 11:18:16,335 INFO    MainThread:28884 [wandb_setup.py:_flush():68] Loading settings from C:\Users\josse\.config\wandb\settings
+2024-12-09 11:18:16,335 INFO    MainThread:28884 [wandb_setup.py:_flush():68] Loading settings from c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\settings
+2024-12-09 11:18:16,336 INFO    MainThread:28884 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-09 11:18:16,336 INFO    MainThread:28884 [wandb_init.py:_log_setup():528] Logging user logs to c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\run-20241209_111816-LSTM_hidden_tournament2_tiny__20241209_111816\logs\debug.log
+2024-12-09 11:18:16,337 INFO    MainThread:28884 [wandb_init.py:_log_setup():529] Logging internal logs to c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\run-20241209_111816-LSTM_hidden_tournament2_tiny__20241209_111816\logs\debug-internal.log
+2024-12-09 11:18:16,338 INFO    MainThread:28884 [wandb_init.py:init():639] calling init triggers
+2024-12-09 11:18:16,339 INFO    MainThread:28884 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {}
+2024-12-09 11:18:16,339 INFO    MainThread:28884 [wandb_init.py:init():683] wandb.init() called when a run is still active
