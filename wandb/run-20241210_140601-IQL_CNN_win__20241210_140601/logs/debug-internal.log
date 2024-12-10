@@ -7,3 +7,33 @@
 {"time":"2024-12-10T14:06:01.4890616+01:00","level":"INFO","msg":"sender: started","stream_id":"IQL_CNN_win__20241210_140601"}
 {"time":"2024-12-10T14:06:01.7415339+01:00","level":"INFO","msg":"Starting system monitor"}
 {"time":"2024-12-10T14:10:54.5299287+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:12:54.2689886+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:12:54.2743836+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:12:54.744602+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:12:54.7545701+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:12:55.3156065+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:12:55.3209659+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:13:23.3513368+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:13:23.3582278+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:13:41.8742339+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:13:41.881155+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:14:02.4899891+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:14:02.671789+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:14:36.0892044+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:22:20.574066+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:22:20.5813579+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:22:20.5888806+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:22:20.5954595+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:22:20.6028676+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:22:20.6092568+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:22:20.6144659+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T14:22:28.2447615+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T14:22:28.2500167+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-10T14:22:28.251358+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-10T14:22:29.2577788+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.5418392,"progress":"522B/522B"},{"desc":"uploading output.log","runtime_seconds":0.5418392,"progress":"178.1KB/178.1KB"}],"total_operations":2}}
+{"time":"2024-12-10T14:22:29.6742312+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-10T14:22:30.8833071+01:00","level":"INFO","msg":"stream: closing","id":"IQL_CNN_win__20241210_140601"}
+{"time":"2024-12-10T14:22:30.8833071+01:00","level":"INFO","msg":"handler: closed","stream_id":"IQL_CNN_win__20241210_140601"}
+{"time":"2024-12-10T14:22:30.8833071+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"IQL_CNN_win__20241210_140601"}
+{"time":"2024-12-10T14:22:30.8833071+01:00","level":"INFO","msg":"sender: closed","stream_id":"IQL_CNN_win__20241210_140601"}
+{"time":"2024-12-10T14:22:30.8833071+01:00","level":"INFO","msg":"stream: closed","id":"IQL_CNN_win__20241210_140601"}
