@@ -254,7 +254,7 @@ class gymPacMan_parallel_env:
 
         radius = 10
         if maze_distance <= radius:
-            reward -= (radius - maze_distance) * 0.2
+            reward -= (radius - maze_distance) * 0.1
 
         #--- legal actions reward ---
         legal_actions = AgentRules.getLegalActions(self.game.state, agentIndex)
