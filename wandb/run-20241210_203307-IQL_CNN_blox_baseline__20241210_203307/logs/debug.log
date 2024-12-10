@@ -1,0 +1,35 @@
+2024-12-10 20:33:07,898 INFO    MainThread:16700 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2024-12-10 20:33:07,898 INFO    MainThread:16700 [wandb_setup.py:_flush():68] Configure stats pid to 16700
+2024-12-10 20:33:07,898 INFO    MainThread:16700 [wandb_setup.py:_flush():68] Loading settings from C:\Users\josse\.config\wandb\settings
+2024-12-10 20:33:07,898 INFO    MainThread:16700 [wandb_setup.py:_flush():68] Loading settings from c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\settings
+2024-12-10 20:33:07,898 INFO    MainThread:16700 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-10 20:33:07,899 INFO    MainThread:16700 [wandb_init.py:_log_setup():528] Logging user logs to c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\run-20241210_203307-IQL_CNN_blox_baseline__20241210_203307\logs\debug.log
+2024-12-10 20:33:07,899 INFO    MainThread:16700 [wandb_init.py:_log_setup():529] Logging internal logs to c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\run-20241210_203307-IQL_CNN_blox_baseline__20241210_203307\logs\debug-internal.log
+2024-12-10 20:33:07,899 INFO    MainThread:16700 [wandb_init.py:_jupyter_setup():474] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002751ADEE6F0>
+2024-12-10 20:33:07,899 INFO    MainThread:16700 [wandb_init.py:init():639] calling init triggers
+2024-12-10 20:33:07,899 INFO    MainThread:16700 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {}
+2024-12-10 20:33:07,899 INFO    MainThread:16700 [wandb_init.py:init():688] starting backend
+2024-12-10 20:33:07,899 INFO    MainThread:16700 [wandb_init.py:init():692] sending inform_init request
+2024-12-10 20:33:07,902 INFO    MainThread:16700 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-12-10 20:33:07,903 INFO    MainThread:16700 [wandb_init.py:init():705] backend started and connected
+2024-12-10 20:33:07,904 INFO    MainThread:16700 [wandb_run.py:_label_probe_notebook():1327] probe notebook
+2024-12-10 20:33:07,937 INFO    MainThread:16700 [wandb_run.py:_label_probe_notebook():1337] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 7037379: character maps to <undefined>
+2024-12-10 20:33:07,939 INFO    MainThread:16700 [wandb_init.py:init():798] updated telemetry
+2024-12-10 20:33:07,998 INFO    MainThread:16700 [wandb_init.py:init():830] communicating run to backend with 90.0 second timeout
+2024-12-10 20:33:08,259 INFO    MainThread:16700 [wandb_init.py:init():882] starting run threads in backend
+2024-12-10 20:33:08,355 INFO    MainThread:16700 [wandb_run.py:_console_start():2443] atexit reg
+2024-12-10 20:33:08,355 INFO    MainThread:16700 [wandb_run.py:_redirect():2293] redirect: wrap_raw
+2024-12-10 20:33:08,355 INFO    MainThread:16700 [wandb_run.py:_redirect():2358] Wrapping output streams.
+2024-12-10 20:33:08,356 INFO    MainThread:16700 [wandb_run.py:_redirect():2383] Redirects installed.
+2024-12-10 20:33:08,356 INFO    MainThread:16700 [wandb_init.py:init():925] run started, returning control to user process
+2024-12-10 21:00:02,722 INFO    MainThread:16700 [wandb_run.py:_finish():2169] finishing run RL_PacMan/PacManCapture/IQL_CNN_blox_baseline__20241210_203307
+2024-12-10 21:00:02,723 ERROR   MainThread:16700 [jupyter.py:save_history():451] Run pip install nbformat to save notebook history
+2024-12-10 21:00:02,723 INFO    MainThread:16700 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-12-10 21:00:02,723 INFO    MainThread:16700 [wandb_init.py:_jupyter_teardown():456] cleaning up jupyter logic
+2024-12-10 21:00:02,723 INFO    MainThread:16700 [wandb_run.py:_atexit_cleanup():2408] got exitcode: 0
+2024-12-10 21:00:02,723 INFO    MainThread:16700 [wandb_run.py:_restore():2390] restore
+2024-12-10 21:00:02,723 INFO    MainThread:16700 [wandb_run.py:_restore():2396] restore done
+2024-12-10 21:00:05,531 INFO    MainThread:16700 [wandb_run.py:_footer_history_summary_info():3951] rendering history
+2024-12-10 21:00:05,531 INFO    MainThread:16700 [wandb_run.py:_footer_history_summary_info():3983] rendering summary
+2024-12-10 21:00:05,536 INFO    MainThread:16700 [wandb_run.py:_footer_sync_info():3912] logging synced files
