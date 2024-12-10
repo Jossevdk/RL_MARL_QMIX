@@ -274,6 +274,10 @@ class gymPacMan_parallel_env:
                 reward += 1  
             if np.array(self.game.state.getRedFood().data).sum() > np.array(next_state.getRedFood().data).sum():
                 reward += 0.1 
+        
+         # --- Reward for delivering food ---
+        if self.game.state.getAgentState(agentIndex).numCarrying > 0 and next_state.getAgentState(agentIndex).numCarrying == 0:
+            reward += self.game.state.getAgentState(agentIndex).numCarrying
 
         # --- Capture Reward ---
         if self.defenceReward:
