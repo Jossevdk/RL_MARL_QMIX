@@ -252,9 +252,9 @@ class gymPacMan_parallel_env:
         current_position = self.game.state.getAgentPosition(agentIndex)
         maze_distance = self.distancer.getDistance(current_position, start_position)
 
-        radius = 10
+        radius = 50
         if maze_distance <= radius:
-            reward -= (radius - maze_distance) * 0.2
+            reward -= (radius - maze_distance)*10
 
         #--- legal actions reward ---
         legal_actions = AgentRules.getLegalActions(self.game.state, agentIndex)
@@ -275,10 +275,6 @@ class gymPacMan_parallel_env:
             if np.array(self.game.state.getRedFood().data).sum() > np.array(next_state.getRedFood().data).sum():
                 reward += 0.1 
         
-         # --- Reward for delivering food ---
-        if self.game.state.getAgentState(agentIndex).numCarrying > 0 and next_state.getAgentState(agentIndex).numCarrying == 0:
-            print(self.game.state.getAgentState(agentIndex).numCarrying)
-            reward += self.game.state.getAgentState(agentIndex).numCarrying
 
         # --- Capture Reward ---
         if self.defenceReward:
