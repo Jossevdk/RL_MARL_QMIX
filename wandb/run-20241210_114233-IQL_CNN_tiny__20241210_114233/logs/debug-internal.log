@@ -188,3 +188,20 @@
 {"time":"2024-12-10T12:31:09.3427304+01:00","level":"INFO","msg":"Resuming system monitor"}
 {"time":"2024-12-10T12:31:09.3442675+01:00","level":"INFO","msg":"Pausing system monitor"}
 {"time":"2024-12-10T12:31:17.0445852+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T13:11:58.9264823+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T13:41:03.1550211+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/josse-vdk/uncategorized/IQL_CNN_tiny__20241210_114233/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-10T13:41:03.3014072+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-10T13:42:05.8983165+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T13:54:52.2306778+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T13:54:52.2367471+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T13:54:52.268169+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T13:54:58.260005+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-10T13:54:58.2659111+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-10T13:54:58.266433+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-10T13:54:59.2762585+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.5557408,"progress":"768.5KB/768.5KB"}],"total_operations":1}}
+{"time":"2024-12-10T13:54:59.6718228+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-10T13:55:00.8775678+01:00","level":"INFO","msg":"stream: closing","id":"IQL_CNN_tiny__20241210_114233"}
+{"time":"2024-12-10T13:55:00.8775678+01:00","level":"INFO","msg":"handler: closed","stream_id":"IQL_CNN_tiny__20241210_114233"}
+{"time":"2024-12-10T13:55:00.8775678+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"IQL_CNN_tiny__20241210_114233"}
+{"time":"2024-12-10T13:55:00.8775678+01:00","level":"INFO","msg":"sender: closed","stream_id":"IQL_CNN_tiny__20241210_114233"}
+{"time":"2024-12-10T13:55:00.8775678+01:00","level":"INFO","msg":"stream: closed","id":"IQL_CNN_tiny__20241210_114233"}
