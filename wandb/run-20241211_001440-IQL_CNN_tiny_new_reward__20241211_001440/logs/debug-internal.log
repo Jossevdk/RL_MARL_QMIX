@@ -1,0 +1,7 @@
+{"time":"2024-12-11T00:14:40.454533106+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-11T00:14:40.454557174+01:00","level":"INFO","msg":"created symlink","path":"/home/seppe/RL/RL_MARL_QMIX/wandb/run-20241211_001440-IQL_CNN_tiny_new_reward__20241211_001440/logs/debug-core.log"}
+{"time":"2024-12-11T00:14:40.608745498+01:00","level":"INFO","msg":"created new stream","id":"IQL_CNN_tiny_new_reward__20241211_001440"}
+{"time":"2024-12-11T00:14:40.608819852+01:00","level":"INFO","msg":"stream: started","id":"IQL_CNN_tiny_new_reward__20241211_001440"}
+{"time":"2024-12-11T00:14:40.608876283+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"IQL_CNN_tiny_new_reward__20241211_001440"}
+{"time":"2024-12-11T00:14:40.608914177+01:00","level":"INFO","msg":"handler: started","stream_id":"IQL_CNN_tiny_new_reward__20241211_001440"}
+{"time":"2024-12-11T00:14:40.608884067+01:00","level":"INFO","msg":"sender: started","stream_id":"IQL_CNN_tiny_new_reward__20241211_001440"}
