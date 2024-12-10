@@ -6,3 +6,4 @@
 {"time":"2024-12-10T14:06:01.4890616+01:00","level":"INFO","msg":"handler: started","stream_id":"IQL_CNN_win__20241210_140601"}
 {"time":"2024-12-10T14:06:01.4890616+01:00","level":"INFO","msg":"sender: started","stream_id":"IQL_CNN_win__20241210_140601"}
 {"time":"2024-12-10T14:06:01.7415339+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-10T14:10:54.5299287+01:00","level":"INFO","msg":"Pausing system monitor"}
