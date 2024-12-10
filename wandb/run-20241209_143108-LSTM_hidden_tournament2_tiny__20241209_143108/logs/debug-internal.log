@@ -23,3 +23,12 @@
 {"time":"2024-12-09T16:23:11.9773221+01:00","level":"INFO","msg":"Pausing system monitor"}
 {"time":"2024-12-09T16:23:12.7608239+01:00","level":"INFO","msg":"Resuming system monitor"}
 {"time":"2024-12-09T16:43:58.9096501+01:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: failed to open file: open c:\\Users\\josse\\OneDrive\\Documenten\\creditcontract\\RL\\RL_MARL_QMIX\\wandb\\run-20241209_143108-LSTM_hidden_tournament2_tiny__20241209_143108\\files\\output.log: The system cannot find the path specified."}
+{"time":"2024-12-09T17:03:13.8569451+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T17:20:19.0468272+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T17:20:19.057225+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-09T17:20:22.8904122+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-09T18:02:30.9989092+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-10T09:00:52.520175+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/josse-vdk/uncategorized/LSTM_hidden_tournament2_tiny__20241209_143108/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-10T09:00:56.3104061+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/josse-vdk/uncategorized/LSTM_hidden_tournament2_tiny__20241209_143108/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-10T09:01:00.5571872+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/josse-vdk/uncategorized/LSTM_hidden_tournament2_tiny__20241209_143108/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-12-10T13:41:03.143672+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/josse-vdk/uncategorized/LSTM_hidden_tournament2_tiny__20241209_143108/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
