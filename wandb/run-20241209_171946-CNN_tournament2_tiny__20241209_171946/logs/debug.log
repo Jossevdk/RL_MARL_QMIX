@@ -9,3 +9,5 @@
 2024-12-09 17:19:46,476 INFO    MainThread:24184 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
 config: {}
 2024-12-09 17:19:46,476 INFO    MainThread:24184 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2024-12-09 18:02:35,886 INFO    MainThread:24184 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-12-09 18:02:35,887 INFO    MainThread:24184 [wandb_init.py:_pause_backend():439] pausing backend

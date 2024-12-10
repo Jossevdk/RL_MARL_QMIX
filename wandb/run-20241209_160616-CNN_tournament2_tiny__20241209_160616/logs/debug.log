@@ -121,3 +121,22 @@ config: {}
 2024-12-09 16:22:35,199 INFO    MainThread:24184 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
 config: {}
 2024-12-09 16:22:35,199 INFO    MainThread:24184 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2024-12-09 16:50:22,645 INFO    MainThread:24184 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-12-09 16:50:22,646 INFO    MainThread:24184 [wandb_init.py:_pause_backend():439] pausing backend
+2024-12-09 17:19:42,655 INFO    MainThread:24184 [wandb_init.py:_resume_backend():444] resuming backend
+2024-12-09 17:19:42,660 INFO    MainThread:24184 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-12-09 17:19:42,660 INFO    MainThread:24184 [wandb_init.py:_pause_backend():439] pausing backend
+2024-12-09 17:19:46,469 INFO    MainThread:24184 [wandb_init.py:_resume_backend():444] resuming backend
+2024-12-09 17:19:46,475 INFO    MainThread:24184 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2024-12-09 17:19:46,475 INFO    MainThread:24184 [wandb_setup.py:_flush():68] Configure stats pid to 24184
+2024-12-09 17:19:46,475 INFO    MainThread:24184 [wandb_setup.py:_flush():68] Loading settings from C:\Users\josse\.config\wandb\settings
+2024-12-09 17:19:46,475 INFO    MainThread:24184 [wandb_setup.py:_flush():68] Loading settings from c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\settings
+2024-12-09 17:19:46,475 INFO    MainThread:24184 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-09 17:19:46,476 INFO    MainThread:24184 [wandb_init.py:_log_setup():528] Logging user logs to c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\run-20241209_171946-CNN_tournament2_tiny__20241209_171946\logs\debug.log
+2024-12-09 17:19:46,476 INFO    MainThread:24184 [wandb_init.py:_log_setup():529] Logging internal logs to c:\Users\josse\OneDrive\Documenten\creditcontract\RL\RL_MARL_QMIX\wandb\run-20241209_171946-CNN_tournament2_tiny__20241209_171946\logs\debug-internal.log
+2024-12-09 17:19:46,476 INFO    MainThread:24184 [wandb_init.py:init():639] calling init triggers
+2024-12-09 17:19:46,476 INFO    MainThread:24184 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {}
+2024-12-09 17:19:46,476 INFO    MainThread:24184 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2024-12-09 18:02:35,886 INFO    MainThread:24184 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-12-09 18:02:35,887 INFO    MainThread:24184 [wandb_init.py:_pause_backend():439] pausing backend
