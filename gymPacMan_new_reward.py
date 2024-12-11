@@ -244,13 +244,17 @@ class gymPacMan_parallel_env:
         next_state = self.game.state.generateSuccessor(agentIndex, action)
 
         # --- Maze Distance penalty ---
-        start_position = self.game.state.getAgentState(agentIndex).start.pos
-        current_position = self.game.state.getAgentPosition(agentIndex)
-        maze_distance = self.distancer.getDistance(current_position, start_position)
+        #start_position = self.game.state.getAgentState(agentIndex).start.pos
+        #current_position = self.game.state.getAgentPosition(agentIndex)
+        #maze_distance = self.distancer.getDistance(current_position, start_position)
+        #print(start_position)
+        #print(current_position)
+        #print(maze_distance)
 
-        radius = 10
-        if maze_distance <= radius:
-            reward -= (radius - maze_distance)*0.2
+        #radius = 15
+        #if maze_distance <= radius:
+         #   print((radius - maze_distance)*0.2)
+          #  reward -= (radius - maze_distance)*0.2
 
         #--- legal actions reward ---
         legal_actions = AgentRules.getLegalActions(self.game.state, agentIndex)
