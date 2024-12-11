@@ -1,0 +1,1364 @@
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_76296/3004759681.py:59: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+agent 1 has distance 0
+agent 3 has distance 0
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 1
+agent 3 has distance 0
+agent 1 has distance 1
+agent 3 has distance 0
+agent 1 has distance 1
+agent 3 has distance 1
+agent 1 has distance 2
+agent 3 has distance 2
+agent 1 has distance 2
+agent 3 has distance 2
+agent 1 has distance 3
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 2
+agent 1 has distance 1
+agent 3 has distance 2
+agent 1 has distance 1
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 2
+agent 1 has distance 2
+agent 3 has distance 2
+agent 1 has distance 2
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 3
+agent 1 has distance 1
+agent 3 has distance 3
+agent 1 has distance 1
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 2
+agent 1 has distance 2
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 3
+agent 1 has distance 2
+agent 3 has distance 3
+agent 1 has distance 1
+agent 3 has distance 3
+agent 1 has distance 1
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 2
+agent 3 has distance 9
+agent 1 has distance 2
+agent 3 has distance 9
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 7
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 2
+agent 3 has distance 4
+agent 1 has distance 3
+agent 3 has distance 5
+agent 1 has distance 3
+agent 3 has distance 5
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 7
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 10
+agent 1 has distance 1
+agent 3 has distance 11
+agent 1 has distance 0
+agent 3 has distance 12
+agent 1 has distance 0
+agent 3 has distance 12
+agent 1 has distance 0
+agent 3 has distance 12
+agent 1 has distance 0
+agent 3 has distance 13
+agent 1 has distance 0
+agent 3 has distance 14
+agent 1 has distance 0
+agent 3 has distance 14
+agent 1 has distance 1
+agent 3 has distance 14
+agent 1 has distance 2
+agent 3 has distance 14
+agent 1 has distance 2
+agent 3 has distance 15
+agent 1 has distance 1
+agent 3 has distance 16
+agent 1 has distance 0
+agent 3 has distance 15
+agent 1 has distance 0
+agent 3 has distance 14
+agent 1 has distance 1
+agent 3 has distance 15
+agent 1 has distance 0
+agent 3 has distance 16
+agent 1 has distance 1
+agent 3 has distance 15
+agent 1 has distance 2
+agent 3 has distance 15
+agent 1 has distance 1
+agent 3 has distance 14
+agent 1 has distance 1
+agent 3 has distance 14
+agent 1 has distance 1
+agent 3 has distance 14
+agent 1 has distance 2
+agent 3 has distance 14
+agent 1 has distance 1
+agent 3 has distance 14
+agent 1 has distance 0
+agent 3 has distance 13
+agent 1 has distance 0
+agent 3 has distance 13
+agent 1 has distance 0
+agent 3 has distance 13
+agent 1 has distance 0
+agent 3 has distance 14
+agent 1 has distance 0
+agent 3 has distance 15
+agent 1 has distance 1
+agent 3 has distance 15
+agent 1 has distance 0
+agent 3 has distance 15
+agent 1 has distance 0
+agent 3 has distance 15
+agent 1 has distance 0
+agent 3 has distance 14
+agent 1 has distance 0
+agent 3 has distance 14
+agent 1 has distance 0
+agent 3 has distance 13
+agent 1 has distance 0
+agent 3 has distance 12
+agent 1 has distance 0
+agent 3 has distance 12
+agent 1 has distance 0
+agent 3 has distance 12
+agent 1 has distance 0
+agent 3 has distance 11
+agent 1 has distance 0
+agent 3 has distance 11
+agent 1 has distance 0
+agent 3 has distance 11
+agent 1 has distance 1
+agent 3 has distance 11
+agent 1 has distance 1
+agent 3 has distance 10
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 2
+agent 3 has distance 10
+agent 1 has distance 2
+agent 3 has distance 11
+agent 1 has distance 3
+agent 3 has distance 11
+agent 1 has distance 3
+agent 3 has distance 10
+agent 1 has distance 4
+agent 3 has distance 11
+agent 1 has distance 4
+agent 3 has distance 10
+agent 1 has distance 5
+agent 3 has distance 10
+agent 1 has distance 5
+agent 3 has distance 9
+agent 1 has distance 6
+agent 3 has distance 10
+agent 1 has distance 6
+agent 3 has distance 10
+agent 1 has distance 6
+agent 3 has distance 10
+agent 1 has distance 6
+agent 3 has distance 11
+agent 1 has distance 7
+agent 3 has distance 10
+agent 1 has distance 8
+agent 3 has distance 9
+agent 1 has distance 8
+agent 3 has distance 10
+agent 1 has distance 8
+agent 3 has distance 9
+agent 1 has distance 7
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 9
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 7
+agent 3 has distance 7
+agent 1 has distance 7
+agent 3 has distance 6
+agent 1 has distance 7
+agent 3 has distance 5
+agent 1 has distance 6
+agent 3 has distance 4
+agent 1 has distance 6
+agent 3 has distance 5
+agent 1 has distance 6
+agent 3 has distance 6
+agent 1 has distance 7
+agent 3 has distance 5
+agent 1 has distance 7
+agent 3 has distance 5
+agent 1 has distance 6
+agent 3 has distance 5
+agent 1 has distance 6
+agent 3 has distance 5
+agent 1 has distance 7
+agent 3 has distance 5
+agent 1 has distance 7
+agent 3 has distance 5
+agent 1 has distance 7
+agent 3 has distance 4
+agent 1 has distance 8
+agent 3 has distance 3
+agent 1 has distance 7
+agent 3 has distance 2
+agent 1 has distance 8
+agent 3 has distance 3
+agent 1 has distance 9
+agent 3 has distance 4
+agent 1 has distance 9
+agent 3 has distance 5
+agent 1 has distance 10
+agent 3 has distance 6
+agent 1 has distance 10
+agent 3 has distance 7
+agent 1 has distance 10
+agent 3 has distance 7
+agent 1 has distance 10
+agent 3 has distance 7
+agent 1 has distance 10
+agent 3 has distance 7
+agent 1 has distance 9
+agent 3 has distance 8
+agent 1 has distance 9
+agent 3 has distance 9
+agent 1 has distance 8
+agent 3 has distance 9
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 7
+agent 3 has distance 9
+agent 1 has distance 6
+agent 3 has distance 9
+agent 1 has distance 6
+agent 3 has distance 9
+agent 1 has distance 6
+agent 3 has distance 9
+agent 1 has distance 6
+agent 3 has distance 8
+agent 1 has distance 6
+agent 3 has distance 9
+agent 1 has distance 5
+agent 3 has distance 9
+agent 1 has distance 6
+agent 3 has distance 9
+agent 1 has distance 6
+agent 3 has distance 9
+agent 1 has distance 6
+agent 3 has distance 8
+agent 1 has distance 7
+agent 3 has distance 8
+agent 1 has distance 7
+agent 3 has distance 8
+agent 1 has distance 6
+agent 3 has distance 8
+agent 1 has distance 7
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 9
+agent 1 has distance 8
+agent 3 has distance 9
+agent 1 has distance 8
+agent 3 has distance 9
+agent 1 has distance 8
+agent 3 has distance 9
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 9
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 8
+agent 1 has distance 8
+agent 3 has distance 7
+agent 1 has distance 9
+agent 3 has distance 7
+agent 1 has distance 8
+agent 3 has distance 7
+agent 1 has distance 8
+agent 3 has distance 7
+agent 1 has distance 8
+agent 3 has distance 7
+agent 1 has distance 8
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 7
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 10
+agent 3 has distance 6
+agent 1 has distance 10
+agent 3 has distance 6
+agent 1 has distance 10
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 5
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 7
+agent 1 has distance 10
+agent 3 has distance 7
+agent 1 has distance 9
+agent 3 has distance 7
+agent 1 has distance 9
+agent 3 has distance 7
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 7
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 5
+agent 1 has distance 8
+agent 3 has distance 4
+agent 1 has distance 8
+agent 3 has distance 5
+agent 1 has distance 9
+agent 3 has distance 5
+agent 1 has distance 9
+agent 3 has distance 5
+agent 1 has distance 9
+agent 3 has distance 4
+agent 1 has distance 9
+agent 3 has distance 3
+agent 1 has distance 9
+agent 3 has distance 3
+agent 1 has distance 8
+agent 3 has distance 3
+agent 1 has distance 9
+agent 3 has distance 4
+agent 1 has distance 9
+agent 3 has distance 5
+agent 1 has distance 8
+agent 3 has distance 5
+agent 1 has distance 9
+agent 3 has distance 5
+agent 1 has distance 9
+agent 3 has distance 5
+agent 1 has distance 9
+agent 3 has distance 5
+agent 1 has distance 9
+agent 3 has distance 5
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 8
+agent 3 has distance 6
+agent 1 has distance 8
+agent 3 has distance 6
+agent 1 has distance 8
+agent 3 has distance 6
+agent 1 has distance 8
+agent 3 has distance 6
+agent 1 has distance 8
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 9
+agent 3 has distance 6
+agent 1 has distance 8
+agent 3 has distance 6
+agent 1 has distance 8
+agent 3 has distance 7
+agent 1 has distance 8
+agent 3 has distance 7
+agent 1 has distance 7
+agent 3 has distance 6
+agent 1 has distance 7
+agent 3 has distance 7
+agent 1 has distance 6
+agent 3 has distance 6
+agent 1 has distance 6
+agent 3 has distance 5
+agent 1 has distance 5
+agent 3 has distance 6
+agent 1 has distance 6
+agent 3 has distance 7
+agent 1 has distance 6
+agent 3 has distance 6
+agent 1 has distance 5
+agent 3 has distance 6
+agent 1 has distance 4
+agent 3 has distance 6
+agent 1 has distance 4
+agent 3 has distance 6
+agent 1 has distance 4
+agent 3 has distance 6
+agent 1 has distance 4
+agent 3 has distance 5
+agent 1 has distance 4
+agent 3 has distance 4
+agent 1 has distance 3
+agent 3 has distance 4
+agent 1 has distance 4
+agent 3 has distance 5
+agent 1 has distance 4
+agent 3 has distance 6
+agent 1 has distance 5
+agent 3 has distance 7
+agent 1 has distance 4
+agent 3 has distance 7
+agent 1 has distance 3
+agent 3 has distance 7
+agent 1 has distance 3
+agent 3 has distance 8
+agent 1 has distance 4
+agent 3 has distance 7
+agent 1 has distance 4
+agent 3 has distance 8
+agent 1 has distance 4
+agent 3 has distance 9
+15.949999999999964
+15.949999999999964
+Episode reward: 31.899999999999928
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 0
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 1
+agent 3 has distance 1
+agent 1 has distance 1
+agent 3 has distance 0
+agent 1 has distance 0
+agent 3 has distance 0
+agent 1 has distance 1
+agent 3 has distance 0
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 0
+agent 1 has distance 0
+agent 3 has distance 0
+agent 1 has distance 1
+agent 3 has distance 0
+agent 1 has distance 1
+agent 3 has distance 1
+agent 1 has distance 2
+agent 3 has distance 1
+agent 1 has distance 2
+agent 3 has distance 2
+agent 1 has distance 1
+agent 3 has distance 2
+agent 1 has distance 1
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 1
+agent 3 has distance 2
+agent 1 has distance 1
+agent 3 has distance 2
+agent 1 has distance 1
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 1
+agent 3 has distance 4
+agent 1 has distance 2
+agent 3 has distance 4
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 2
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 4
+agent 3 has distance 6
+agent 1 has distance 4
+agent 3 has distance 5
+agent 1 has distance 4
+agent 3 has distance 6
+agent 1 has distance 4
+agent 3 has distance 6
+agent 1 has distance 4
+agent 3 has distance 6
+agent 1 has distance 4
+agent 3 has distance 5
+agent 1 has distance 4
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 7
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 5
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 7
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 1
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 1
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 3
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 4
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 4
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 5
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 3
+agent 3 has distance 5
+agent 1 has distance 3
+agent 3 has distance 5
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 7
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 7
+agent 1 has distance 3
+agent 3 has distance 8
+agent 1 has distance 3
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 2
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 2
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 2
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 1
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 2
+agent 3 has distance 6
+agent 1 has distance 3
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 2
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 1
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 4
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 5
+agent 1 has distance 1
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 6
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 1
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 9
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 8
+agent 1 has distance 0
+agent 3 has distance 7
+agent 1 has distance 0
+agent 3 has distance 7
+3.2499999999999876
+3.2499999999999876
+Episode reward: 6.499999999999975
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+agent 1 has distance 0
+agent 3 has distance 0
+agent 1 has distance 0
+agent 3 has distance 0
+agent 1 has distance 0
+agent 3 has distance 0
+agent 1 has distance 0
+agent 3 has distance 1
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+agent 1 has distance 0
+agent 3 has distance 2
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_76296/3318894280.py:59: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+8.409999999999975
+8.409999999999975
+Episode reward: 16.81999999999995
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.3199999999999927
+3.3199999999999927
+Episode reward: 6.6399999999999855
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+6.359999999999982
+6.359999999999982
+Episode reward: 12.719999999999963
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.6399999999999864
+3.6399999999999864
+Episode reward: 7.279999999999973
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.669999999999986
+3.669999999999986
+Episode reward: 7.339999999999972
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+6.0599999999999685
+6.0599999999999685
+Episode reward: 12.119999999999937
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.519999999999991
+3.519999999999991
+Episode reward: 7.039999999999982
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+4.039999999999989
+4.039999999999989
+Episode reward: 8.079999999999979
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.349999999999988
+3.349999999999988
+Episode reward: 6.699999999999976
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+5.309999999999992
+5.309999999999992
+Episode reward: 10.619999999999983
+Episode 10/200, Average Reward: 9.54, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.9299999999999877
+3.9299999999999877
+Episode reward: 7.8599999999999755
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.8399999999999905
+3.8399999999999905
+Episode reward: 7.679999999999981
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.7199999999999904
+3.7199999999999904
+Episode reward: 7.439999999999981
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.379999999999992
+3.379999999999992
+Episode reward: 6.759999999999984
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.8399999999999896
+3.8399999999999896
+Episode reward: 7.679999999999979
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.0399999999999885
+4.0399999999999885
+Episode reward: 8.079999999999977
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.6799999999999855
+3.6799999999999855
+Episode reward: 7.359999999999971
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts

@@ -243,23 +243,8 @@ class gymPacMan_parallel_env:
         """
         next_state = self.game.state.generateSuccessor(agentIndex, action)
 
-        # --- Maze Distance penalty ---
-        start_position = self.game.state.getAgentState(agentIndex).start.pos
-        current_position = self.game.state.getAgentPosition(agentIndex)
-        maze_distance = self.distancer.getDistance(current_position, start_position)
 
-        radius = 10
-        if maze_distance <= radius:
-            reward -= (radius - maze_distance)*0.2
-
-        #--- legal actions reward ---
-        legal_actions = AgentRules.getLegalActions(self.game.state, agentIndex)
-        if action in legal_actions:
-            reward += 0.01  
-        else:
-            reward -= 0.5
-
-        # --- food reward ---
+        # --- game_state_reward ---
         if agentIndex in [0, 2]:
             if np.array(self.game.state.getRedFood().data).sum() < np.array(next_state.getRedFood().data).sum():
                 reward += 1  
@@ -271,13 +256,6 @@ class gymPacMan_parallel_env:
             if np.array(self.game.state.getRedFood().data).sum() > np.array(next_state.getRedFood().data).sum():
                 reward += 0.1 
 
-        # --- Reward for delivering food ---
-        if self.game.state.getAgentState(agentIndex).numCarrying > 0 and next_state.getAgentState(agentIndex).numCarrying == 0:
-        # Voedsel succesvol binnengebracht
-            reward += self.game.state.getAgentState(agentIndex).numCarrying
-
-        
-
         # --- Capture Reward ---
         if self.defenceReward:
             if agentIndex in [0, 2]:
@@ -285,13 +263,13 @@ class gymPacMan_parallel_env:
                     if (self.game.state.data.agentStates[blue_team_index].isPacman and
                             not next_state.data.agentStates[blue_team_index].isPacman):
                         if next_state.data.agentStates[blue_team_index].configuration.pos == next_state.data.agentStates[blue_team_index].start.pos:
-                            reward += 0.25
+                            reward += 0.5
             else: 
                 for red_team_index in [0, 2]:
                     if (self.game.state.data.agentStates[red_team_index].isPacman and
                             not next_state.data.agentStates[red_team_index].isPacman):
                         if next_state.data.agentStates[red_team_index].configuration.pos == next_state.data.agentStates[red_team_index].start.pos:
-                            reward += 0.25
+                            reward += 0.5
 
         return reward
 

@@ -1,0 +1,41 @@
+{"time":"2024-12-11T01:23:18.293428057+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-11T01:23:18.29345242+01:00","level":"INFO","msg":"created symlink","path":"/home/seppe/RL/RL_MARL_QMIX/wandb/run-20241211_012318-__20241211_012318/logs/debug-core.log"}
+{"time":"2024-12-11T01:23:18.60787717+01:00","level":"INFO","msg":"created new stream","id":"__20241211_012318"}
+{"time":"2024-12-11T01:23:18.607927539+01:00","level":"INFO","msg":"stream: started","id":"__20241211_012318"}
+{"time":"2024-12-11T01:23:18.607978423+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"__20241211_012318"}
+{"time":"2024-12-11T01:23:18.608041128+01:00","level":"INFO","msg":"handler: started","stream_id":"__20241211_012318"}
+{"time":"2024-12-11T01:23:18.608201693+01:00","level":"INFO","msg":"sender: started","stream_id":"__20241211_012318"}
+{"time":"2024-12-11T01:23:19.100947622+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-11T01:23:19.371856775+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:23:20.676342611+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:23:22.589901776+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:23:23.74464545+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:25:17.449174865+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:25:26.657194764+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:25:26.660788838+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:25:33.684997186+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:25:33.731582631+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:25:35.050636204+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:25:35.186988652+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:25:37.004833135+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:25:37.039204618+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:25:39.500072875+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:26:43.73859146+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:27:29.81966624+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:27:29.862506821+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:27:30.439216269+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:27:30.448686126+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:27:30.533903113+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:27:30.542181231+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:27:31.022007469+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:27:31.027769593+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:27:35.149609305+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:27:35.156939789+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:27:49.898766179+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:27:49.942778601+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:27:49.969194217+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:27:49.973787495+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:27:53.182247143+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:27:53.187802194+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-11T01:28:03.311338258+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-11T01:28:34.109148792+01:00","level":"INFO","msg":"Pausing system monitor"}
