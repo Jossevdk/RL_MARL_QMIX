@@ -1,9 +1,0 @@
-{"time":"2024-12-10T13:56:42.989912+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
-{"time":"2024-12-10T13:56:42.989912+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\josse\\OneDrive\\Documenten\\creditcontract\\RL\\RL_MARL_QMIX\\wandb\\run-20241210_135642-IQL_CNN_tiny__20241210_135642\\logs\\debug-core.log"}
-{"time":"2024-12-10T13:56:43.1114959+01:00","level":"INFO","msg":"created new stream","id":"IQL_CNN_tiny__20241210_135642"}
-{"time":"2024-12-10T13:56:43.1114959+01:00","level":"INFO","msg":"stream: started","id":"IQL_CNN_tiny__20241210_135642"}
-{"time":"2024-12-10T13:56:43.1114959+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"IQL_CNN_tiny__20241210_135642"}
-{"time":"2024-12-10T13:56:43.1114959+01:00","level":"INFO","msg":"sender: started","stream_id":"IQL_CNN_tiny__20241210_135642"}
-{"time":"2024-12-10T13:56:43.1121398+01:00","level":"INFO","msg":"handler: started","stream_id":"IQL_CNN_tiny__20241210_135642"}
-{"time":"2024-12-10T13:56:43.3403338+01:00","level":"INFO","msg":"Starting system monitor"}
-{"time":"2024-12-10T13:57:26.5656763+01:00","level":"INFO","msg":"Pausing system monitor"}
