@@ -88,6 +88,7 @@ class gymPacMan_parallel_env:
             4: 4,
         }
         self.winner = None
+        self.distancer = None
 
 
     def reset(self, layout_file='None', enemieName = 'None'):
@@ -245,16 +246,15 @@ class gymPacMan_parallel_env:
         if not hasattr(self, "distancer"):
             from distanceCalculator import Distancer
             self.distancer = Distancer(self.layout)
-            self.distancer.getMazeDistances()
 
         # --- Maze Distance penalty ---
         start_position = self.game.state.getAgentState(agentIndex).start.pos
         current_position = self.game.state.getAgentPosition(agentIndex)
         maze_distance = self.distancer.getDistance(current_position, start_position)
 
-        radius = 50
+        radius = 10
         if maze_distance <= radius:
-            reward -= (radius - maze_distance)*10
+            reward -= (radius - maze_distance)*0.2
 
         #--- legal actions reward ---
         legal_actions = AgentRules.getLegalActions(self.game.state, agentIndex)
@@ -274,6 +274,12 @@ class gymPacMan_parallel_env:
                 reward += 1  
             if np.array(self.game.state.getRedFood().data).sum() > np.array(next_state.getRedFood().data).sum():
                 reward += 0.1 
+
+        # --- Reward for delivering food ---
+        if self.game.state.getAgentState(agentIndex).numCarrying > 0 and next_state.getAgentState(agentIndex).numCarrying == 0:
+        # Voedsel succesvol binnengebracht
+            reward += self.game.state.getAgentState(agentIndex).numCarrying
+
         
 
         # --- Capture Reward ---

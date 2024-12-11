@@ -18,3 +18,22 @@ enemy: randomTeam.py
 Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
 Arguments: {}
 Red team starts
+Running on the GPU
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+/tmp/ipykernel_66249/3622664894.py:54: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+1.0700000000000007
+1.0700000000000007
+Episode reward: 2.1400000000000015
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
