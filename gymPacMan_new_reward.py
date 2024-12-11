@@ -6,6 +6,7 @@ import torch
 import layout
 from capture import CaptureRules, loadAgents, randomLayout, GameState, AgentRules
 from captureAgents import CaptureAgent
+from distanceCalculator import Distancer
 
 file_path = os.path.dirname(os.path.abspath(__file__)) + '/'
 
@@ -88,7 +89,7 @@ class gymPacMan_parallel_env:
             4: 4,
         }
         self.winner = None
-        self.distancer = None
+        self.distancer = Distancer(self.layout)
 
 
     def reset(self, layout_file='None', enemieName = 'None'):
@@ -241,11 +242,6 @@ class gymPacMan_parallel_env:
         Compute the reward for a given agent based on its actions, game state, and other factors.
         """
         next_state = self.game.state.generateSuccessor(agentIndex, action)
-        
-        # load distancer
-        if not hasattr(self, "distancer"):
-            from distanceCalculator import Distancer
-            self.distancer = Distancer(self.layout)
 
         # --- Maze Distance penalty ---
         start_position = self.game.state.getAgentState(agentIndex).start.pos
