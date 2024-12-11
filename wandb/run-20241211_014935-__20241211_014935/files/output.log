@@ -2900,3 +2900,1466 @@ Arguments: {}
 Red team starts
 /tmp/ipykernel_80084/2812192046.py:64: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
   state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+-135.6300000000001
+-49.02999999999993
+Episode reward: -184.66000000000003
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-31.51999999999995
+-151.42
+Episode reward: -182.93999999999994
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-173.20000000000002
+-74.69999999999999
+Episode reward: -247.9
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+-120.25000000000016
+-180.45000000000005
+Episode reward: -300.7000000000002
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+Loaded layout from file
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+TTTTTTTTTTTTTTTTTTTT
+TFFFFFFFFFFFFFFFFFFT
+TFTTFTFTTTTTTFTFTTFT
+TFFFFFFFFFFFFFFFFFFT
+TFTTTTTTTTTTTTTTTTFT
+TFFFFFFFFFTTFFFFFFFT
+TTTTTTTTTTTTTTTTTTTT
+hallo: {((1, 1), (1, 1)): 0, ((1, 2), (1, 1)): 1, ((1, 3), (1, 1)): 2, ((1, 4), (1, 1)): 3, ((1, 5), (1, 1)): 4, ((2, 1), (1, 1)): 1, ((2, 3), (1, 1)): 3, ((2, 5), (1, 1)): 5, ((3, 1), (1, 1)): 2, ((3, 3), (1, 1)): 4, ((3, 5), (1, 1)): 6, ((4, 1), (1, 1)): 3, ((4, 3), (1, 1)): 5, ((4, 4), (1, 1)): 6, ((4, 5), (1, 1)): 7, ((5, 1), (1, 1)): 4, ((5, 3), (1, 1)): 6, ((5, 5), (1, 1)): 8, ((6, 1), (1, 1)): 5, ((6, 3), (1, 1)): 7, ((6, 4), (1, 1)): 8, ((6, 5), (1, 1)): 9, ((7, 1), (1, 1)): 6, ((7, 3), (1, 1)): 8, ((7, 5), (1, 1)): 10, ((8, 1), (1, 1)): 7, ((8, 3), (1, 1)): 9, ((8, 5), (1, 1)): 11, ((9, 1), (1, 1)): 8, ((9, 3), (1, 1)): 10, ((9, 5), (1, 1)): 12, ((10, 3), (1, 1)): 11, ((10, 5), (1, 1)): 13, ((11, 3), (1, 1)): 12, ((11, 5), (1, 1)): 14, ((12, 1), (1, 1)): 27, ((12, 3), (1, 1)): 13, ((12, 5), (1, 1)): 15, ((13, 1), (1, 1)): 26, ((13, 3), (1, 1)): 14, ((13, 4), (1, 1)): 15, ((13, 5), (1, 1)): 16, ((14, 1), (1, 1)): 25, ((14, 3), (1, 1)): 15, ((14, 5), (1, 1)): 17, ((15, 1), (1, 1)): 24, ((15, 3), (1, 1)): 16, ((15, 4), (1, 1)): 17, ((15, 5), (1, 1)): 18, ((16, 1), (1, 1)): 23, ((16, 3), (1, 1)): 17, ((16, 5), (1, 1)): 19, ((17, 1), (1, 1)): 22, ((17, 3), (1, 1)): 18, ((17, 5), (1, 1)): 20, ((18, 1), (1, 1)): 21, ((18, 2), (1, 1)): 20, ((18, 3), (1, 1)): 19, ((18, 4), (1, 1)): 20, ((18, 5), (1, 1)): 21, ((1, 1), (1, 2)): 1, ((1, 2), (1, 2)): 0, ((1, 3), (1, 2)): 1, ((1, 4), (1, 2)): 2, ((1, 5), (1, 2)): 3, ((2, 1), (1, 2)): 2, ((2, 3), (1, 2)): 2, ((2, 5), (1, 2)): 4, ((3, 1), (1, 2)): 3, ((3, 3), (1, 2)): 3, ((3, 5), (1, 2)): 5, ((4, 1), (1, 2)): 4, ((4, 3), (1, 2)): 4, ((4, 4), (1, 2)): 5, ((4, 5), (1, 2)): 6, ((5, 1), (1, 2)): 5, ((5, 3), (1, 2)): 5, ((5, 5), (1, 2)): 7, ((6, 1), (1, 2)): 6, ((6, 3), (1, 2)): 6, ((6, 4), (1, 2)): 7, ((6, 5), (1, 2)): 8, ((7, 1), (1, 2)): 7, ((7, 3), (1, 2)): 7, ((7, 5), (1, 2)): 9, ((8, 1), (1, 2)): 8, ((8, 3), (1, 2)): 8, ((8, 5), (1, 2)): 10, ((9, 1), (1, 2)): 9, ((9, 3), (1, 2)): 9, ((9, 5), (1, 2)): 11, ((10, 3), (1, 2)): 10, ((10, 5), (1, 2)): 12, ((11, 3), (1, 2)): 11, ((11, 5), (1, 2)): 13, ((12, 1), (1, 2)): 26, ((12, 3), (1, 2)): 12, ((12, 5), (1, 2)): 14, ((13, 1), (1, 2)): 25, ((13, 3), (1, 2)): 13, ((13, 4), (1, 2)): 14, ((13, 5), (1, 2)): 15, ((14, 1), (1, 2)): 24, ((14, 3), (1, 2)): 14, ((14, 5), (1, 2)): 16, ((15, 1), (1, 2)): 23, ((15, 3), (1, 2)): 15, ((15, 4), (1, 2)): 16, ((15, 5), (1, 2)): 17, ((16, 1), (1, 2)): 22, ((16, 3), (1, 2)): 16, ((16, 5), (1, 2)): 18, ((17, 1), (1, 2)): 21, ((17, 3), (1, 2)): 17, ((17, 5), (1, 2)): 19, ((18, 1), (1, 2)): 20, ((18, 2), (1, 2)): 19, ((18, 3), (1, 2)): 18, ((18, 4), (1, 2)): 19, ((18, 5), (1, 2)): 20, ((1, 1), (1, 3)): 2, ((1, 2), (1, 3)): 1, ((1, 3), (1, 3)): 0, ((1, 4), (1, 3)): 1, ((1, 5), (1, 3)): 2, ((2, 1), (1, 3)): 3, ((2, 3), (1, 3)): 1, ((2, 5), (1, 3)): 3, ((3, 1), (1, 3)): 4, ((3, 3), (1, 3)): 2, ((3, 5), (1, 3)): 4, ((4, 1), (1, 3)): 5, ((4, 3), (1, 3)): 3, ((4, 4), (1, 3)): 4, ((4, 5), (1, 3)): 5, ((5, 1), (1, 3)): 6, ((5, 3), (1, 3)): 4, ((5, 5), (1, 3)): 6, ((6, 1), (1, 3)): 7, ((6, 3), (1, 3)): 5, ((6, 4), (1, 3)): 6, ((6, 5), (1, 3)): 7, ((7, 1), (1, 3)): 8, ((7, 3), (1, 3)): 6, ((7, 5), (1, 3)): 8, ((8, 1), (1, 3)): 9, ((8, 3), (1, 3)): 7, ((8, 5), (1, 3)): 9, ((9, 1), (1, 3)): 10, ((9, 3), (1, 3)): 8, ((9, 5), (1, 3)): 10, ((10, 3), (1, 3)): 9, ((10, 5), (1, 3)): 11, ((11, 3), (1, 3)): 10, ((11, 5), (1, 3)): 12, ((12, 1), (1, 3)): 25, ((12, 3), (1, 3)): 11, ((12, 5), (1, 3)): 13, ((13, 1), (1, 3)): 24, ((13, 3), (1, 3)): 12, ((13, 4), (1, 3)): 13, ((13, 5), (1, 3)): 14, ((14, 1), (1, 3)): 23, ((14, 3), (1, 3)): 13, ((14, 5), (1, 3)): 15, ((15, 1), (1, 3)): 22, ((15, 3), (1, 3)): 14, ((15, 4), (1, 3)): 15, ((15, 5), (1, 3)): 16, ((16, 1), (1, 3)): 21, ((16, 3), (1, 3)): 15, ((16, 5), (1, 3)): 17, ((17, 1), (1, 3)): 20, ((17, 3), (1, 3)): 16, ((17, 5), (1, 3)): 18, ((18, 1), (1, 3)): 19, ((18, 2), (1, 3)): 18, ((18, 3), (1, 3)): 17, ((18, 4), (1, 3)): 18, ((18, 5), (1, 3)): 19, ((1, 1), (1, 4)): 3, ((1, 2), (1, 4)): 2, ((1, 3), (1, 4)): 1, ((1, 4), (1, 4)): 0, ((1, 5), (1, 4)): 1, ((2, 1), (1, 4)): 4, (
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_80084/1004031906.py:64: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+7.524999999999993
+9.125999999999982
+Episode reward: 16.650999999999975
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.074
+0.9959999999999997
+Episode reward: 3.0699999999999994
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.5930000000000001
+-0.15200000000000008
+Episode reward: 0.441
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+13.037999999999991
+13.413999999999989
+Episode reward: 26.45199999999998
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+-0.36400000000000016
+0.5300000000000004
+Episode reward: 0.1660000000000002
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-1.0220000000000002
+0.5850000000000004
+Episode reward: -0.43699999999999983
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+-0.5140000000000003
+0.03799999999999992
+Episode reward: -0.4760000000000004
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0120000000000013
+1.2579999999999991
+Episode reward: 3.2700000000000005
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-0.019000000000000065
+1.0500000000000003
+Episode reward: 1.0310000000000001
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.6520000000000002
+0.11300000000000003
+Episode reward: 0.7650000000000002
+Episode 10/200, Average Reward: 5.09, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.3540000000000002
+1.6179999999999992
+Episode reward: 1.9719999999999995
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.8770000000000007
+3.841999999999998
+Episode reward: 6.7189999999999985
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.5810000000000004
+-0.131
+Episode reward: 0.4500000000000004
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.6619999999999997
+0.6800000000000004
+Episode reward: 2.342
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.3730000000000001
+1.0260000000000007
+Episode reward: 1.399000000000001
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-0.15400000000000028
+1.5890000000000009
+Episode reward: 1.4350000000000005
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.3510000000000002
+0.7950000000000006
+Episode reward: 1.1460000000000008
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+-0.6110000000000004
+1.4139999999999975
+Episode reward: 0.802999999999997
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.112
+1.9979999999999976
+Episode reward: 3.1099999999999977
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.5039999999999933
+3.3039999999999945
+Episode reward: 5.807999999999987
+Episode 20/200, Average Reward: 2.52, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.210999999999991
+3.945999999999991
+Episode reward: 8.156999999999982
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.7339999999999967
+2.123999999999996
+Episode reward: 3.8579999999999925
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.253000000000001
+5.407999999999993
+Episode reward: 9.660999999999994
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.4300000000000002
+1.3509999999999993
+Episode reward: 1.7809999999999995
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.4359999999999973
+3.161999999999995
+Episode reward: 5.597999999999992
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+6.322999999999998
+8.946999999999985
+Episode reward: 15.269999999999982
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.312999999999996
+3.203999999999994
+Episode reward: 5.516999999999991
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+-0.17500000000000004
+1.0879999999999999
+Episode reward: 0.9129999999999998
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.603999999999987
+2.869999999999997
+Episode reward: 7.473999999999984
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0839999999999983
+3.3389999999999964
+Episode reward: 5.422999999999995
+Episode 30/200, Average Reward: 6.37, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.7830000000000006
+2.4899999999999958
+Episode reward: 3.272999999999996
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.9740000000000008
+1.2059999999999997
+Episode reward: 2.1800000000000006
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-0.20400000000000001
+1.2759999999999994
+Episode reward: 1.0719999999999994
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+5.954999999999997
+6.2099999999999955
+Episode reward: 12.164999999999992
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.606999999999995
+3.003999999999995
+Episode reward: 5.61099999999999
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+8.680999999999989
+10.430999999999992
+Episode reward: 19.11199999999998
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.3400000000000002
+0.7020000000000005
+Episode reward: 1.0420000000000007
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.8599999999999977
+2.0889999999999955
+Episode reward: 4.948999999999993
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.2719999999999962
+3.0939999999999968
+Episode reward: 6.3659999999999926
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.41400000000000026
+3.1099999999999945
+Episode reward: 3.5239999999999947
+Episode 40/200, Average Reward: 5.93, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.9869999999999963
+1.4229999999999998
+Episode reward: 3.409999999999996
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.501999999999998
+3.105999999999992
+Episode reward: 4.60799999999999
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.4439999999999973
+-0.41100000000000025
+Episode reward: 1.032999999999997
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.13399999999999998
+-1.0909999999999989
+Episode reward: -0.9569999999999989
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.8350000000000009
+-0.8310000000000006
+Episode reward: 1.0040000000000002
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.5279999999999976
+-0.21100000000000008
+Episode reward: 1.3169999999999975
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.6310000000000001
+0.8580000000000008
+Episode reward: 1.4890000000000008
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+4.546999999999996
+5.766000000000001
+Episode reward: 10.312999999999997
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.5030000000000003
+-0.3370000000000002
+Episode reward: 0.16600000000000015
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.1769999999999998
+0.3399999999999993
+Episode reward: 1.516999999999999
+Episode 50/200, Average Reward: 2.39, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.6530000000000004
+0.119
+Episode reward: 0.7720000000000004
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.4789999999999979
+-0.6550000000000005
+Episode reward: 0.8239999999999974
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.7749999999999964
+0.6629999999999997
+Episode reward: 3.437999999999996
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7430000000000003
+2.2639999999999993
+Episode reward: 4.007
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.29000000000000015
+0.5450000000000003
+Episode reward: 0.8350000000000004
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+-0.8420000000000006
+-0.6850000000000005
+Episode reward: -1.527000000000001
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.5629999999999955
+0.2390000000000001
+Episode reward: 1.8019999999999956
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.039999999999993
+0.09100000000000003
+Episode reward: 3.130999999999993
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.545999999999992
+3.062999999999994
+Episode reward: 5.608999999999986
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.5269999999999995
+-0.25400000000000017
+Episode reward: 1.2729999999999992
+Episode 60/200, Average Reward: 2.02, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.4439999999999977
+1.4180000000000001
+Episode reward: 2.861999999999998
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9589999999999972
+1.8190000000000004
+Episode reward: 3.777999999999998
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.313999999999997
+3.9829999999999965
+Episode reward: 8.296999999999993
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.5159999999999971
+-0.3500000000000002
+Episode reward: 1.1659999999999968
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+5.8839999999999995
+6.438000000000004
+Episode reward: 12.322000000000003
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.773999999999995
+2.5619999999999914
+Episode reward: 5.335999999999986
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+5.531999999999993
+7.060999999999972
+Episode reward: 12.592999999999964
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.8929999999999971
+1.113000000000001
+Episode reward: 3.0059999999999985
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.4160000000000003
+3.0589999999999944
+Episode reward: 3.4749999999999948
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.6379999999999977
+0.6770000000000005
+Episode reward: 2.314999999999998
+Episode 70/200, Average Reward: 5.51, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.0009999999999937
+3.143999999999996
+Episode reward: 6.14499999999999
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.815999999999999
+4.9369999999999905
+Episode reward: 9.75299999999999
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+8.357
+8.333999999999984
+Episode reward: 16.69099999999998
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.2579999999999996
+2.122000000000002
+Episode reward: 3.3800000000000017
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.9959999999999956
+3.5469999999999926
+Episode reward: 7.542999999999989
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+13.006999999999996
+14.218999999999992
+Episode reward: 27.22599999999999
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.063999999999999
+5.601999999999995
+Episode reward: 8.665999999999993
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7930000000000001
+1.8009999999999984
+Episode reward: 3.5939999999999985
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.3199999999999976
+1.4380000000000008
+Episode reward: 3.7579999999999982
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.522999999999998
+6.049999999999979
+Episode reward: 9.572999999999977
+Episode 80/200, Average Reward: 9.63, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.092999999999997
+4.120999999999994
+Episode reward: 7.2139999999999915
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.3659999999999988
+-0.128
+Episode reward: 1.2379999999999987
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.830999999999993
+2.9670000000000005
+Episode reward: 7.797999999999994
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-0.266
+2.7279999999999998
+Episode reward: 2.4619999999999997
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.3719999999999968
+1.4549999999999996
+Episode reward: 4.826999999999996
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.4260000000000003
+2.167999999999998
+Episode reward: 2.593999999999998
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.940999999999998
+0.3620000000000003
+Episode reward: 2.302999999999998
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.8470000000000084
+3.869
+Episode reward: 7.716000000000008
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+6.847999999999969
+4.329000000000003
+Episode reward: 11.176999999999971
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.7150000000000005
+-0.4690000000000003
+Episode reward: 0.24600000000000022
+Episode 90/200, Average Reward: 4.76, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.5489999999999977
+1.4160000000000028
+Episode reward: 3.9650000000000007
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.07200000000000006
+0.27400000000000013
+Episode reward: 0.3460000000000002
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+4.193
+3.8520000000000003
+Episode reward: 8.045
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9890000000000003
+0.8389999999999999
+Episode reward: 2.8280000000000003
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.8490000000000005
+0.8360000000000006
+Episode reward: 1.6850000000000012
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.632999999999999
+1.8520000000000005
+Episode reward: 4.484999999999999
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.03699999999999993
+2.5089999999999963
+Episode reward: 2.5459999999999963
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.4700000000000003
+0.7990000000000006
+Episode reward: 1.269000000000001
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.967000000000009
+4.961999999999992
+Episode reward: 8.929
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.5869999999999935
+1.7539999999999996
+Episode reward: 5.340999999999993
+Episode 100/200, Average Reward: 3.94, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.635000000000001
+0.564
+Episode reward: 2.1990000000000007
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.131
+-0.0009999999999998448
+Episode reward: 1.1300000000000001
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-0.35800000000000015
+-0.33700000000000013
+Episode reward: -0.6950000000000003
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-0.4220000000000003
+1.3760000000000001
+Episode reward: 0.9539999999999997
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.0330000000000046
+-0.6270000000000006
+Episode reward: 0.406000000000004
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.481000000000001
+5.118999999999999
+Episode reward: 8.6
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.1580000000000004
+1.4969999999999988
+Episode reward: 2.6549999999999994
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.2809999999999953
+1.1719999999999995
+Episode reward: 3.452999999999995
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.396999999999997
+0.7440000000000002
+Episode reward: 3.1409999999999973
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-1.0070000000000008
+-0.7880000000000005
+Episode reward: -1.7950000000000013
+Episode 110/200, Average Reward: 2.00, Win Rate: 0.10
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.7530000000000017
+4.416999999999989
+Episode reward: 6.169999999999991
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0509999999999957
+1.701999999999999
+Episode reward: 3.752999999999995
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.1609999999999983
+2.6899999999999977
+Episode reward: 4.8509999999999955
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.635999999999996
+1.6239999999999981
+Episode reward: 3.259999999999994
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.347000000000001
+3.6219999999999954
+Episode reward: 4.968999999999997
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.3099999999999947
+0.9790000000000008
+Episode reward: 3.2889999999999953
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.744999999999998
+0.8920000000000006
+Episode reward: 2.6369999999999987
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.058999999999992
+1.5690000000000004
+Episode reward: 5.627999999999993
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.9229999999999974
+4.609999999999991
+Episode reward: 8.532999999999989
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.612000000000001
+2.363999999999998
+Episode reward: 3.975999999999999
+Episode 120/200, Average Reward: 4.71, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+10.010999999999969
+9.638999999999964
+Episode reward: 19.649999999999935
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.9040000000000015
+-0.15800000000000008
+Episode reward: 1.7460000000000013
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.0050000000000003
+1.971000000000001
+Episode reward: 2.9760000000000013
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.036999999999995
+2.6739999999999924
+Episode reward: 5.710999999999988
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.165999999999995
+0.9800000000000008
+Episode reward: 4.1459999999999955
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.103
+0.6270000000000004
+Episode reward: 1.7300000000000004
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.9609999999999967
+2.585000000000001
+Episode reward: 5.545999999999998
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.0319999999999934
+0.2920000000000002
+Episode reward: 2.3239999999999936
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.1389999999999991
+0.25300000000000017
+Episode reward: 1.3919999999999992
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+5.931999999999991
+7.0219999999999745
+Episode reward: 12.953999999999965
+Episode 130/200, Average Reward: 5.82, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.394999999999996
+0.8450000000000008
+Episode reward: 3.2399999999999967
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.25000000000000017
+0.036000000000000094
+Episode reward: 0.28600000000000025
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.3490000000000002
+1.2290000000000005
+Episode reward: 1.5780000000000007
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.531000000000003
+1.137
+Episode reward: 2.668000000000003
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+4.661000000000002
+2.5429999999999953
+Episode reward: 7.203999999999997
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.0899999999999996
+0.029
+Episode reward: 1.1189999999999996
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+5.428999999999997
+5.6589999999999865
+Episode reward: 11.087999999999983
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.6070000000000004
+-0.29100000000000015
+Episode reward: 0.3160000000000003
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.464999999999993
+3.6889999999999907
+Episode reward: 7.153999999999984
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.917999999999996
+2.4419999999999966
+Episode reward: 5.359999999999992
+Episode 140/200, Average Reward: 4.00, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+5.2079999999999815
+2.894000000000004
+Episode reward: 8.101999999999986
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.1380000000000001
+-0.2650000000000001
+Episode reward: 0.873
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.573999999999986
+2.087999999999999
+Episode reward: 6.661999999999985
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+6.187999999999995
+3.9300000000000006
+Episode reward: 10.117999999999995
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.4520000000000004
+4.928999999999999
+Episode reward: 7.381
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+6.194999999999997
+7.452999999999984
+Episode reward: 13.647999999999982
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.3319999999999945
+3.8689999999999998
+Episode reward: 7.200999999999994
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.381999999999991
+0.5109999999999996
+Episode reward: 3.8929999999999905
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.06400000000000011
+-0.5800000000000004
+Episode reward: -0.5160000000000002
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.0059999999999976
+5.0409999999999915
+Episode reward: 8.04699999999999
+Episode 150/200, Average Reward: 6.54, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+5.187999999999981
+2.5100000000000082
+Episode reward: 7.69799999999999
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.459999999999995
+2.6560000000000006
+Episode reward: 7.115999999999995
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.0259999999999896
+1.7120000000000046
+Episode reward: 4.737999999999994
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+6.076999999999989
+5.414999999999992
+Episode reward: 11.491999999999981
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.0320000000000054
+2.034999999999997
+Episode reward: 4.067000000000002
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+7.816999999999994
+5.415000000000008
+Episode reward: 13.232000000000003
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.435999999999999
+-0.025999999999999995
+Episode reward: 1.409999999999999
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+5.727999999999984
+7.196999999999976
+Episode reward: 12.92499999999996
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+8.673999999999959
+7.821
+Episode reward: 16.49499999999996
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+7.570999999999996
+7.895999999999994
+Episode reward: 15.46699999999999
+Episode 160/200, Average Reward: 9.46, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.023999999999999973
+-0.3320000000000002
+Episode reward: -0.3080000000000002
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.447999999999994
+0.9789999999999985
+Episode reward: 3.4269999999999925
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+6.655999999999981
+4.453000000000009
+Episode reward: 11.108999999999991
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.9929999999999977
+2.6259999999999994
+Episode reward: 6.618999999999997
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+-0.42900000000000016
+0.062000000000000145
+Episode reward: -0.367
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+5.716000000000023
+5.335000000000011
+Episode reward: 11.051000000000034
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+9.206999999999942
+7.409000000000024
+Episode reward: 16.615999999999964
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+8.655999999999988
+11.23799999999998
+Episode reward: 19.89399999999997
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+12.234999999999928
+9.703000000000038
+Episode reward: 21.937999999999967
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.123999999999993
+2.100000000000003
+Episode reward: 5.223999999999997
+Episode 170/200, Average Reward: 9.52, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+10.290999999999979
+9.80499999999998
+Episode reward: 20.09599999999996
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.7330000000000005
+4.669999999999979
+Episode reward: 7.402999999999979
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+4.560000000000009
+5.0840000000000005
+Episode reward: 9.644000000000009
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+5.034999999999999
+5.495999999999997
+Episode reward: 10.530999999999995
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+9.594999999999928
+12.480999999999995
+Episode reward: 22.075999999999922
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+5.75500000000001
+6.559999999999996
+Episode reward: 12.315000000000005
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+0.7150000000000005
+0.6100000000000004
+Episode reward: 1.325000000000001
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+2.041999999999998
+1.5840000000000007
+Episode reward: 3.6259999999999986
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+5.979000000000013
+7.85999999999999
+Episode reward: 13.839000000000002
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+6.813999999999991
+5.000000000000001
+Episode reward: 11.813999999999993
+Episode 180/200, Average Reward: 11.27, Win Rate: 0.00
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+6.268000000000014
+8.113000000000001
+Episode reward: 14.381000000000014
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+12.520999999999976
+14.43499999999998
+Episode reward: 26.955999999999953
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.4479999999999977
+0.9850000000000008
+Episode reward: 2.4329999999999985
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.33299999999999974
+-0.2870000000000007
+Episode reward: 0.04599999999999904
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+4.415
+2.1089999999999955
+Episode reward: 6.523999999999996
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+0.45200000000000007
+0.934
+Episode reward: 1.3860000000000001
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+-0.7400000000000005
+-1.1159999999999997
+Episode reward: -1.8560000000000003
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.1260000000000001
+0.34200000000000025
+Episode reward: 1.4680000000000004
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+3.5420000000000007
+4.939999999999987
+Episode reward: 8.481999999999989
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+4.708000000000007
+6.2199999999999855
+Episode reward: 10.927999999999994
+Episode 190/200, Average Reward: 7.07, Win Rate: 0.10
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+3.899999999999997
+5.072999999999993
+Episode reward: 8.97299999999999
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.4279999999999993
+1.307
+Episode reward: 2.7349999999999994
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+5.486000000000004
+8.263999999999994
+Episode reward: 13.749999999999998
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+4.6589999999999945
+4.014000000000001
+Episode reward: 8.672999999999995
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.3690000000000007
+5.666999999999987
+Episode reward: 8.035999999999987
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+6.214999999999967
+3.272999999999999
+Episode reward: 9.487999999999966
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+4.5680000000000085
+4.591000000000003
+Episode reward: 9.159000000000011
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+5.194000000000005
+2.8959999999999986
+Episode reward: 8.090000000000003
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+2.0489999999999946
+0.9280000000000007
+Episode reward: 2.9769999999999954
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.1789999999999996
+0.7630000000000005
+Episode reward: 1.9420000000000002
+Episode 200/200, Average Reward: 7.38, Win Rate: 0.00
+Training completed.
