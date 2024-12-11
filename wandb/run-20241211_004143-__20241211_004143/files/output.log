@@ -1,0 +1,34 @@
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+/tmp/ipykernel_65687/3622664894.py:54: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(obs_agent, dtype=torch.float32).to(device)
+1.1300000000000008
+1.1300000000000008
+Episode reward: 2.2600000000000016
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Blue team starts
+1.0300000000000007
+1.0300000000000007
+Episode reward: 2.0600000000000014
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.2100000000000006
+1.2100000000000006
+Episode reward: 2.4200000000000013
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
+1.0100000000000007
+1.0100000000000007
+Episode reward: 2.0200000000000014
+enemy: randomTeam.py
+Loading Team: /home/seppe/RL/RL_MARL_QMIX//agents/randomTeam.py
+Arguments: {}
+Red team starts
