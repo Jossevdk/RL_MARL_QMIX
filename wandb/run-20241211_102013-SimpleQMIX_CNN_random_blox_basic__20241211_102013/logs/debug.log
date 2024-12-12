@@ -44,3 +44,13 @@ config: {}
 2024-12-11 15:31:40,492 INFO    MainThread:31080 [wandb_run.py:_redirect():2358] Wrapping output streams.
 2024-12-11 15:31:40,492 INFO    MainThread:31080 [wandb_run.py:_redirect():2383] Redirects installed.
 2024-12-11 15:31:40,492 INFO    MainThread:31080 [wandb_init.py:init():925] run started, returning control to user process
+2024-12-11 17:04:05,603 INFO    MainThread:31080 [wandb_run.py:_finish():2169] finishing run RL_PacMan/PacManCapture/SimpleQMIX_CNN_baseline_blox_basic__20241211_153139
+2024-12-11 17:04:05,605 INFO    MainThread:31080 [jupyter.py:save_history():459] not saving jupyter history
+2024-12-11 17:04:05,606 INFO    MainThread:31080 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-12-11 17:04:05,606 INFO    MainThread:31080 [wandb_init.py:_jupyter_teardown():456] cleaning up jupyter logic
+2024-12-11 17:04:05,606 INFO    MainThread:31080 [wandb_run.py:_atexit_cleanup():2408] got exitcode: 0
+2024-12-11 17:04:05,606 INFO    MainThread:31080 [wandb_run.py:_restore():2390] restore
+2024-12-11 17:04:05,607 INFO    MainThread:31080 [wandb_run.py:_restore():2396] restore done
+2024-12-11 17:04:08,413 INFO    MainThread:31080 [wandb_run.py:_footer_history_summary_info():3951] rendering history
+2024-12-11 17:04:08,414 INFO    MainThread:31080 [wandb_run.py:_footer_history_summary_info():3983] rendering summary
+2024-12-11 17:04:08,436 INFO    MainThread:31080 [wandb_run.py:_footer_sync_info():3912] logging synced files
