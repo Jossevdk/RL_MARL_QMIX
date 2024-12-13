@@ -245,31 +245,31 @@ class gymPacMan_parallel_env:
 
 
         # --- game_state_reward ---
-        if agentIndex in [0, 2]:
-            if np.array(self.game.state.getRedFood().data).sum() < np.array(next_state.getRedFood().data).sum():
-                reward += 1  
-            if np.array(self.game.state.getBlueFood().data).sum() > np.array(next_state.getBlueFood().data).sum():
-                reward += 0.1  
-        else:  
-            if np.array(self.game.state.getBlueFood().data).sum() < np.array(next_state.getBlueFood().data).sum():
-                reward += 1  
-            if np.array(self.game.state.getRedFood().data).sum() > np.array(next_state.getRedFood().data).sum():
-                reward += 0.1 
+        # if agentIndex in [0, 2]:
+        #     if np.array(self.game.state.getRedFood().data).sum() < np.array(next_state.getRedFood().data).sum():
+        #         reward += 1  
+        #     if np.array(self.game.state.getBlueFood().data).sum() > np.array(next_state.getBlueFood().data).sum():
+        #         reward += 0.1  
+        # else:  
+        #     if np.array(self.game.state.getBlueFood().data).sum() < np.array(next_state.getBlueFood().data).sum():
+        #         reward += 1  
+        #     if np.array(self.game.state.getRedFood().data).sum() > np.array(next_state.getRedFood().data).sum():
+        #         reward += 0.1 
 
         # --- Capture Reward ---
-        if self.defenceReward:
-            if agentIndex in [0, 2]:
-                for blue_team_index in [1, 3]:
-                    if (self.game.state.data.agentStates[blue_team_index].isPacman and
-                            not next_state.data.agentStates[blue_team_index].isPacman):
-                        if next_state.data.agentStates[blue_team_index].configuration.pos == next_state.data.agentStates[blue_team_index].start.pos:
-                            reward += 0.5
-            else: 
-                for red_team_index in [0, 2]:
-                    if (self.game.state.data.agentStates[red_team_index].isPacman and
-                            not next_state.data.agentStates[red_team_index].isPacman):
-                        if next_state.data.agentStates[red_team_index].configuration.pos == next_state.data.agentStates[red_team_index].start.pos:
-                            reward += 0.5
+        # if self.defenceReward:
+        #     if agentIndex in [0, 2]:
+        #         for blue_team_index in [1, 3]:
+        #             if (self.game.state.data.agentStates[blue_team_index].isPacman and
+        #                     not next_state.data.agentStates[blue_team_index].isPacman):
+        #                 if next_state.data.agentStates[blue_team_index].configuration.pos == next_state.data.agentStates[blue_team_index].start.pos:
+        #                     reward += 0.75
+        #     else: 
+        #         for red_team_index in [0, 2]:
+        #             if (self.game.state.data.agentStates[red_team_index].isPacman and
+        #                     not next_state.data.agentStates[red_team_index].isPacman):
+        #                 if next_state.data.agentStates[red_team_index].configuration.pos == next_state.data.agentStates[red_team_index].start.pos:
+        #                     reward += 0.75
 
         return reward
 
